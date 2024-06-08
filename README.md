@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ez-zouek Hamza</h1>
-<h3 align="center">I'm a full-stack developer from Morocco 👨‍💻👨‍💻</h3>
-<img align="right" alt="Coding" width="400" style="border-radius: 20px;" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.png">
+<h3 align="center">A Full Stack developer passionate about Morocco.</h3>
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif">
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=hamzazawak17&label=Profile%20views&color=0e75b6&style=flat" alt="hamzazawak17" />
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zawa9hamza&label=Profile%20views&color=0e75b6&style=flat" alt="hamzazawak17" /> </p>
+
 
 <p align="left">
   <a href="https://twitter.com/hamza_ezzouek" target="_blank">
