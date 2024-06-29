@@ -1,108 +1,27 @@
-<h1 align="center">Hi 👋, I'm Ez-zouek Hamza</h1>
-<h3 align="center">A Full Stack developer passionate about Morocco.</h3>
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif">
+### Hi there 👋, my name is Hamza
+#### I'm a Full Stack developer from Morocco
+![I'm a Full Stack developer from Morocco](https://pbs.twimg.com/profile_banners/1604198589940604936/1719657834/1080x360)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zawa9hamza&label=Profile%20views&color=0e75b6&style=flat" alt="hamzazawak17" /> </p>
+My name is Ez-zouek Hamza, but you can call me Zawak. I'm from Morocco and I'm a full-stack developer, but I prefer to be a front-end developer. I've created many projects that I will share with you on this GitHub account. Follow me!
+
+Skills: HTML / CSS / JAVASCRIPT / REACTJS / BOOTSRAP / TAILWINDCSS
+
+- 🔭 I’m currently working on many projects. 
+- 🌱 I’m currently learning Flutter 
+- 💬 Ask me about everything. 
+- 📫 How to reach me: ezzouekhamza2411@gmail.com 
+- ⚡ Fun fact: c# is the easiest programming language 
 
 
-<p align="left">
-  <a href="https://twitter.com/hamza_ezzouek" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/hamza_ezzouek?logo=twitter&style=for-the-badge" alt="hamza ezzouek" />
-  </a>
-</p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/HAMZAZAWAK17)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hamza ezzouek/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/zawa9_17/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/hamza ezzouek)  
 
-- 🔭 I’m currently working on **several projects.**
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-- 🌱 I’m currently learning **MERN STACK**
+[![trophy](https://github-profile-trophy.vercel.app/?username=HAMZAZAWAK17)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 💬 Ask me about **Everything**
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HAMZAZAWAK17)](https://github.com/anuraghazra/github-readme-stats)
 
-- 📫 How to reach me **ezzouekhamza2411@gmail.com**
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=HAMZAZAWAK17&show_icons=true&count_private=true)  
 
-- ⚡ Fun fact **C# is the most straightforward programming language**
+![GitHub streak stats](https://streak-stats.demolab.com/?user=HAMZAZAWAK17)  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/hamza_ezzouek" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hamza ezzouek" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/hamza-ezzouek" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hamza ezzouek" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/zawa9.17" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zawa9.17" height="30" width="40" />
-  </a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" />
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" />
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
-  </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
-  </a>
-</p>
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamzazawak17&show_icons=true&locale=en&layout=compact" alt="hamzazawak17" />
-</p>
-
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hamzazawak17&show_icons=true&locale=en" alt="hamzazawak17" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamzazawak17" alt="hamzazawak17" />
-</p>
