@@ -9,9 +9,9 @@
 ```javascript
 const zawak = {
   location: "Morocco 🇲🦁",
-  role: "Full Stack Developer",
+  role: "Software engineering student 👨‍💻✅",
   passions: ["Frontend Development", "UI/UX Design", "Open Source"],
-  currentlyLearning: "Flutter 📱",
+  currentlyLearning: "Java",
   funFact: "Pourquoi les développeurs préfèrent le dark mode? Parce que les bugs sont comme les cafards - ils se cachent dans l'obscurité! 🪲"
 };
 ```
@@ -35,7 +35,7 @@ const zawak = {
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HAMZAZAWAK17&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
- <img src="https://streak-stats.demolab.com?user=HAMZAZAWAK17&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak"/>
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HAMZAZAWAK17&theme=tokyonight)](https://git.io/streak-stats)
 </div>
 
 ### 🌟 Projets en cours
