@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E96F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Frontend+Enthusiast;Always+Learning" alt="Typing SVG" />
 </div>
 
-### 🧑‍💻 À propos de moi
+### 🧑‍💻 À propos de moi 🧑‍💻
 
 ```javascript
 const zawak = {
@@ -35,7 +35,6 @@ const zawak = {
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HAMZAZAWAK17&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-<img src="https://streak-stats.demolab.com?user=HAMZAZAWAK17&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
 ### 🌟 Projets en cours
