@@ -1,50 +1,61 @@
-### Hi there 👋, my name is Hamza
-#### I'm a Full Stack Developer from Morocco
-![I'm a Full Stack developer from Morocco](https://pbs.twimg.com/profile_banners/1604198589940604936/1719657834/1080x360)
+# <h1 align="center">👨‍💻 Salut, je suis Hamza! (aka Zawak) 🚀</h1>
 
-My name is Ez-zouek Hamza, but you can call me Zawak. I'm from Morocco and I'm a full-stack developer, but I prefer to be a front-end developer. I've created many projects that I will share with you on this GitHub account. Follow me!
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E96F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Frontend+Enthusiast;Always+Learning" alt="Typing SVG" />
+</div>
 
-### Skills:
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
- 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>
- 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-</p>
+### 🧑‍💻 À propos de moi
 
-- 🔭 I’m currently working on many projects. 
-- 🌱 I’m currently learning Flutter 
-- 💬 Ask me about everything. 
-- 📫 How to reach me: ezzouekhamza2411@gmail.com 
-- ⚡ Fun fact: C# is the easiest programming language 
+```javascript
+const zawak = {
+  location: "Morocco 🇲🦁",
+  role: "Full Stack Developer",
+  passions: ["Frontend Development", "UI/UX Design", "Open Source"],
+  currentlyLearning: "Flutter 📱",
+  funFact: "Pourquoi les développeurs préfèrent le dark mode? Parce que les bugs sont comme les cafards - ils se cachent dans l'obscurité! 🪲"
+};
+```
 
-### Connect with me:
-<p align="left">
-  <a href="https://github.com/HAMZAZAWAK17" target="_blank">
-    <img src="https://img.icons8.com/ios-glyphs/30/ffffff/github.png" alt="GitHub" height="30" width="30"/>
-  </a>
-  <a href="https://www.linkedin.com/in/hamza-ezzouek/" target="_blank">
-    <img src="https://img.icons8.com/ios-glyphs/30/ffffff/linkedin.png" alt="LinkedIn" height="30" width="30"/>
-  </a>
-  <a href="https://www.instagram.com/zawa9_17/" target="_blank">
-    <img src="https://img.icons8.com/ios-glyphs/30/ffffff/instagram-new.png" alt="Instagram" height="30" width="30"/>
-  </a>
-  <a href="https://twitter.com/hamzaezzouek" target="_blank">
-    <img src="https://img.icons8.com/ios-glyphs/30/ffffff/twitter.png" alt="Twitter" height="30" width="30"/>
-  </a>
-</p>
+### 🛠️ Tech Stack
 
+<div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HAMZAZAWAK17)](https://github.com/anuraghazra/github-readme-stats)
+| Frontend | Backend | Database | Tools |
+|----------|---------|-----------|--------|
+| ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) |
+| ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) | ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white) | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) | ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) |
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white) | | ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) |
+| ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) | ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) | | |
+| ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white) | | | |
+| ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) | | | |
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=HAMZAZAWAK17&show_icons=true)
+</div>
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=HAMZAZAWAK17)
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HAMZAZAWAK17&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HAMZAZAWAK17&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+### 🌟 Projets en cours
+- 🔭 Développement de plusieurs projets web innovants
+- 🌱 Apprentissage de Flutter pour le développement mobile
+- 👯 Ouvert aux collaborations sur des projets intéressants
+
+### 📫 Me contacter
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ezzouekhamza2411@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-ezzouek/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HAMZAZAWAK17)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zawa9_17/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hamzaezzouek)
+
+</div>
+
+---
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=HAMZAZAWAK17&color=blue&style=flat-square" alt="Profile views" />
+</div>
