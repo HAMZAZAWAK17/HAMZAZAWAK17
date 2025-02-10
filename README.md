@@ -35,7 +35,7 @@ const zawak = {
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HAMZAZAWAK17&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=HAMZAZAWAK17&theme=tokyonight" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=HAMZAZAWAK17&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
 ### 🌟 Projets en cours
