@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ez-zouek%20Hamza%20(Zawak)&fontSize=40&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Software%20Engineering%20Student&descAlignY=55&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ez-zouek%20Hamza%20(Zawak)&fontSize=40&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Software%20Engineering%20Student&descAlignY=55&animation=fadeIn" width="100%" alt="Header Banner" />
 </div>
 
 <div align="center">
@@ -77,7 +77,7 @@ const zawak = {
 
 <br>
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activité
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HAMZAZAWAK17&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="49%" alt="GitHub Stats" />
@@ -93,8 +93,18 @@ const zawak = {
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HAMZAZAWAK17&theme=tokyonight" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HAMZAZAWAK17&theme=tokyo-night&hide_border=true" width="100%" alt="Contribution Graph" />
 </div>
+
+<br>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/HAMZAZAWAK17/HAMZAZAWAK17/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
+</div>
+
+<br>
 
 ## 🌟 Projets en cours
 
@@ -102,14 +112,6 @@ const zawak = {
 - 🌱 Apprentissage de Flutter pour le développement d'applications mobiles cross-platform
 - 👯 Ouvert aux collaborations sur des projets open source et des défis techniques
 - 🚀 Contribution à des projets open source pour la communauté
-
-## 📈 Activité sur GitHub
-
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=HAMZAZAWAK17&theme=tokyo-night&hide_border=true" width="100%" alt="Contribution Graph" />
-</div>
-
-<br>
 
 ## 🏆 Badges de compétence
 
@@ -132,5 +134,5 @@ const zawak = {
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" alt="Footer" />
 </div>
