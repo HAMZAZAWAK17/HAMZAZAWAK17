@@ -98,32 +98,19 @@ const zawak = {
 
 <br>
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/HAMZAZAWAK17/HAMZAZAWAK17/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
-</div>
 
 <br>
 
 ## 🌟 Projets en cours
 
 - 🔭 Développement de plusieurs projets web innovants avec React et Node.js
-- 🌱 Apprentissage de Flutter pour le développement d'applications mobiles cross-platform
+- 🌱 Apprentissage de React native pour le développement d'applications mobiles cross-platform
 - 👯 Ouvert aux collaborations sur des projets open source et des défis techniques
 - 🚀 Contribution à des projets open source pour la communauté
 
-## 🏆 Badges de compétence
 
-<div align="center">
-  <img src="https://www.codewars.com/users/HAMZAZAWAK17/badges/large" alt="Codewars Badge" />
-</div>
 
-<br>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=HAMZAZAWAK17&color=blue&style=flat-square&label=Profile+Views" alt="Profile views" />
-</div>
 
 <div align="center">
   
