@@ -16,12 +16,10 @@
   <a href="https://github.com/HAMZAZAWAK17">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.instagram.com/zawa9_17/">
+  <a href="https://www.instagram.com/zouakachev.1.7/#">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://twitter.com/hamzaezzouek">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
+  
 </div>
 
 <br>
@@ -35,7 +33,7 @@ const zawak = {
   location: "Morocco 🇲🦁",
   role: "Software Engineering Student 👨‍💻✅",
   passions: ["Frontend Development", "UI/UX Design", "Open Source"],
-  currentlyLearning: "Java & Flutter",
+  currentlyLearning: "Java & React native",
   funFact: "Pourquoi les développeurs préfèrent le dark mode? " +
            "Parce que les bugs sont comme les cafards - " +
            "ils se cachent dans l'obscurité! 🪲"
