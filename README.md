@@ -163,7 +163,7 @@ const zawak = {
 <div align="center">
   <h3>🎵 Coding Music Vibes 🎧</h3>
   
-  <img src="/chemin/vers/votre/music_animation.svg)" alt="Music Animation" />
+  <img src="./music_animation.svg" alt="Music Animation" width="650" />
   
   <table>
     <tr>
