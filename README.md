@@ -1,4 +1,6 @@
-# <h1 align="center">👨‍💻 Salut, je suis Ez-zouek Hamza! (Zawak) 🚀</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ez-zouek%20Hamza%20(Zawak)&fontSize=40&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Software%20Engineering%20Student&descAlignY=55&animation=fadeIn" width="100%" />
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=30&pause=1000&color=2E96F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Frontend+Enthusiast;Software+Engineering+Student;Open+Source+Contributor" alt="Typing SVG" />
