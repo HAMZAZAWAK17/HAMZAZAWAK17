@@ -163,7 +163,7 @@ const zawak = {
 <div align="center">
   <h3>🎵 Coding Music Vibes 🎧</h3>
   
-  <img src="/api/placeholder/650/180" alt="Music Animation" />
+  <img src="./music_animation.svg" alt="Music Animation" width="650" />
   
   <table>
     <tr>
@@ -174,7 +174,7 @@ const zawak = {
         <img src="https://img.shields.io/badge/Sound%20On-24%2F7-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white" alt="Sound On"/>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/Code%20Quality-∝%20Music%20Quality-6C5CE7?style=for-the-badge&logo=shazam&logoColor=white" alt="Code Quality"/>
+        <img src="https://img.shields.io/badge/Favorite%20Songs-I%20Adore%20You-6C5CE7?style=for-the-badge&logo=shazam&logoColor=white" alt="Favorite Songs"/>
       </td>
     </tr>
   </table>
