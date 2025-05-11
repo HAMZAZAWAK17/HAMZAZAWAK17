@@ -161,35 +161,27 @@ const zawak = {
 
 <!-- Music & Coding Section -->
 <div align="center">
-  <h3>🎵 Coding Vibes 🎧</h3>
+  <h3>🎵 Coding Music Vibes 🎧</h3>
+  
+  <img src="/api/placeholder/650/180" alt="Music Animation" />
   
   <table>
     <tr>
-      <td width="200px">
-        <img src="/api/placeholder/200/200" alt="Album Art" width="200px" height="200px"/>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
       </td>
-      <td>
-        <div align="left">
-          <h4>Ma musique pour coder</h4>
-          <ul>
-            <li>🎧 Lofi beats pour la concentration</li>
-            <li>🔥 Dance/EDM pour les sessions de code intensives</li>
-            <li>🎸 Rock pour les débogages complexes</li>
-            <li>🌙 Ambient pour les projets créatifs</li>
-          </ul>
-          <div>
-            <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
-            <img src="https://img.shields.io/badge/SoundCloud-FF3300?&style=for-the-badge&logo=soundcloud&logoColor=white" alt="SoundCloud"/>
-            <img src="https://img.shields.io/badge/YouTube_Music-FF0000?&style=for-the-badge&logo=youtube-music&logoColor=white" alt="YouTube Music"/>
-          </div>
-        </div>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Sound%20On-24%2F7-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white" alt="Sound On"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Code%20Quality-∝%20Music%20Quality-6C5CE7?style=for-the-badge&logo=shazam&logoColor=white" alt="Code Quality"/>
       </td>
     </tr>
   </table>
   
-  <div>
-    <img src="https://img.shields.io/badge/Code%20Quality-Proportional%20To%20Song%20Quality-1DB954?style=flat-square&logo=shazam&logoColor=white" alt="Code Quality"/>
-  </div>
+  <blockquote>
+    "La musique est pour l'âme ce que le code est pour l'ordinateur - un langage qui transcende les barrières"
+  </blockquote>
 </div>
 
 <br>
