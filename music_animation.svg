@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="650" height="180" viewBox="0 0 650 180" xmlns="http://www.w3.org/2000/svg">
+<svg width="650" height="200" viewBox="0 0 650 200" xmlns="http://www.w3.org/2000/svg">
   <!-- Background gradient -->
   <defs>
     <linearGradient id="bg-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
@@ -44,56 +44,59 @@
       .bar5 { animation: equalizer-bar5 1.8s ease-in-out infinite; }
       .pulse { animation: pulse 2s ease-in-out infinite; }
       .rotate { animation: rotate 8s linear infinite; }
+      .text { font-family: 'Arial', sans-serif; }
     </style>
   </defs>
   
   <!-- Card background -->
-  <rect x="10" y="10" width="630" height="160" rx="15" ry="15" fill="url(#bg-gradient)" />
+  <rect x="10" y="10" width="630" height="180" rx="15" ry="15" fill="url(#bg-gradient)" />
   
   <!-- Album art with animation -->
   <g class="pulse">
-    <rect x="30" y="30" width="120" height="120" rx="10" fill="#333" />
-    <circle cx="90" cy="90" r="35" fill="#1DB954" />
+    <rect x="30" y="45" width="120" height="120" rx="10" fill="#333" />
+    <circle cx="90" cy="105" r="35" fill="#1DB954" />
     <g class="rotate">
-      <circle cx="90" cy="90" r="15" fill="#191414" />
-      <rect x="88" y="75" width="4" height="15" fill="white" />
+      <circle cx="90" cy="105" r="15" fill="#191414" />
+      <rect x="88" y="90" width="4" height="15" fill="white" />
     </g>
   </g>
   
   <!-- Text elements -->
-  <text x="180" y="60" font-family="Arial" font-size="24" font-weight="bold" fill="white">Coding Playlist</text>
-  <text x="180" y="90" font-family="Arial" font-size="18" fill="white" opacity="0.8">Zawak's Developer Mix</text>
+  <text x="180" y="60" class="text" font-size="24" font-weight="bold" fill="white">Coding Playlist</text>
+  <text x="180" y="90" class="text" font-size="18" fill="white" opacity="0.8">Zawak's Developer Mix</text>
+  
+  <!-- Favorite songs -->
+  <text x="180" y="125" class="text" font-size="14" fill="white" opacity="0.9">♥ "I Adore You"</text>
+  <text x="180" y="145" class="text" font-size="14" fill="white" opacity="0.9">♥ "Beautiful Now"</text>
+  <text x="180" y="165" class="text" font-size="14" fill="white" opacity="0.9">♥ "All I Want"</text>
   
   <!-- Music visualizer -->
-  <g transform="translate(180, 120)">
-    <rect class="bar1" x="0" y="0" width="15" height="15" rx="3" fill="white" transform="translate(0, -15)" />
-    <rect class="bar2" x="25" y="0" width="15" height="30" rx="3" fill="white" transform="translate(0, -30)" />
-    <rect class="bar3" x="50" y="0" width="15" height="20" rx="3" fill="white" transform="translate(0, -20)" />
-    <rect class="bar4" x="75" y="0" width="15" height="45" rx="3" fill="white" transform="translate(0, -45)" />
-    <rect class="bar5" x="100" y="0" width="15" height="25" rx="3" fill="white" transform="translate(0, -25)" />
-    <rect class="bar2" x="125" y="0" width="15" height="30" rx="3" fill="white" transform="translate(0, -30)" />
-    <rect class="bar4" x="150" y="0" width="15" height="45" rx="3" fill="white" transform="translate(0, -45)" />
-    <rect class="bar1" x="175" y="0" width="15" height="15" rx="3" fill="white" transform="translate(0, -15)" />
-    <rect class="bar3" x="200" y="0" width="15" height="20" rx="3" fill="white" transform="translate(0, -20)" />
-    <rect class="bar5" x="225" y="0" width="15" height="25" rx="3" fill="white" transform="translate(0, -25)" />
+  <g transform="translate(310, 140)">
+    <rect class="bar1" x="0" y="0" width="10" height="15" rx="3" fill="white" transform="translate(0, -15)" />
+    <rect class="bar2" x="20" y="0" width="10" height="30" rx="3" fill="white" transform="translate(0, -30)" />
+    <rect class="bar3" x="40" y="0" width="10" height="20" rx="3" fill="white" transform="translate(0, -20)" />
+    <rect class="bar4" x="60" y="0" width="10" height="45" rx="3" fill="white" transform="translate(0, -45)" />
+    <rect class="bar5" x="80" y="0" width="10" height="25" rx="3" fill="white" transform="translate(0, -25)" />
+    <rect class="bar2" x="100" y="0" width="10" height="30" rx="3" fill="white" transform="translate(0, -30)" />
+    <rect class="bar4" x="120" y="0" width="10" height="45" rx="3" fill="white" transform="translate(0, -45)" />
   </g>
   
   <!-- Music platforms -->
-  <g transform="translate(430, 45)">
-    <rect x="0" y="0" width="180" height="30" rx="15" fill="#1DB954" />
-    <text x="40" y="20" font-family="Arial" font-size="14" font-weight="bold" fill="white">Spotify</text>
-    <circle cx="20" cy="15" r="10" fill="white" />
+  <g transform="translate(450, 50)">
+    <rect x="0" y="0" width="160" height="30" rx="15" fill="#1DB954" />
+    <text x="55" y="20" class="text" font-size="14" font-weight="bold" fill="white">Spotify</text>
+    <circle cx="30" cy="15" r="10" fill="white" />
   </g>
   
-  <g transform="translate(430, 85)">
-    <rect x="0" y="0" width="180" height="30" rx="15" fill="#FF5500" />
-    <text x="40" y="20" font-family="Arial" font-size="14" font-weight="bold" fill="white">SoundCloud</text>
-    <circle cx="20" cy="15" r="10" fill="white" />
+  <g transform="translate(450, 90)">
+    <rect x="0" y="0" width="160" height="30" rx="15" fill="#FF5500" />
+    <text x="55" y="20" class="text" font-size="14" font-weight="bold" fill="white">SoundCloud</text>
+    <circle cx="30" cy="15" r="10" fill="white" />
   </g>
   
-  <g transform="translate(430, 125)">
-    <rect x="0" y="0" width="180" height="30" rx="15" fill="#FF0000" />
-    <text x="40" y="20" font-family="Arial" font-size="14" font-weight="bold" fill="white">YouTube Music</text>
-    <circle cx="20" cy="15" r="10" fill="white" />
+  <g transform="translate(450, 130)">
+    <rect x="0" y="0" width="160" height="30" rx="15" fill="#FF0000" />
+    <text x="55" y="20" class="text" font-size="14" font-weight="bold" fill="white">YouTube Music</text>
+    <circle cx="30" cy="15" r="10" fill="white" />
   </g>
 </svg>
