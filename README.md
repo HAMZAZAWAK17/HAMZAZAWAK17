@@ -51,104 +51,33 @@ const zawak = {
 
 <details open>
 <summary><h2>🛠️ Tech Stack</h2></summary>
-
 <div align="center">
-  <table>
-    <tr>
-      <td valign="top" width="50%">
-        <h3 align="center">🌐 Frontend</h3>
-        <div align="center">
-          <a href="#" title="HTML5">
-            <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-          </a>
-          <a href="#" title="CSS3">
-            <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-          </a>
-          <a href="#" title="JavaScript">
-            <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-          </a>
-          <br/>
-          <a href="#" title="React">
-            <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-          </a>
-          <a href="#" title="TailwindCSS">
-            <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS"/>
-          </a>
-          <a href="#" title="Bootstrap">
-            <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-          </a>
-        </div>
-      </td>
-      <td valign="top" width="50%">
-        <h3 align="center">⚙️ Backend</h3>
-        <div align="center">
-          <a href="#" title="Node.js">
-            <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-          </a>
-          <a href="#" title="Express">
-            <img src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
-          </a>
-          <br/>
-          <a href="#" title="PHP">
-            <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-          </a>
-          <a href="#" title="Laravel">
-            <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
-          </a>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td valign="top" width="50%">
-        <h3 align="center">🗄️ Base de données</h3>
-        <div align="center">
-          <a href="#" title="MongoDB">
-            <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-          </a>
-          <a href="#" title="MySQL">
-            <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-          </a>
-        </div>
-      </td>
-      <td valign="top" width="50%">
-        <h3 align="center">🔧 Outils & Environnements</h3>
-        <div align="center">
-          <a href="#" title="Git">
-            <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-          </a>
-          <a href="#" title="VS Code">
-            <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-          </a>
-          <br/>
-          <a href="#" title="Linux">
-            <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-          </a>
-          <a href="#" title="Docker">
-            <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-          </a>
-          <a href="#" title="Figma">
-            <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-          </a>
-        </div>
-      </td>
-    </tr>
-  </table>
 
-  <h3>📚 En cours d'apprentissage</h3>
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="48" height="48"/>
-        <h4>Java</h4>
-        <img src="https://progress-bar.dev/60?width=200&color=6C5CE7" alt="Java - 60%"/>
-      </td>
-      <td align="center" width="50%">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native" width="48" height="48"/>
-        <h4>React Native</h4>
-        <img src="https://progress-bar.dev/45?width=200&color=6C5CE7" alt="React Native - 45%"/>
-      </td>
-    </tr>
-  </table>
+### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+### 🗄️ Base de données
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🔧 Outils & Environnements
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 </div>
 </details>
 
@@ -233,6 +162,8 @@ const zawak = {
 <!-- Music & Coding Section -->
 <div align="center">
   <h3>🎵 Coding Music Vibes 🎧</h3>
+  
+  <img src="./music_animation.svg" alt="Music Animation" width="650" />
   
   <table>
     <tr>
