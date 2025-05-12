@@ -1,9 +1,92 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:3498db,100:8e44ad&height=280&section=header&text=Ez-zouek%20Hamza&fontColor=ffffff&fontSize=50&fontAlignY=30&desc=✨%20Full%20Stack%20Developer%20|%20Software%20Engineering%20Student%20✨&descSize=18&descAlignY=55&animation=twinkling" width="100%" alt="Header Banner" />
+<details open>
+<summary><h2 id="tech-stack">🛠️ Tech Stack</h2></summary>
+
+### 🌐 Frontend
+<p align="center">
+  <a href="#" title="HTML5">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" />
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Hot" width="20" style="margin-left: -15px; margin-bottom: 16px;">
+  </a>
+  &nbsp;&nbsp;
+  <a href="#" title="CSS3">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" />
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Hot" width="20" style="margin-left: -15px; margin-bottom: 16px;">
+  </a>
+  &nbsp;&nbsp;
+  <a href="#" title="JavaScript">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48"/>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Hot" width="20" style="margin-left: -15px; margin-bottom: 16px;">
+  </a>
+  &nbsp;&nbsp;
+  <a href="#" title="React">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="48" height="48"/>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Hot" width="20" style="margin-left: -15px; margin-bottom: 16px;">
+  </a>
+  &nbsp;&nbsp;
+  <a href="#" title="TailwindCSS">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="48" height="48"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="#" title="Bootstrap">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="48" height="48"/>
+  </a>
+</p>
+
+### ⚙️ Backend
+<p align="center">
+  <a href="#" title="Node.js">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48"/>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Hot" width="20" style="margin-left: -15px; margin-bottom: 16px;">
+  </a>
+  &nbsp;&nbsp;
+  <a href="#" title="Express.js">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="48" height="48"/>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Hot" width="20" style="margin-left: -15px; margin-bottom: 16px;">
+  </a>
+  &nbsp;&nbsp;
+  <a href="#" title="PHP">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="PHP" width="48" height="48"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="#" title="Laravel">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" width="48" height="48"/>
+  </a>
+</p>
+
+### 🗄️ Base de données
+<p align="center">
+  <a href="#" title="MongoDB">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48"/>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Hot" width="20" style="margin-left: -15px; margin-bottom: 16px;">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#" title="MySQL">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48"/>
+  </a>
+</p>
+
+### 🔧 Outils & Environnements
+<p align="center">
+  <a href="#" title="Git">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="48" height="48"/>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Hot" width="20" style="margin-left: -15px; margin-bottom: 16px;">
+  </a>
+  &nbsp;&nbsp;
+  <a href="#" title="Linux">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="48" height="48"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="#" title="VS Code">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="48" height="48"/>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Hot" width="20" style="margin-left: -15px; margin-bottom: 16px;">
+  </a>
+  &nbsp;&nbsp;
+  <a href="#<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3498db,100:8e44ad&height=280&section=header&text=Ez-zouek%20Hamza&fontColor=ffffff&fontSize=50&fontAlignY=30&desc=✨%20Full%20Stack%20Developer%20|%20Software%20Engineering%20Student%20✨&descSize=18&descAlignY=55&animation=fadeIn" width="100%" alt="Header Banner" />
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&pause=1000&color=6C5CE7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;UI%2FUX+Enthusiast;Software+Engineering+Student;Open+Source+Contributor;Creative+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=32&duration=3000&pause=1000&color=6C5CE7&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;UI%2FUX+Enthusiast;Software+Engineering+Student;Open+Source+Contributor;Creative+Problem+Solver" alt="Typing SVG" />
 </p>
 
 <div align="center">
@@ -23,9 +106,16 @@
 
 <br>
 
-<!-- Profile Views Counter -->
+<!-- Profile Views Counter with Animation-->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=HAMZAZAWAK17&style=for-the-badge&color=6C5CE7" alt="Profile Views" />
+  
+  <!-- SVG Animation - Code Wave -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
 </div>
 
 <br>
@@ -47,7 +137,15 @@ const zawak = {
 };
 ```
 
+<!-- Animated arrow pointing down -->
 <br clear="right">
+<div align="center">
+  <a href="#tech-stack">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down.png" alt="Arrow Down" width="65" />
+    <br>
+    <sub><i>Découvrir mes compétences</i></sub>
+  </a>
+</div>
 
 <details open>
 <summary><h2>🛠️ Tech Stack</h2></summary>
