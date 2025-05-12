@@ -88,9 +88,7 @@ const zawak = {
   <a href="https://github.com/HAMZAZAWAK17">
     <img src="https://github-stats-alpha.vercel.app/api?username=HAMZAZAWAK17&cc=22272e&tc=37BCF6&ic=fff&bc=0000" width="49%" alt="GitHub Stats" />
   </a>
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=HAMZAZAWAK17&theme=tokyonight&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=500" width="49%" alt="GitHub Streak" />
-  </a>
+  
 </div>
 
 <div align="center">
