@@ -1,92 +1,9 @@
-<details open>
-<summary><h2 id="tech-stack">🛠️ Tech Stack</h2></summary>
-
-### 🌐 Frontend
-<p align="center">
-  <a href="#" title="HTML5">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" />
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Hot" width="20" style="margin-left: -15px; margin-bottom: 16px;">
-  </a>
-  &nbsp;&nbsp;
-  <a href="#" title="CSS3">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" />
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Hot" width="20" style="margin-left: -15px; margin-bottom: 16px;">
-  </a>
-  &nbsp;&nbsp;
-  <a href="#" title="JavaScript">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48"/>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Hot" width="20" style="margin-left: -15px; margin-bottom: 16px;">
-  </a>
-  &nbsp;&nbsp;
-  <a href="#" title="React">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="48" height="48"/>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Hot" width="20" style="margin-left: -15px; margin-bottom: 16px;">
-  </a>
-  &nbsp;&nbsp;
-  <a href="#" title="TailwindCSS">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="48" height="48"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="#" title="Bootstrap">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="48" height="48"/>
-  </a>
-</p>
-
-### ⚙️ Backend
-<p align="center">
-  <a href="#" title="Node.js">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48"/>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Hot" width="20" style="margin-left: -15px; margin-bottom: 16px;">
-  </a>
-  &nbsp;&nbsp;
-  <a href="#" title="Express.js">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="48" height="48"/>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Hot" width="20" style="margin-left: -15px; margin-bottom: 16px;">
-  </a>
-  &nbsp;&nbsp;
-  <a href="#" title="PHP">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="PHP" width="48" height="48"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="#" title="Laravel">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" width="48" height="48"/>
-  </a>
-</p>
-
-### 🗄️ Base de données
-<p align="center">
-  <a href="#" title="MongoDB">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48"/>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Hot" width="20" style="margin-left: -15px; margin-bottom: 16px;">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#" title="MySQL">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48"/>
-  </a>
-</p>
-
-### 🔧 Outils & Environnements
-<p align="center">
-  <a href="#" title="Git">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="48" height="48"/>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Hot" width="20" style="margin-left: -15px; margin-bottom: 16px;">
-  </a>
-  &nbsp;&nbsp;
-  <a href="#" title="Linux">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="48" height="48"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="#" title="VS Code">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="48" height="48"/>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Hot" width="20" style="margin-left: -15px; margin-bottom: 16px;">
-  </a>
-  &nbsp;&nbsp;
-  <a href="#<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3498db,100:8e44ad&height=280&section=header&text=Ez-zouek%20Hamza&fontColor=ffffff&fontSize=50&fontAlignY=30&desc=✨%20Full%20Stack%20Developer%20|%20Software%20Engineering%20Student%20✨&descSize=18&descAlignY=55&animation=fadeIn" width="100%" alt="Header Banner" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:3498db,100:8e44ad&height=280&section=header&text=Ez-zouek%20Hamza&fontColor=ffffff&fontSize=50&fontAlignY=30&desc=✨%20Full%20Stack%20Developer%20|%20Software%20Engineering%20Student%20✨&descSize=18&descAlignY=55&animation=twinkling" width="100%" alt="Header Banner" />
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=32&duration=3000&pause=1000&color=6C5CE7&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;UI%2FUX+Enthusiast;Software+Engineering+Student;Open+Source+Contributor;Creative+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&pause=1000&color=6C5CE7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;UI%2FUX+Enthusiast;Software+Engineering+Student;Open+Source+Contributor;Creative+Problem+Solver" alt="Typing SVG" />
 </p>
 
 <div align="center">
@@ -106,16 +23,9 @@
 
 <br>
 
-<!-- Profile Views Counter with Animation-->
+<!-- Profile Views Counter -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=HAMZAZAWAK17&style=for-the-badge&color=6C5CE7" alt="Profile Views" />
-  
-  <!-- SVG Animation - Code Wave -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
 </div>
 
 <br>
@@ -137,68 +47,109 @@ const zawak = {
 };
 ```
 
-<!-- Animated arrow pointing down -->
 <br clear="right">
-<div align="center">
-  <a href="#tech-stack">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down.png" alt="Arrow Down" width="65" />
-    <br>
-    <sub><i>Découvrir mes compétences</i></sub>
-  </a>
-</div>
 
 <details open>
 <summary><h2>🛠️ Tech Stack</h2></summary>
 
-### 🌐 Frontend
-<p align="center">
-  <a href="#" title="HTML5"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48"/></a>
-  <a href="#" title="CSS3"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48"/></a>
-  <a href="#" title="JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48"/></a>
-  <a href="#" title="React"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="48" height="48"/></a>
-  <a href="#" title="TailwindCSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="48" height="48"/></a>
-  <a href="#" title="Bootstrap"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="48" height="48"/></a>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td valign="top" width="50%">
+        <h3 align="center">🌐 Frontend</h3>
+        <div align="center">
+          <a href="#" title="HTML5">
+            <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+          </a>
+          <a href="#" title="CSS3">
+            <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+          </a>
+          <a href="#" title="JavaScript">
+            <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+          </a>
+          <br/>
+          <a href="#" title="React">
+            <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+          </a>
+          <a href="#" title="TailwindCSS">
+            <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS"/>
+          </a>
+          <a href="#" title="Bootstrap">
+            <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+          </a>
+        </div>
+      </td>
+      <td valign="top" width="50%">
+        <h3 align="center">⚙️ Backend</h3>
+        <div align="center">
+          <a href="#" title="Node.js">
+            <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+          </a>
+          <a href="#" title="Express">
+            <img src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+          </a>
+          <br/>
+          <a href="#" title="PHP">
+            <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+          </a>
+          <a href="#" title="Laravel">
+            <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+          </a>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" width="50%">
+        <h3 align="center">🗄️ Base de données</h3>
+        <div align="center">
+          <a href="#" title="MongoDB">
+            <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+          </a>
+          <a href="#" title="MySQL">
+            <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+          </a>
+        </div>
+      </td>
+      <td valign="top" width="50%">
+        <h3 align="center">🔧 Outils & Environnements</h3>
+        <div align="center">
+          <a href="#" title="Git">
+            <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+          </a>
+          <a href="#" title="VS Code">
+            <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+          </a>
+          <br/>
+          <a href="#" title="Linux">
+            <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+          </a>
+          <a href="#" title="Docker">
+            <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+          </a>
+          <a href="#" title="Figma">
+            <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+          </a>
+        </div>
+      </td>
+    </tr>
+  </table>
 
-### ⚙️ Backend
-<p align="center">
-  <a href="#" title="Node.js"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48"/></a>
-  <a href="#" title="Express.js"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="48" height="48"/></a>
-  <a href="#" title="PHP"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="PHP" width="48" height="48"/></a>
-  <a href="#" title="Laravel"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" width="48" height="48"/></a>
-</p>
-
-### 🗄️ Base de données
-<p align="center">
-  <a href="#" title="MongoDB"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48"/></a>
-  <a href="#" title="MySQL"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48"/></a>
-</p>
-
-### 🔧 Outils & Environnements
-<p align="center">
-  <a href="#" title="Git"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="48" height="48"/></a>
-  <a href="#" title="Linux"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="48" height="48"/></a>
-  <a href="#" title="VS Code"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="48" height="48"/></a>
-  <a href="#" title="Figma"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="48" height="48"/></a>
-  <a href="#" title="Docker"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="48" height="48"/></a>
-</p>
-
-### 📚 En cours d'apprentissage
-<p align="center">
-  <a href="#" title="Java">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="48" height="48"/>
-    <br/>Java
-    <br/>
-    <img src="https://progress-bar.dev/60" alt="60%">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#" title="React Native">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native" width="48" height="48"/>
-    <br/>React Native
-    <br/>
-    <img src="https://progress-bar.dev/45" alt="45%">
-  </a>
-</p>
+  <h3>📚 En cours d'apprentissage</h3>
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="48" height="48"/>
+        <h4>Java</h4>
+        <img src="https://progress-bar.dev/60?width=200&color=6C5CE7" alt="Java - 60%"/>
+      </td>
+      <td align="center" width="50%">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native" width="48" height="48"/>
+        <h4>React Native</h4>
+        <img src="https://progress-bar.dev/45?width=200&color=6C5CE7" alt="React Native - 45%"/>
+      </td>
+    </tr>
+  </table>
+</div>
 </details>
 
 <details open>
