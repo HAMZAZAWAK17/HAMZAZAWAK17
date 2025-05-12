@@ -58,158 +58,130 @@ const zawak = {
   </h2>
 </summary>
 
-<div align="center">
-  <!-- Tech Hexagon Grid with Custom CSS -->
-  <div style="margin-top: 20px;">
-    <!-- Frontend Section with Unique Hexagon Style -->
-    <h3>
-      <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="25" /> 
-      Frontend
-    </h3>
-    
-    <div class="tech-hex-grid">
-      <a href="#" title="HTML5"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&style=plastic" width="90" /></a>
-      <a href="#" title="CSS3"><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white&style=plastic" width="80" /></a>
-      <a href="#" title="JavaScript"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&style=plastic" width="110" /></a>
-      <a href="#" title="React"><img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black&style=plastic" width="90" /></a>
-      <a href="#" title="TailwindCSS"><img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white&style=plastic" width="120" /></a>
-      <a href="#" title="Bootstrap"><img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white&style=plastic" width="110" /></a>
-    </div>
-    
-    <!-- Backend Section with 3D Animation Style -->
-    <h3>
-      <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="25" /> 
-      Backend
-    </h3>
-    
-    <div class="tech-rotating-cards">
-      <a href="#" title="Node.js">
-        <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-      </a>
-      <a href="#" title="Express.js">
-        <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-      </a>
-      <a href="#" title="PHP">
-        <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-      </a>
-      <a href="#" title="Laravel">
-        <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-      </a>
-    </div>
-    
-    <!-- Database Section with Pulse Animation -->
-    <h3>
-      <img src="https://media.giphy.com/media/tAjb5pyCEBhEb8jWxC/giphy.gif" width="25" /> 
-      Base de données
-    </h3>
-    
-    <div class="tech-pulse-grid">
-      <a href="#" title="MongoDB">
-        <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-      </a>
-      <a href="#" title="MySQL">
-        <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-      </a>
-      <a href="#" title="Firebase">
-        <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-      </a>
-    </div>
-    
-    <!-- Tools Section with Floating Effect -->
-    <h3>
-      <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="25" /> 
-      Outils & Environnements
-    </h3>
-    
-    <div class="tech-floating-grid">
-      <a href="#" title="Git">
-        <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-      </a>
-      <a href="#" title="Linux">
-        <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-      </a>
-      <a href="#" title="VS Code">
-        <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-      </a>
-      <a href="#" title="Figma">
-        <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-      </a>
-      <a href="#" title="Docker">
-        <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-      </a>
-    </div>
-  </div>
-  
-  <!-- Adding Custom Animation Style -->
-  <style>
-    /* Hexagon Grid Animation */
-    .tech-hex-grid a {
-      display: inline-block;
-      margin: 8px;
-      transition: all 0.3s ease;
-      clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
-      padding: 6px;
-    }
-    
-    .tech-hex-grid a:hover {
-      transform: translateY(-5px) rotate(10deg);
-      box-shadow: 0 10px 20px rgba(0,0,0,0.3);
-    }
-    
-    /* Rotating Cards Animation */
-    .tech-rotating-cards a {
-      display: inline-block;
-      margin: 10px;
-      transition: all 0.5s ease;
-      position: relative;
-      overflow: hidden;
-    }
-    
-    .tech-rotating-cards a:hover {
-      transform: perspective(500px) rotateY(15deg);
-      box-shadow: -10px 10px 20px rgba(0,0,0,0.3);
-    }
-    
-    /* Pulse Grid Animation */
-    .tech-pulse-grid a {
-      display: inline-block;
-      margin: 8px;
-      transition: all 0.5s ease;
-      position: relative;
-    }
-    
-    .tech-pulse-grid a:hover {
-      transform: scale(1.1);
-      animation: pulse 1.5s infinite;
-    }
-    
-    @keyframes pulse {
-      0% { box-shadow: 0 0 0 0 rgba(255,255,255,0.7); }
-      70% { box-shadow: 0 0 0 10px rgba(255,255,255,0); }
-      100% { box-shadow: 0 0 0 0 rgba(255,255,255,0); }
-    }
-    
-    /* Floating Grid Animation */
-    .tech-floating-grid a {
-      display: inline-block;
-      margin: 8px;
-      transition: all 0.5s ease;
-      position: relative;
-    }
-    
-    .tech-floating-grid a:hover {
-      transform: translateY(-10px);
-      box-shadow: 0 15px 20px rgba(0,0,0,0.3);
-      animation: float 3s ease-in-out infinite;
-    }
-    
-    @keyframes float {
-      0% { transform: translateY(-5px); }
-      50% { transform: translateY(5px); }
-      100% { transform: translateY(-5px); }
-    }
-  </style>
-</div>
+<table width="100%" border="0" align="center">
+  <!-- Frontend Technologies -->
+  <tr>
+    <td align="center" width="100%" colspan="6">
+      <h3>
+        <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="25"/> 
+        Frontend Development
+      </h3>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img alt="HTML5" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><br/>
+      <b>HTML5</b>
+    </td>
+    <td align="center">
+      <img alt="CSS3" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><br/>
+      <b>CSS3</b>
+    </td>
+    <td align="center">
+      <img alt="JavaScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /><br/>
+      <b>JavaScript</b>
+    </td>
+    <td align="center">
+      <img alt="React" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /><br/>
+      <b>React</b>
+    </td>
+    <td align="center">
+      <img alt="TailwindCSS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /><br/>
+      <b>TailwindCSS</b>
+    </td>
+    <td align="center">
+      <img alt="Bootstrap" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /><br/>
+      <b>Bootstrap</b>
+    </td>
+  </tr>
+
+  <!-- Backend Technologies -->
+  <tr>
+    <td align="center" colspan="6">
+      <h3>
+        <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="25"/> 
+        Backend Development
+      </h3>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img alt="Node.js" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /><br/>
+      <b>Node.js</b>
+    </td>
+    <td align="center">
+      <img alt="Express.js" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="background-color:white;border-radius:50%;" /><br/>
+      <b>Express.js</b>
+    </td>
+    <td align="center">
+      <img alt="PHP" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /><br/>
+      <b>PHP</b>
+    </td>
+    <td align="center">
+      <img alt="Laravel" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" /><br/>
+      <b>Laravel</b>
+    </td>
+    <td align="center" colspan="2"></td>
+  </tr>
+
+  <!-- Database Technologies -->
+  <tr>
+    <td align="center" colspan="6">
+      <h3>
+        <img src="https://media.giphy.com/media/tAjb5pyCEBhEb8jWxC/giphy.gif" width="25"/> 
+        Database Management
+      </h3>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img alt="MongoDB" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /><br/>
+      <b>MongoDB</b>
+    </td>
+    <td align="center">
+      <img alt="MySQL" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /><br/>
+      <b>MySQL</b>
+    </td>
+    <td align="center">
+      <img alt="Firebase" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" /><br/>
+      <b>Firebase</b>
+    </td>
+    <td align="center" colspan="3"></td>
+  </tr>
+
+  <!-- Dev Tools -->
+  <tr>
+    <td align="center" colspan="6">
+      <h3>
+        <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="25"/> 
+        Development Tools
+      </h3>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img alt="Git" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /><br/>
+      <b>Git</b>
+    </td>
+    <td align="center">
+      <img alt="VS Code" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /><br/>
+      <b>VS Code</b>
+    </td>
+    <td align="center">
+      <img alt="Linux" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /><br/>
+      <b>Linux</b>
+    </td>
+    <td align="center">
+      <img alt="Figma" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /><br/>
+      <b>Figma</b>
+    </td>
+    <td align="center">
+      <img alt="Docker" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /><br/>
+      <b>Docker</b>
+    </td>
+    <td align="center"></td>
+  </tr>
+</table>
 </details>
 
 <details open>
