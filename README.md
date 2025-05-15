@@ -50,98 +50,35 @@ const zawak = {
 <br clear="right">
 
 <details open>
-<summary><h2>🚀 Skills & Technologies</h2></summary>
-
+<summary><h2>🛠️ Tech Stack</h2></summary>
 <div align="center">
-  <h3>🛠️ My Toolbox</h3>
-  
-  <!-- Animated Skill Circles -->
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; margin-top: 30px;">
-    
-    <!-- Frontend -->
-    <div style="text-align: center;">
-      <svg width="120" height="120" viewBox="0 0 36 36" style="margin-bottom: 10px;">
-        <path d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831"
-          fill="none" stroke="#e0e0e0" stroke-width="3" />
-        <path d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831"
-          fill="none" stroke="#3498db" stroke-width="3" stroke-dasharray="90, 100" stroke-linecap="round"
-          style="animation: circle-fill-animation 2s ease-in-out forwards;">
-          <animate attributeName="stroke-dasharray" from="0,100" to="90,100" dur="1.5s" fill="freeze" />
-        </path>
-        <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" x="6" y="6" width="24" height="24" />
-      </svg>
-      <p style="font-weight: bold; margin: 5px 0;">HTML5</p>
-    </div>
 
-    <!-- Repeat similar blocks for other skills -->
-    <div style="text-align: center;">
-      <svg width="120" height="120" viewBox="0 0 36 36">
-        <path d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831"
-          fill="none" stroke="#e0e0e0" stroke-width="3" />
-        <path d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831"
-          fill="none" stroke="#3498db" stroke-width="3" stroke-dasharray="85, 100" stroke-linecap="round"
-          style="animation: circle-fill-animation 2s ease-in-out forwards;">
-          <animate attributeName="stroke-dasharray" from="0,100" to="85,100" dur="1.5s" fill="freeze" />
-        </path>
-        <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" x="6" y="6" width="24" height="24" />
-      </svg>
-      <p style="font-weight: bold; margin: 5px 0;">CSS3</p>
-    </div>
+### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-    <!-- Add more skills here following the same pattern -->
-    
-  </div>
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
-  <!-- Categories -->
-  <div style="display: flex; justify-content: space-around; flex-wrap: wrap; margin-top: 40px; gap: 20px;">
-    
-    <!-- Frontend -->
-    <div style="background: linear-gradient(135deg, #6e48aa 0%, #9d50bb 100%); padding: 20px; border-radius: 15px; width: 280px; box-shadow: 0 8px 15px rgba(0,0,0,0.1);">
-      <h3 style="color: white; margin-top: 0;">Frontend</h3>
-      <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-        <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="React">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript">
-        <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwind-css&logoColor=white&style=for-the-badge" alt="Tailwind">
-      </div>
-    </div>
-    
-    <!-- Backend -->
-    <div style="background: linear-gradient(135deg, #4776E6 0%, #8E54E9 100%); padding: 20px; border-radius: 15px; width: 280px; box-shadow: 0 8px 15px rgba(0,0,0,0.1);">
-      <h3 style="color: white; margin-top: 0;">Backend</h3>
-      <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-        <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" alt="Node">
-        <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" alt="Express">
-        <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge" alt="PHP">
-      </div>
-    </div>
-    
-    <!-- Tools -->
-    <div style="background: linear-gradient(135deg, #00c6ff 0%, #0072ff 100%); padding: 20px; border-radius: 15px; width: 280px; box-shadow: 0 8px 15px rgba(0,0,0,0.1);">
-      <h3 style="color: white; margin-top: 0;">Tools</h3>
-      <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-        <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git">
-        <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt="Docker">
-        <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" alt="VSCode">
-      </div>
-    </div>
-  </div>
+### 🗄️ Base de données
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🔧 Outils & Environnements
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 </div>
-
-<style>
-  @keyframes circle-fill-animation {
-    0% { stroke-dasharray: 0, 100; }
-    100% { stroke-dasharray: var(--percentage), 100; }
-  }
-  
-  svg {
-    transition: transform 0.3s ease;
-  }
-  
-  svg:hover {
-    transform: scale(1.1);
-  }
-</style>
-
 </details>
 
 <details open>
