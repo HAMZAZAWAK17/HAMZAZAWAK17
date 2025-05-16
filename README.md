@@ -52,121 +52,196 @@ const zawak = {
 <details open>
 <summary><h2>🛠️ Tech Stack & Skills</h2></summary>
 <div align="center">
-  <!-- Tech Stack Header with Animation -->
-  <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=6C5CE7&center=true&vCenter=true&width=500&lines=Frontend+%7C+Backend+%7C+Tools;Languages+%26+Frameworks;DevOps+%26+Design" alt="Tech Categories" />
-  </p>
-  <!-- Tech Stack Cards with Hover Effects -->
+<!-- Tech Stack Header with Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=6C5CE7&center=true&vCenter=true&width=500&lines=My+Technology+Ecosystem;Tools+%26+Languages;Skills+%26+Expertise" alt="Tech Categories" />
+</p>
+<!-- Main Tech Categories -->
+<table border="0" align="center">
+<tr>
+  <td valign="top" width="33%">
+  <!-- FRONTEND SECTION -->
   <div align="center">
-  <!-- Frontend Section with Gradient -->
-  <h3>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=18&duration=2000&pause=1000&color=61DAFB&center=true&vCenter=true&repeat=false&width=180&height=25&lines=Frontend" alt="Frontend" />
-  </h3>
-  <div style="margin: 20px 0">
-    <a href="#"><img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&labelColor=282828&color=E34F26" alt="HTML5"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&labelColor=282828&color=1572B6" alt="CSS3"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E&color=F0DB4F" alt="JavaScript"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black&labelColor=61DAFB&color=61DAFB" alt="React"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=282828&color=06B6D4" alt="TailwindCSS"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=282828&color=7952B3" alt="Bootstrap"/></a>
+    <h3>
+      <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=18&pause=1000&color=61DAFB&center=true&vCenter=true&repeat=false&width=180&height=25&lines=Frontend" alt="Frontend" />
+    </h3>
+    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px;">
+      <a href="#">
+        <img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" height="48" alt="HTML5"/>
+      </a>
+      <a href="#">
+        <img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" height="48" alt="CSS3"/>
+      </a>
+      <a href="#">
+        <img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" height="48" alt="JavaScript"/>
+      </a>
+      <a href="#">
+        <img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" height="48" alt="React"/>
+      </a>
+      <a href="#">
+        <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="48" height="48" alt="TailwindCSS"/>
+      </a>
+      <a href="#">
+        <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" width="48" height="48" alt="Bootstrap"/>
+      </a>
+    </div>
   </div>
-  <!-- Backend Section with Gradient -->
-  <h3>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=18&duration=2000&pause=1000&color=339933&center=true&vCenter=true&repeat=false&width=180&height=25&lines=Backend" alt="Backend" />
-  </h3>
-  <div style="margin: 20px 0">
-    <a href="#"><img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=282828&color=339933" alt="Node.js"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white&labelColor=282828&color=000000" alt="Express.js"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white&labelColor=282828&color=777BB4" alt="PHP"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white&labelColor=282828&color=FF2D20" alt="Laravel"/></a>
+  </td>
+  <td valign="top" width="33%">
+  <!-- BACKEND SECTION -->
+  <div align="center">
+    <h3>
+      <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=18&pause=1000&color=339933&center=true&vCenter=true&repeat=false&width=180&height=25&lines=Backend" alt="Backend" />
+    </h3>
+    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px;">
+      <a href="#">
+        <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48" height="48" alt="Node.js"/>
+      </a>
+      <a href="#">
+        <img src="https://skillicons.dev/icons?i=express&theme=dark" width="48" height="48" alt="Express.js"/>
+      </a>
+      <a href="#">
+        <img src="https://skillicons.dev/icons?i=php&theme=dark" width="48" height="48" alt="PHP"/>
+      </a>
+      <a href="#">
+        <img src="https://skillicons.dev/icons?i=laravel&theme=dark" width="48" height="48" alt="Laravel"/>
+      </a>
+    </div>
   </div>
-  <!-- Database Section with Gradient -->
-  <h3>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=18&duration=2000&pause=1000&color=47A248&center=true&vCenter=true&repeat=false&width=180&height=25&lines=Database" alt="Database" />
-  </h3>
-  <div style="margin: 20px 0">
-    <a href="#"><img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=282828&color=47A248" alt="MongoDB"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&labelColor=282828&color=4479A1" alt="MySQL"/></a>
+  </td>
+  <td valign="top" width="33%">
+  <!-- DATABASE SECTION -->  
+  <div align="center">
+    <h3>
+      <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=18&pause=1000&color=47A248&center=true&vCenter=true&repeat=false&width=180&height=25&lines=Database" alt="Database" />
+    </h3>
+    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px;">
+      <a href="#">
+        <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="48" height="48" alt="MongoDB"/>
+      </a>
+      <a href="#">
+        <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48" height="48" alt="MySQL"/>
+      </a>
+    </div>
   </div>
-  <!-- Tools Section with Gradient -->
+  </td>
+</tr>
+</table>
+<!-- TOOLS SECTION -->
+<div align="center">
   <h3>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=18&duration=2000&pause=1000&color=F05032&center=true&vCenter=true&repeat=false&width=180&height=25&lines=Tools+%26+Environment" alt="Tools & Environment" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=18&pause=1000&color=F05032&center=true&vCenter=true&repeat=false&width=180&height=25&lines=Tools" alt="Tools" />
   </h3>
-  <div style="margin: 20px 0">
-    <a href="#"><img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white&labelColor=282828&color=F05032" alt="Git"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black&labelColor=FCC624&color=FCC624" alt="Linux"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=282828&color=007ACC" alt="VS Code"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white&labelColor=282828&color=F24E1E" alt="Figma"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white&labelColor=282828&color=2496ED" alt="Docker"/></a>
-  </div>
-  </div>
-  <!-- Skill Level Meters -->
-  <h3>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=18&duration=2000&pause=1000&color=8E44AD&center=true&vCenter=true&repeat=false&width=180&height=25&lines=Skill+Levels" alt="Skill Levels" />
-  </h3>
-  <table align="center" style="margin: 20px auto; border-collapse: collapse;">
-    <tr>
-      <td align="right" width="100px"><strong>HTML/CSS</strong></td>
-      <td width="400px">
-        <img src="https://progress-bar.dev/90/?width=400&color=E34F26" alt="HTML/CSS Progress" />
-      </td>
-    </tr>
-    <tr>
-      <td align="right" width="100px"><strong>JavaScript</strong></td>
-      <td width="400px">
-        <img src="https://progress-bar.dev/85/?width=400&color=F7DF1E" alt="JavaScript Progress" />
-      </td>
-    </tr>
-    <tr>
-      <td align="right" width="100px"><strong>React</strong></td>
-      <td width="400px">
-        <img src="https://progress-bar.dev/80/?width=400&color=61DAFB" alt="React Progress" />
-      </td>
-    </tr>
-    <tr>
-      <td align="right" width="100px"><strong>Node.js</strong></td>
-      <td width="400px">
-        <img src="https://progress-bar.dev/75/?width=400&color=339933" alt="Node.js Progress" />
-      </td>
-    </tr>
-    <tr>
-      <td align="right" width="100px"><strong>PHP/Laravel</strong></td>
-      <td width="400px">
-        <img src="https://progress-bar.dev/70/?width=400&color=FF2D20" alt="PHP/Laravel Progress" />
-      </td>
-    </tr>
-  </table>
-  <!-- Interactive Learning Section -->
-  <h3>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=18&duration=2000&pause=1000&color=3498DB&center=true&vCenter=true&repeat=false&width=230&height=25&lines=Currently+Learning" alt="Currently Learning" />
-  </h3>
-  <div style="margin: 20px 0">
-    <a href="#"><img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white&labelColor=282828&color=ED8B00" alt="Java"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/React%20Native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black&labelColor=61DAFB&color=2D2D2D" alt="React Native"/></a>
-  </div>
-  <!-- Workflow & Dev Environment -->
-  <h3>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=18&duration=2000&pause=1000&color=F05032&center=true&vCenter=true&repeat=false&width=230&height=25&lines=Workflow+%26+Environment" alt="Workflow & Environment" />
-  </h3>
-  <div style="margin: 20px 0; display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
-    <img src="https://img.shields.io/badge/Agile-%230175C2.svg?style=for-the-badge&logo=Agile&logoColor=white&color=0175C2" alt="Agile"/>
-    <img src="https://img.shields.io/badge/Clean%20Code-%2343853D.svg?style=for-the-badge&logo=Clean-Code&logoColor=white&color=43853D" alt="Clean Code"/>
-    <img src="https://img.shields.io/badge/Test%20Driven-%23E33332.svg?style=for-the-badge&logo=Testing&logoColor=white&color=E33332" alt="Test Driven"/>
-    <img src="https://img.shields.io/badge/UI%2FUX-%23FF6C37.svg?style=for-the-badge&logo=UI%2FUX&logoColor=white&color=FF6C37" alt="UI/UX"/>
-    <img src="https://img.shields.io/badge/Responsive%20Design-%239146FF.svg?style=for-the-badge&logo=Responsive&logoColor=white&color=9146FF" alt="Responsive Design"/>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 20px;">
+    <a href="#">
+      <img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" height="48" alt="Git"/>
+    </a>
+    <a href="#">
+      <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="48" height="48" alt="Linux"/>
+    </a>
+    <a href="#">
+      <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48" height="48" alt="VS Code"/>
+    </a>
+    <a href="#">
+      <img src="https://skillicons.dev/icons?i=figma&theme=dark" width="48" height="48" alt="Figma"/>
+    </a>
+    <a href="#">
+      <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48" height="48" alt="Docker"/>
+    </a>
   </div>
 </div>
-<!-- Language Stats Card with Animation -->
+<!-- CURRENTLY LEARNING -->
+<div align="center">
+  <h3>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=18&pause=1000&color=3498DB&center=true&vCenter=true&repeat=false&width=230&height=25&lines=Currently+Learning" alt="Currently Learning" />
+  </h3>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 20px;">
+    <a href="#">
+      <img src="https://skillicons.dev/icons?i=java&theme=dark" width="48" height="48" alt="Java"/>
+    </a>
+    <a href="#">
+      <img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" height="48" alt="React Native"/>
+    </a>
+  </div>
+</div>
+<!-- Skill Level Meters with circular diagrams -->
+<div align="center">
+  <h3>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=18&pause=1000&color=8E44AD&center=true&vCenter=true&repeat=false&width=180&height=25&lines=Skill+Levels" alt="Skill Levels" />
+  </h3>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 20px;">
+    <!-- HTML/CSS Skill -->
+    <div style="text-align: center; margin: 10px;">
+      <div style="position: relative; height: 100px; width: 100px;">
+        <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_html.svg" width="40" height="40" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);" alt="HTML/CSS"/>
+        <svg width="100" height="100">
+          <circle r="45" cx="50" cy="50" fill="transparent" stroke="#e6e6e6" stroke-width="5"></circle>
+          <circle r="45" cx="50" cy="50" fill="transparent" stroke="#E34F26" stroke-width="5" stroke-dasharray="282.74" stroke-dashoffset="28.27" transform="rotate(-90 50 50)"></circle>
+        </svg>
+      </div>
+      <p><strong>HTML/CSS</strong><br />90%</p>
+    </div>
+<!-- JavaScript Skill -->
+<div style="text-align: center; margin: 10px;">
+  <div style="position: relative; height: 100px; width: 100px;">
+    <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_js.svg" width="40" height="40" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);" alt="JavaScript"/>
+    <svg width="100" height="100">
+      <circle r="45" cx="50" cy="50" fill="transparent" stroke="#e6e6e6" stroke-width="5"></circle>
+      <circle r="45" cx="50" cy="50" fill="transparent" stroke="#F7DF1E" stroke-width="5" stroke-dasharray="282.74" stroke-dashoffset="42.41" transform="rotate(-90 50 50)"></circle>
+    </svg>
+  </div>
+  <p><strong>JavaScript</strong><br />85%</p>
+</div>
+
+<!-- React Skill -->
+<div style="text-align: center; margin: 10px;">
+  <div style="position: relative; height: 100px; width: 100px;">
+    <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_reactjs.svg" width="40" height="40" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);" alt="React"/>
+    <svg width="100" height="100">
+      <circle r="45" cx="50" cy="50" fill="transparent" stroke="#e6e6e6" stroke-width="5"></circle>
+      <circle r="45" cx="50" cy="50" fill="transparent" stroke="#61DAFB" stroke-width="5" stroke-dasharray="282.74" stroke-dashoffset="56.55" transform="rotate(-90 50 50)"></circle>
+    </svg>
+  </div>
+  <p><strong>React</strong><br />80%</p>
+</div>
+
+<!-- Node.js Skill -->
+<div style="text-align: center; margin: 10px;">
+  <div style="position: relative; height: 100px; width: 100px;">
+    <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_node.svg" width="40" height="40" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);" alt="Node.js"/>
+    <svg width="100" height="100">
+      <circle r="45" cx="50" cy="50" fill="transparent" stroke="#e6e6e6" stroke-width="5"></circle>
+      <circle r="45" cx="50" cy="50" fill="transparent" stroke="#339933" stroke-width="5" stroke-dasharray="282.74" stroke-dashoffset="70.69" transform="rotate(-90 50 50)"></circle>
+    </svg>
+  </div>
+  <p><strong>Node.js</strong><br />75%</p>
+</div>
+
+<!-- PHP/Laravel Skill -->
+<div style="text-align: center; margin: 10px;">
+  <div style="position: relative; height: 100px; width: 100px;">
+    <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_php.svg" width="40" height="40" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);" alt="PHP/Laravel"/>
+    <svg width="100" height="100">
+      <circle r="45" cx="50" cy="50" fill="transparent" stroke="#e6e6e6" stroke-width="5"></circle>
+      <circle r="45" cx="50" cy="50" fill="transparent" stroke="#FF2D20" stroke-width="5" stroke-dasharray="282.74" stroke-dashoffset="84.82" transform="rotate(-90 50 50)"></circle>
+    </svg>
+  </div>
+  <p><strong>PHP/Laravel</strong><br />70%</p>
+</div>
+  </div>
+</div>
+<!-- Cool tech stack visualization -->
 <div align="center" style="margin-top: 30px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAMZAZAWAK17&layout=donut&theme=tokyonight&hide_border=true&border_radius=10" width="35%" alt="Most Used Languages" />
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=My%20Tech%20Universe&align=center&titleAlign=center&lineCount=3&theme=github_dark&line1=html5,html5,E34F26;css3,css3,1572B6;javascript,javascript,F7DF1E;react,react,61DAFB;&line2=nodejs,nodejs,339933;express,express,ffffff;php,php,777BB4;laravel,laravel,FF2D20;&line3=mongodb,mongodb,47A248;mysql,mysql,4479A1;git,git,F05032;docker,docker,2496ED;" alt="My Tech Stack"/>
 </div>
-<!-- Cool tech quote -->
+<!-- Quote about skills -->
 <div align="center" style="margin-top: 40px; margin-bottom: 20px; background-color: rgba(108, 92, 231, 0.1); border-radius: 10px; padding: 15px;">
   <blockquote>
     <p style="font-style: italic; font-size: 16px;">
-      "La connaissance de plusieurs langages de programmation équivaut à avoir plusieurs perspectives sur la résolution de problèmes."
+      "La polyvalence technologique est la plus grande force d'un développeur moderne"
     </p>
   </blockquote>
+</div>
 </div>
 </details>
 <details open>
