@@ -164,72 +164,7 @@ const zawak = {
     </a>
   </div>
 </div>
-<!-- Skill Level Meters with circular diagrams -->
-<div align="center">
-  <h3>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=18&pause=1000&color=8E44AD&center=true&vCenter=true&repeat=false&width=180&height=25&lines=Skill+Levels" alt="Skill Levels" />
-  </h3>
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 20px;">
-    <!-- HTML/CSS Skill -->
-    <div style="text-align: center; margin: 10px;">
-      <div style="position: relative; height: 100px; width: 100px;">
-        <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_html.svg" width="40" height="40" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);" alt="HTML/CSS"/>
-        <svg width="100" height="100">
-          <circle r="45" cx="50" cy="50" fill="transparent" stroke="#e6e6e6" stroke-width="5"></circle>
-          <circle r="45" cx="50" cy="50" fill="transparent" stroke="#E34F26" stroke-width="5" stroke-dasharray="282.74" stroke-dashoffset="28.27" transform="rotate(-90 50 50)"></circle>
-        </svg>
-      </div>
-      <p><strong>HTML/CSS</strong><br />90%</p>
-    </div>
-<!-- JavaScript Skill -->
-<div style="text-align: center; margin: 10px;">
-  <div style="position: relative; height: 100px; width: 100px;">
-    <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_js.svg" width="40" height="40" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);" alt="JavaScript"/>
-    <svg width="100" height="100">
-      <circle r="45" cx="50" cy="50" fill="transparent" stroke="#e6e6e6" stroke-width="5"></circle>
-      <circle r="45" cx="50" cy="50" fill="transparent" stroke="#F7DF1E" stroke-width="5" stroke-dasharray="282.74" stroke-dashoffset="42.41" transform="rotate(-90 50 50)"></circle>
-    </svg>
-  </div>
-  <p><strong>JavaScript</strong><br />85%</p>
-</div>
 
-<!-- React Skill -->
-<div style="text-align: center; margin: 10px;">
-  <div style="position: relative; height: 100px; width: 100px;">
-    <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_reactjs.svg" width="40" height="40" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);" alt="React"/>
-    <svg width="100" height="100">
-      <circle r="45" cx="50" cy="50" fill="transparent" stroke="#e6e6e6" stroke-width="5"></circle>
-      <circle r="45" cx="50" cy="50" fill="transparent" stroke="#61DAFB" stroke-width="5" stroke-dasharray="282.74" stroke-dashoffset="56.55" transform="rotate(-90 50 50)"></circle>
-    </svg>
-  </div>
-  <p><strong>React</strong><br />80%</p>
-</div>
-
-<!-- Node.js Skill -->
-<div style="text-align: center; margin: 10px;">
-  <div style="position: relative; height: 100px; width: 100px;">
-    <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_node.svg" width="40" height="40" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);" alt="Node.js"/>
-    <svg width="100" height="100">
-      <circle r="45" cx="50" cy="50" fill="transparent" stroke="#e6e6e6" stroke-width="5"></circle>
-      <circle r="45" cx="50" cy="50" fill="transparent" stroke="#339933" stroke-width="5" stroke-dasharray="282.74" stroke-dashoffset="70.69" transform="rotate(-90 50 50)"></circle>
-    </svg>
-  </div>
-  <p><strong>Node.js</strong><br />75%</p>
-</div>
-
-<!-- PHP/Laravel Skill -->
-<div style="text-align: center; margin: 10px;">
-  <div style="position: relative; height: 100px; width: 100px;">
-    <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_php.svg" width="40" height="40" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);" alt="PHP/Laravel"/>
-    <svg width="100" height="100">
-      <circle r="45" cx="50" cy="50" fill="transparent" stroke="#e6e6e6" stroke-width="5"></circle>
-      <circle r="45" cx="50" cy="50" fill="transparent" stroke="#FF2D20" stroke-width="5" stroke-dasharray="282.74" stroke-dashoffset="84.82" transform="rotate(-90 50 50)"></circle>
-    </svg>
-  </div>
-  <p><strong>PHP/Laravel</strong><br />70%</p>
-</div>
-  </div>
-</div>
 <!-- Cool tech stack visualization -->
 <div align="center" style="margin-top: 30px;">
   <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=My%20Tech%20Universe&align=center&titleAlign=center&lineCount=3&theme=github_dark&line1=html5,html5,E34F26;css3,css3,1572B6;javascript,javascript,F7DF1E;react,react,61DAFB;&line2=nodejs,nodejs,339933;express,express,ffffff;php,php,777BB4;laravel,laravel,FF2D20;&line3=mongodb,mongodb,47A248;mysql,mysql,4479A1;git,git,F05032;docker,docker,2496ED;" alt="My Tech Stack"/>
