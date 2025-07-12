@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./CODEVENOM Fullstack Development Wallpaper.jpeg" alt="Fullstack Developer Banner" width="85%" style="border-radius: 12px; box-shadow: 0 8px 20px rgba(0,0,0,0.2);" />
+  <img src="https://raw.githubusercontent.com/ezzouekhamza/ezzouekhamza/main/assets/banner-dev-dark.png" alt="Fullstack Developer Banner" width="85%" style="border-radius: 12px; box-shadow: 0 8px 20px rgba(0,0,0,0.2);" />
 </div>
 
 <br/>
@@ -22,11 +22,15 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ezzouekhamza&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ezzouekhamza&theme=tokyonight&hide_border=true&border_radius=10)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezzouekhamza&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)
+<a href="https://github.com/ezzouekhamza">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ezzouekhamza&show_icons=true&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/ezzouekhamza">
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=ezzouekhamza&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/ezzouekhamza">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezzouekhamza&layout=compact&theme=tokyonight&hide_border=true" />
+</a>
 
 </div>
 
@@ -34,39 +38,44 @@
 
 ## 🛠️ Stack Technique
 
+### 🧩 Frontend
 <div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" title="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" title="TailwindCSS" />
+</div>
 
-### 🚀 Frontend  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" title="Bootstrap" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" title="TailwindCSS" />
+<br/>
 
-<br/><br/>
+### 🔧 Backend
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" title="Express.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" title="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" title="Laravel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java" />
+</div>
 
-### 🖥️ Backend  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" title="Express.js" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" title="PHP" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" title="Laravel" />
+<br/>
 
-<br/><br/>
+### 🗄️ Bases de données
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB" />
+</div>
 
-### 🗄️ Bases de Données  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB" />
+<br/>
 
-<br/><br/>
-
-### ⚙️ Outils & Environnement  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux" />
-
+### ⚙️ Outils & Environnement
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux" />
 </div>
 
 ---
