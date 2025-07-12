@@ -1,8 +1,6 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ezzouekhamza/ezzouekhamza/main/assets/banner-dev-dark.png" alt="Fullstack Developer Banner" width="85%" style="border-radius: 12px; box-shadow: 0 8px 20px rgba(0,0,0,0.2);" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:38BDF8,100:6366F1&height=250&section=header&text=Ez-zouek%20Hamza&fontSize=45&fontColor=ffffff&animation=twinkling" />
 </div>
-
-<br/>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Bienvenue+sur+mon+profil+GitHub+!;Développeur+Web+Fullstack+passionné;Toujours+à+l'écoute+des+nouveaux+défis" alt="Typing SVG" />
@@ -26,7 +24,7 @@
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=ezzouekhamza&show_icons=true&theme=tokyonight&hide_border=true" />
 </a>
 <a href="https://github.com/ezzouekhamza">
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=ezzouekhamza&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://streak-stats.demolab.com?user=ezzouekhamza&theme=tokyonight&hide_border=true" />
 </a>
 <a href="https://github.com/ezzouekhamza">
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezzouekhamza&layout=compact&theme=tokyonight&hide_border=true" />
@@ -38,44 +36,44 @@
 
 ## 🛠️ Stack Technique
 
-### 🧩 Frontend
+### 🚀 Frontend  
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" title="Bootstrap" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" title="TailwindCSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" title="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" title="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" title="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45" title="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="45" title="Tailwind CSS" />
 </div>
 
 <br/>
 
-### 🔧 Backend
+### 🔧 Backend  
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" title="Express.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" title="PHP" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" title="Laravel" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" title="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" title="Express.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" title="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="45" title="Laravel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" title="Java" />
 </div>
 
 <br/>
 
-### 🗄️ Bases de données
+### 🗄️ Bases de données  
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" title="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" title="MongoDB" />
 </div>
 
 <br/>
 
-### ⚙️ Outils & Environnement
+### ⚙️ Outils & Environnement  
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" title="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" title="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" title="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" title="Linux" />
 </div>
 
 ---
@@ -93,9 +91,7 @@
 ---
 
 <div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=ezzouekhamza&color=blueviolet&style=flat-square)
-![Followers](https://img.shields.io/github/followers/ezzouekhamza?color=green&label=Followers&style=flat-square)
-![Stars](https://img.shields.io/github/stars/ezzouekhamza?color=yellow&label=Stars&style=flat-square)
-
+  ![Profile Views](https://komarev.com/ghpvc/?username=ezzouekhamza&color=blueviolet&style=flat-square)
+  ![Followers](https://img.shields.io/github/followers/ezzouekhamza?color=green&label=Followers&style=flat-square)
+  ![Stars](https://img.shields.io/github/stars/ezzouekhamza?color=yellow&label=Stars&style=flat-square)
 </div>
