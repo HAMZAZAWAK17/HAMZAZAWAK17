@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./CODEVENOM Fullstack Development Wallpaper.jpeg"/>
+  <img src="./CODEVENOM Fullstack Development Wallpaper.jpeg" alt="Fullstack Developer Banner" style="width: 100%; max-height: 300px; object-fit: cover; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);"/>
 </div>
 
 <div align="center">
@@ -17,13 +17,16 @@
 ---
 
 ## 📊 Mes Statistiques GitHub
-<div align="center">
+<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 1rem;">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ezzouekhamza&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)](https://github.com/ezzouekhamza)
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem; width: 100%;">
   
-![Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezzouekhamza&show_icons=true&theme=radical&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezzouekhamza&layout=compact&theme=radical&hide_border=true&langs_count=6)](https://github.com/ezzouekhamza)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezzouekhamza&layout=compact&theme=radical&hide_border=true)](https://github.com/ezzouekhamza/github-readme-stats)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ezzouekhamza&theme=radical&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ezzouekhamza&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+</div>
 </div>
 
 ---
@@ -32,7 +35,7 @@
 
 <div align="center">
 
-| Période       | 📅 Formation/Expérience | � Institution/Lieu |
+| Période       | 📅 Formation/Expérience | 🏢 Institution/Lieu |
 |--------------|-------------------------|---------------------|
 | 2024–2025    | Bachelor en Génie Logiciel | ESTEM, Casablanca |
 | Mars–Mai 2024| Stage PFE (Développement Fullstack) | All Formations, France |
@@ -47,7 +50,7 @@
 ## 🛠️ Mes Compétences Techniques
 
 ### 🔮 Frontend
-<div align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 0.5rem;">
   
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -58,7 +61,7 @@
 </div>
 
 ### ⚙️ Backend
-<div align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 0.5rem;">
   
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -68,14 +71,14 @@
 </div>
 
 ### 🗃️ Bases de Données
-<div align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 0.5rem;">
   
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 </div>
 
 ### 🛠️ Outils & DevOps
-<div align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 0.5rem;">
   
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -88,9 +91,9 @@
 ## 🏆 Certifications
 
 <div align="center">
-  
-| Certification | 📜 Organisme | 🏷️ Badge |
-|--------------|-------------|----------|
+
+| Certification | 📜 Organisme | � Badge |
+|--------------|-------------|---------|
 | Certificat PHP avancé | SoloLearn | ![SoloLearn](https://img.shields.io/badge/SoloLearn-3595FF?style=for-the-badge&logo=sololearn&logoColor=white) |
 | Frontend Developer Bootcamp | Udemy | ![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=udemy&logoColor=white) |
 | Fullstack JavaScript Certification | freeCodeCamp | ![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white) |
@@ -101,21 +104,21 @@
 
 ## 📫 Comment me contacter ?
 
-<div align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 0.8rem;">
   
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ezzouekhamza2411@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/votreprofil)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20my%20portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://votreportfolio.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20with%20me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/212640347045)
+[![Email](https://img.shields.io/badge/Email-ezzouekhamza2411@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ezzouekhamza2411@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hamza_Ez--zouek-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/votreprofil)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-+212640347045-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/212640347045)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visitez_mon_portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://votreportfolio.com)
 
 </div>
 
 ---
 
-<div align="center">
+<div align="center" style="margin-top: 1.5rem;">
   
-![Visitors](https://komarev.com/ghpvc/?username=ezzouekhamza&color=blueviolet&style=flat-square)
-![Followers](https://img.shields.io/github/followers/ezzouekhamza?color=green&logo=github)
-![Stars](https://img.shields.io/github/stars/ezzouekhamza?color=yellow&logo=github)
+![Visitors](https://komarev.com/ghpvc/?username=ezzouekhamza&color=blueviolet&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/ezzouekhamza?color=green&logo=github&style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/ezzouekhamza?color=yellow&logo=github&style=for-the-badge)
 
 </div>
