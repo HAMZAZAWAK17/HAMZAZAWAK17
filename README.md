@@ -20,11 +20,12 @@
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ezzouekhamza&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)](https://github.com/ezzouekhamza)
+<!-- Statistiques corrigées avec cache-busting -->
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ezzouekhamza&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&random=123)](https://github.com/ezzouekhamza)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezzouekhamza&layout=compact&theme=radical&hide_border=true)](https://github.com/ezzouekhamza)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezzouekhamza&layout=compact&theme=radical&hide_border=true&random=123)](https://github.com/ezzouekhamza)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ezzouekhamza&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ezzouekhamza&theme=radical&hide_border=true&random=123)](https://git.io/streak-stats)
 
 </div>
 
