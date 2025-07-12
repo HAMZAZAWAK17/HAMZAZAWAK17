@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./CODEVENOM Fullstack Development Wallpaper.jpeg" alt="Fullstack Developer Banner" width="100%" style="border-radius: 12px; box-shadow: 0 8px 20px rgba(0,0,0,0.2);" />
+  <img src="./CODEVENOM Fullstack Development Wallpaper.jpeg" alt="Fullstack Developer Banner" width="85%" style="border-radius: 12px; box-shadow: 0 8px 20px rgba(0,0,0,0.2);" />
 </div>
 
 <br/>
@@ -10,11 +10,11 @@
 
 ---
 
-## 🌟 Qui suis-je ?
+## 👨‍💻 Qui suis-je ?
 
-> 💡 **Développeur Fullstack** basé à Casablanca avec **5+ ans d'expérience**  
-> 🧠 Passionné par la résolution de problèmes, l’optimisation et la création d’expériences utilisateurs fluides.  
-> 🎯 Spécialisé dans le développement d'applications web modernes et performantes.
+> 💡 Développeur Fullstack basé à Casablanca avec **5+ ans d'expérience**  
+> 🧠 Passionné par la résolution de problèmes, l’optimisation et la création d’expériences utilisateurs fluides  
+> ⚙️ Spécialisé dans le développement d'applications web modernes et performantes
 
 ---
 
@@ -23,7 +23,9 @@
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ezzouekhamza&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10)
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=ezzouekhamza&theme=tokyonight&hide_border=true&border_radius=10)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezzouekhamza&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)
 
 </div>
@@ -35,36 +37,35 @@
 <div align="center">
 
 ### 🚀 Frontend  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" title="HTML5"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" title="CSS3"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" title="ReactJS"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45" title="Bootstrap"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="45" title="TailwindCSS"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" title="Bootstrap" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" title="TailwindCSS" />
 
 <br/><br/>
 
 ### 🖥️ Backend  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" title="Node.js"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" title="Express.js"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" title="PHP"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="45" title="Laravel"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" title="Java"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" title="Express.js" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" title="PHP" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" title="Laravel" />
 
 <br/><br/>
 
 ### 🗄️ Bases de Données  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" title="MySQL"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" title="MongoDB"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB" />
 
 <br/><br/>
 
 ### ⚙️ Outils & Environnement  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" title="GitHub"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" title="Docker"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" title="VS Code"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" title="Linux"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux" />
 
 </div>
 
@@ -82,10 +83,8 @@
 
 ---
 
-## 🧮 Compteur de visites et statistiques
-
 <div align="center">
-
+  
 ![Profile Views](https://komarev.com/ghpvc/?username=ezzouekhamza&color=blueviolet&style=flat-square)
 ![Followers](https://img.shields.io/github/followers/ezzouekhamza?color=green&label=Followers&style=flat-square)
 ![Stars](https://img.shields.io/github/stars/ezzouekhamza?color=yellow&label=Stars&style=flat-square)
