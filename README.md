@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github-readme-header.vercel.app/api?username=ezzouekhamza&title=Hamza+Ez-zouek&desc=Fullstack+Developer&bg_color=1a1a2e&text_color=ffffff&border_color=e94560" width="100%"/>
+<img src="./CODEVENOM Fullstack Development Wallpaper.jpeg"/>
 </div>
 
 <div align="center">
