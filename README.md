@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&lines=Hamza+Ez-zouek;Fullstack+Web+Developer;From+Casablanca,+Morocco" alt="Typing SVG" />
+<img src="https://github-readme-header.vercel.app/api?username=ezzouekhamza&title=Hamza+Ez-zouek&desc=Fullstack+Developer&bg_color=1a1a2e&text_color=ffffff&border_color=e94560" width="100%"/>
 </div>
 
 <div align="center">
