@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/ezzouekhamza/ezzouekhamza/assets/123456789/your-banner-image" alt="Hamza Ez-zouek - Fullstack Developer" width="100%"/>
+ <img src="https://raw.githubusercontent.com/ezzouekhamza/ezzouekhamza/main/assets/dev_header.png" width="100%"/>
 </div>
 
 <div align="center">
