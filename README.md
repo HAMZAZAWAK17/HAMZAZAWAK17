@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=280&section=header&text=Ez-zouek%20Hamza&fontSize=50&fontAlignY=40&desc=Développeur%20Web%20Fullstack%20%F0%9F%91%BB%F0%9F%92%BB%20basé%20à%20Casablanca%2C%20Maroc&descAlignY=55&animation=fadeIn&fontColor=ffffff&descAlign=center" />
+  <img src="https://github.com/ezzouekhamza/ezzouekhamza/assets/123456789/your-banner-image" alt="Hamza Ez-zouek - Fullstack Developer" width="100%"/>
 </div>
 
 <div align="center">
@@ -32,7 +32,7 @@
 
 <div align="center">
 
-| Période       | 📅 Formation/Expérience | 🏢 Institution/Lieu |
+| Période       | 📅 Formation/Expérience | � Institution/Lieu |
 |--------------|-------------------------|---------------------|
 | 2024–2025    | Bachelor en Génie Logiciel | ESTEM, Casablanca |
 | Mars–Mai 2024| Stage PFE (Développement Fullstack) | All Formations, France |
