@@ -1,5 +1,5 @@
 <div align="center">
- <img src="https://raw.githubusercontent.com/ezzouekhamza/ezzouekhamza/main/assets/dev_header.png" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&lines=Hamza+Ez-zouek;Fullstack+Web+Developer;From+Casablanca,+Morocco" alt="Typing SVG" />
 </div>
 
 <div align="center">
