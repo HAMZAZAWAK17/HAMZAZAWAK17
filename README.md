@@ -88,11 +88,11 @@ const ezzouekHamza: Développeur = {
 - **Weather App** (2024-2025) : Application météo avec React.js et gestion des étudiants (Java/MySQL)
 - **Gestion des commandes** (2024) : Système Node.js/Express.js/MySQL
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Statistiques GitHub
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Statistiques GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ezzouekhamza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Stats GitHub"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezzouekhamza&layout=compact&theme=tokyonight" alt="Langages les plus utilisés"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ezzouekhamza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Stats GitHub"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ezzouekhamza&layout=compact&theme=tokyonight" alt="Langages les plus utilisés"/>
 </div>
 
 <div align="center">
@@ -107,8 +107,8 @@ const ezzouekHamza: Développeur = {
 
 <div align="center">
 
-[![Weather App](https://github-readme-stats.vercel.app/api/pin/?username=ezzouekhamza&repo=weather-app&theme=tokyonight)](https://github.com/ezzouekhamza/weather-app)
-[![Gestion RH](https://github-readme-stats.vercel.app/api/pin/?username=ezzouekhamza&repo=gestion-rh&theme=tokyonight)](https://github.com/ezzouekhamza/gestion-rh)
+[![Weather App](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ezzouekhamza&repo=weather-app&theme=tokyonight)](https://github.com/ezzouekhamza/weather-app)
+[![Gestion RH](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ezzouekhamza&repo=gestion-rh&theme=tokyonight)](https://github.com/ezzouekhamza/gestion-rh)
 
 </div>
 
