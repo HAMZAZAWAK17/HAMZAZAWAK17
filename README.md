@@ -1,149 +1,127 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Salut, moi c'est Ez-zouek Hamza ! 
+# Hi there! 👋 I'm Hamza Ezzouek
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Développeur+Web+et+Mobile;Étudiant+ESTEM+Casablanca;Spécialisé+en+Génie+Logiciel;Passionné+par+l'Innovation+Tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Software+Engineering+Student;Always+learning+new+things" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ezzouekhamza&label=Visiteurs&color=0e75b6&style=flat" alt="Compteur de visiteurs" />
-  <img src="https://img.shields.io/github/followers/ezzouekhamza?label=Followers&style=social" alt="GitHub followers" />
-</div></div>
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</div>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> À Propos de Moi
+## 🚀 About Me
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400">
+> **Passionate Full-Stack Developer & Software Engineering Student**
 
-```typescript
-interface Développeur {
-  nom: string;
-  age: number;
-  ville: string;
-  formation: string;
-  specialites: string[];
-  langages: string[];
-  passions: string[];
-  contact: string;
-}
+I'm a dedicated full-stack developer currently pursuing my professional license in Software Engineering. With a strong foundation in modern web technologies, I love creating complete web solutions that make a difference. I'm actively seeking internship opportunities to contribute to innovative projects and grow in a stimulating professional environment.
 
-const ezzouekHamza: Développeur = {
-  nom: "Ez-zouek Hamza",
-  age: 22,
-  ville: "Casablanca, Maroc",
-  formation: "ESTEM - Licence Génie Logiciel",
-  specialites: ["Frontend", "Backend", "Mobile", "Fullstack"],
-  langages: ["JavaScript", "React", "Node.js", "Laravel", "MySQL"],
-  passions: ["Kickboxing", "Football", "Voyage", "Innovation Tech"],
-  contact: "ezzouekhamza2411@gmail.com"
-};
-```
+- 🌱 Currently studying **Software Engineering** at ESTEM
+- 💼 Looking for **internship opportunities** in full-stack development
+- 🎯 Passionate about creating **complete web solutions**
+- 📍 Based in **Casablanca, Morocco**
 
-<br clear="right"/>
-
-## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="35"> Stack Technologique
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### 🚀 Langages & Technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,laravel,php,mysql,html,css&theme=dark" alt="Langages" />
-</p>
+### Frontend
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 🎨 Frontend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap&theme=dark" alt="Frontend" />
-</p>
+### Backend
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
-### ⚙️ Backend & Mobile
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,laravel,php,mysql,reactnative&theme=dark" alt="Backend" />
-</p>
+### Databases
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🗄️ Bases de Données & Outils
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,figma&theme=dark" alt="Database & Tools" />
-</p>
+### Tools & Others
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 </div>
 
-## 🎓 Formation & Expérience
-
-### 📚 **Formation Académique**
-- **2024-2025** : ESTEM - Licence Génie Logiciel, Casablanca
-- **2022-2024** : OFPPT Centre de Formation Professionnelle, Casablanca
-- **Spécialité** : Développement informatique & génie logiciel
-
-### 💼 **Expériences Professionnelles**
-
-**🔹 Stage PFE - Laboratoire d'études transversales** *(Décembre 2024 - Mars 2025)*
-- Développement d'une application web orientée pour présenter les services et activités du laboratoire
-- Technologies : React.js, Laravel, MySQL
-- Interface moderne et interactive avec gestion sécurisée des données
-
-**🔹 Stage de fin d'étude - MutadaCom** *(Avril 2025 - Juillet 2025)*  
-- Application de gestion RH avec React.js, Node.js et Express.js
-- Gestion des employés, congés et notes de frais
-- Backend robuste avec MySQL pour optimiser les performances
-
-### 🚀 **Projets Récents**
-- **Weather App** (2024-2025) : Application météo avec React.js et gestion des étudiants (Java/MySQL)
-- **Gestion des commandes** (2024) : Système Node.js/Express.js/MySQL
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Statistiques GitHub
+## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ezzouekhamza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Stats GitHub"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ezzouekhamza&layout=compact&theme=tokyonight" alt="Langages les plus utilisés"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ezzouekhamza&theme=tokyonight" alt="Streak Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ezzouekhamza&theme=tokyo-night&hide_border=true&area=true" alt="Graphique d'activité" />
-</div>
-
-## <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="35"> Projets Phares
+## 🎯 Featured Projects
 
 <div align="center">
 
-[![Weather App](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ezzouekhamza&repo=weather-app&theme=tokyonight)](https://github.com/ezzouekhamza/weather-app)
-[![Gestion RH](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ezzouekhamza&repo=gestion-rh&theme=tokyonight)](https://github.com/ezzouekhamza/gestion-rh)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=adoption-center&theme=tokyonight)](https://github.com/yourusername/adoption-center)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=moroccan-restaurant&theme=tokyonight)](https://github.com/yourusername/moroccan-restaurant)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=portfolio&theme=tokyonight)](https://github.com/yourusername/portfolio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=weather-app&theme=tokyonight)](https://github.com/yourusername/weather-app)
 
 </div>
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> Trophées GitHub
+### 🌟 Key Projects
+
+- **🐾 Adoption Center** - Full-stack web application built with ReactJS, Laravel, TailwindCSS, and MySQL
+- **🍽️ Moroccan Restaurant Website** - Modern restaurant website using ReactJS (In Progress)
+- **📱 Professional Portfolio** - Responsive portfolio showcasing my work with ReactJS
+- **☁️ Weather Application** - Interactive weather app with HTML, CSS, and JavaScript
+
+## 🏆 Certifications
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ezzouekhamza&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophées" />
+
+| Certification | Platform | Status |
+|:-------------:|:--------:|:------:|
+| 📜 PHP Certification | SoloLearn | ✅ Completed |
+| 🎨 Frontend Developer | Udemy | ✅ Completed |
+
 </div>
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Activité Récente
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-## <img src="https://media.giphy.com/media/jqNPzdTTxQfOgOqpO4/giphy.gif" width="35"> Connectons-nous !
+## 🌍 Languages
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ezzouek-hamza)
+| Language | Level |
+|:--------:|:-----:|
+| 🇲🇦 Arabic | Native |
+| 🇬🇧 English | Advanced Intermediate |
+| 🇫🇷 French | Advanced Intermediate |
+
+</div>
+
+## 📫 Let's Connect!
+
+<div align="center">
+
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ezzouekhamza2411@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+212640347045)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ezzouekhamza.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hamza-ezzouek)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/zawa9.1.7)
 
-</div>
+📍 **Location:** Casablanca, Morocco  
+📞 **Phone:** +212 640 347045
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn" alt="Footer" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=💫+Merci+de+visiter+mon+profil+!;🚀+N'hésitez+pas+à+explorer+mes+projets;⭐+Star+si+vous+aimez+mon+travail+!" alt="Footer typing" />
-</div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ezzouekhamza/ezzouekhamza/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+### 💭 Quote of the Day
+*"The only way to do great work is to love what you do."* - Steve Jobs
+
+![Snake animation](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
+
+⭐️ From [Hamza Ezzouek](https://github.com/yourusername)
+
 </div>
