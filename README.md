@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=6366F1&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=hamza-ezzouek&label=Profile%20views&color=6366F1&style=for-the-badge" alt="Profile views" />
 </div>
 
 ---
@@ -13,7 +13,7 @@
 ## 👨‍💻 About Me
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hamza-ezzouek&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
 > **Passionate Full-Stack Developer & Software Engineering Student** 🎯
@@ -61,11 +61,11 @@ I'm a dedicated full-stack developer currently pursuing my professional license 
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF&icon_color=6366F1" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hamza-ezzouek&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF&icon_color=6366F1" alt="GitHub Stats" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=false&background=0D1117&stroke=6366F1&ring=6366F1&fire=6366F1&currStreakNum=FFFFFF&currStreakLabel=6366F1&sideNums=FFFFFF&sideLabels=6366F1&dates=6366F1" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamza-ezzouek&theme=radical&hide_border=false&background=0D1117&stroke=6366F1&ring=6366F1&fire=6366F1&currStreakNum=FFFFFF&currStreakLabel=6366F1&sideNums=FFFFFF&sideLabels=6366F1&dates=6366F1" alt="GitHub Streak" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamza-ezzouek&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
 </div>
 
 ---
@@ -77,106 +77,60 @@ I'm a dedicated full-stack developer currently pursuing my professional license 
 </div>
 
 <div align="center">
-  <a href="https://github.com/yourusername/adoption-center">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=adoption-center&theme=radical&hide_border=false&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" alt="Adoption Center" />
+  <a href="https://github.com/hamza-ezzouek/adoption-center">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hamza-ezzouek&repo=adoption-center&theme=radical&hide_border=false&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" alt="Adoption Center" />
   </a>
-  <a href="https://github.com/yourusername/moroccan-restaurant">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=moroccan-restaurant&theme=radical&hide_border=false&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" alt="Moroccan Restaurant" />
+  <a href="https://github.com/hamza-ezzouek/moroccan-restaurant">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hamza-ezzouek&repo=moroccan-restaurant&theme=radical&hide_border=false&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" alt="Moroccan Restaurant" />
   </a>
-  <a href="https://github.com/yourusername/portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=portfolio&theme=radical&hide_border=false&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" alt="Portfolio" />
+  <a href="https://github.com/hamza-ezzouek/portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hamza-ezzouek&repo=portfolio&theme=radical&hide_border=false&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" alt="Portfolio" />
   </a>
-  <a href="https://github.com/yourusername/weather-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=weather-app&theme=radical&hide_border=false&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" alt="Weather App" />
+  <a href="https://github.com/hamza-ezzouek/weather-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hamza-ezzouek&repo=weather-app&theme=radical&hide_border=false&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" alt="Weather App" />
   </a>
 </div>
 
 ### 🚀 Project Highlights
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h4>🐾 Adoption Center</h4>
-        <p>Full-stack web application built with ReactJS, Laravel, TailwindCSS, and MySQL. Features user authentication, pet listings, and adoption management system.</p>
-        <p><strong>Tech Stack:</strong> ReactJS, Laravel, TailwindCSS, MySQL</p>
-      </td>
-      <td width="50%">
-        <h4>🍽️ Moroccan Restaurant</h4>
-        <p>Modern restaurant website with beautiful UI/UX design, menu management, and reservation system. Built with ReactJS and modern web technologies.</p>
-        <p><strong>Tech Stack:</strong> ReactJS, CSS3, JavaScript</p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h4>📱 Professional Portfolio</h4>
-        <p>Responsive portfolio showcasing my work and skills. Features smooth animations, modern design, and interactive elements.</p>
-        <p><strong>Tech Stack:</strong> ReactJS, CSS3, JavaScript</p>
-      </td>
-      <td width="50%">
-        <h4>☁️ Weather Application</h4>
-        <p>Interactive weather app with real-time data, beautiful UI, and location-based weather information.</p>
-        <p><strong>Tech Stack:</strong> HTML5, CSS3, JavaScript, Weather API</p>
-      </td>
-    </tr>
-  </table>
-</div>
+#### 🐾 Adoption Center
+Full-stack web application built with ReactJS, Laravel, TailwindCSS, and MySQL. Features user authentication, pet listings, and adoption management system.
+
+**Tech Stack:** ReactJS, Laravel, TailwindCSS, MySQL
+
+#### 🍽️ Moroccan Restaurant
+Modern restaurant website with beautiful UI/UX design, menu management, and reservation system. Built with ReactJS and modern web technologies.
+
+**Tech Stack:** ReactJS, CSS3, JavaScript
+
+#### 📱 Professional Portfolio
+Responsive portfolio showcasing my work and skills. Features smooth animations, modern design, and interactive elements.
+
+**Tech Stack:** ReactJS, CSS3, JavaScript
+
+#### ☁️ Weather Application
+Interactive weather app with real-time data, beautiful UI, and location-based weather information.
+
+**Tech Stack:** HTML5, CSS3, JavaScript, Weather API
 
 ---
 
 ## 🏆 Certifications & Achievements
 
-<div align="center">
-  <table>
-    <tr>
-      <th>Certification</th>
-      <th>Platform</th>
-      <th>Status</th>
-      <th>Badge</th>
-    </tr>
-    <tr>
-      <td>📜 PHP Certification</td>
-      <td>SoloLearn</td>
-      <td>✅ Completed</td>
-      <td><img src="https://img.shields.io/badge/PHP-Certified-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP Certified" /></td>
-    </tr>
-    <tr>
-      <td>🎨 Frontend Developer</td>
-      <td>Udemy</td>
-      <td>✅ Completed</td>
-      <td><img src="https://img.shields.io/badge/Frontend-Certified-1572B6?style=for-the-badge&logo=html5&logoColor=white" alt="Frontend Certified" /></td>
-    </tr>
-  </table>
-</div>
+| Certification | Platform | Status | Badge |
+|:-------------:|:--------:|:------:|:-----:|
+| 📜 PHP Certification | SoloLearn | ✅ Completed | ![PHP Certified](https://img.shields.io/badge/PHP-Certified-777BB4?style=for-the-badge&logo=php&logoColor=white) |
+| 🎨 Frontend Developer | Udemy | ✅ Completed | ![Frontend Certified](https://img.shields.io/badge/Frontend-Certified-1572B6?style=for-the-badge&logo=html5&logoColor=white) |
 
 ---
 
 ## 🌍 Languages & Communication
 
-<div align="center">
-  <table>
-    <tr>
-      <th>Language</th>
-      <th>Level</th>
-      <th>Proficiency</th>
-    </tr>
-    <tr>
-      <td>🇲🇦 Arabic</td>
-      <td>Native</td>
-      <td>⭐⭐⭐⭐⭐</td>
-    </tr>
-    <tr>
-      <td>🇬🇧 English</td>
-      <td>Advanced Intermediate</td>
-      <td>⭐⭐⭐⭐</td>
-    </tr>
-    <tr>
-      <td>🇫🇷 French</td>
-      <td>Advanced Intermediate</td>
-      <td>⭐⭐⭐⭐</td>
-    </tr>
-  </table>
-</div>
+| Language | Level | Proficiency |
+|:--------:|:-----:|:-----------:|
+| 🇲🇦 Arabic | Native | ⭐⭐⭐⭐⭐ |
+| 🇬🇧 English | Advanced Intermediate | ⭐⭐⭐⭐ |
+| 🇫🇷 French | Advanced Intermediate | ⭐⭐⭐⭐ |
 
 ---
 
@@ -220,7 +174,7 @@ I'm a dedicated full-stack developer currently pursuing my professional license 
   
   <br><br>
   
-  ⭐️ From [Hamza Ezzouek](https://github.com/yourusername)
+  ⭐️ From [Hamza Ezzouek](https://github.com/hamza-ezzouek)
   
   <br>
   
