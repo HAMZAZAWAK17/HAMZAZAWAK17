@@ -215,7 +215,8 @@ I'm a dedicated full-stack developer currently pursuing my professional license 
   
   <br>
   
-  <img src="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <h3>🎵 Currently Listening</h3>
+  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3jjujdWJ72nww5eGnfs2E7?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
   
   <br><br>
   
