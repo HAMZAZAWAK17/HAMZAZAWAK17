@@ -69,11 +69,41 @@ I'm a dedicated full-stack developer currently pursuing my professional license 
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamza-ezzouek&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF&icon_color=6366F1" alt="GitHub Stats" />
+  <h3>📈 My GitHub Activity</h3>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamza-ezzouek&theme=radical&hide_border=false&background=0D1117&stroke=6366F1&ring=6366F1&fire=6366F1&currStreakNum=FFFFFF&currStreakLabel=6366F1&sideNums=FFFFFF&sideLabels=6366F1&dates=6366F1" alt="GitHub Streak" />
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; margin: 20px 0;">
+    <div style="text-align: center; padding: 20px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 15px; color: white; min-width: 200px;">
+      <h4>🚀 Commits</h4>
+      <p style="font-size: 2em; margin: 10px 0; font-weight: bold;">500+</p>
+      <p>Total commits</p>
+    </div>
+    
+    <div style="text-align: center; padding: 20px; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); border-radius: 15px; color: white; min-width: 200px;">
+      <h4>⭐ Stars</h4>
+      <p style="font-size: 2em; margin: 10px 0; font-weight: bold;">25+</p>
+      <p>Repository stars</p>
+    </div>
+    
+    <div style="text-align: center; padding: 20px; background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); border-radius: 15px; color: white; min-width: 200px;">
+      <h4>🔧 Repositories</h4>
+      <p style="font-size: 2em; margin: 10px 0; font-weight: bold;">15+</p>
+      <p>Active projects</p>
+    </div>
+    
+    <div style="text-align: center; padding: 20px; background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%); border-radius: 15px; color: white; min-width: 200px;">
+      <h4>🌱 Contributions</h4>
+      <p style="font-size: 2em; margin: 10px 0; font-weight: bold;">365+</p>
+      <p>Days active</p>
+    </div>
+  </div>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamza-ezzouek&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
+  <h3>💻 Most Used Languages</h3>
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; margin: 20px 0;">
+    <img src="https://img.shields.io/badge/JavaScript-40%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/PHP-25%25-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+    <img src="https://img.shields.io/badge/HTML-20%25-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+    <img src="https://img.shields.io/badge/CSS-15%25-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  </div>
 </div>
 
 ---
@@ -160,7 +190,7 @@ I'm a dedicated full-stack developer currently pursuing my professional license 
   <br>
   
   📍 **Location:** Casablanca, Morocco  
-  📞 **Phone:** +212 640 347045
+  📞 **Phone:** +212 640 347045lscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
   
   <br><br>
   
@@ -178,7 +208,7 @@ I'm a dedicated full-stack developer currently pursuing my professional license 
   <br>
   
   <h3>🎵 Currently Listening</h3>
-  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3jjujdWJ72nww5eGnfs2E7?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3jjujdWJ72nww5eGnfs2E7?utm_source=generator" width="100%" height="152" frameBorder="0" allowful
   
   <br><br>
   
