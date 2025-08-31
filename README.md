@@ -32,28 +32,36 @@ I'm a dedicated full-stack developer currently pursuing my professional license 
 
 <div align="center">
   <h3>🖥️ Frontend Development</h3>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin: 20px 0;">
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+    <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+  </div>
   
   <h3>⚙️ Backend Development</h3>
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin: 20px 0;">
+    <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+    <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
+    <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
+    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  </div>
   
   <h3>🗄️ Databases</h3>
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin: 20px 0;">
+    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  </div>
   
   <h3>🛠️ Tools & Others</h3>
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" />
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin: 20px 0;">
+    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+    <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" />
+  </div>
 </div>
 
 ---
@@ -76,42 +84,40 @@ I'm a dedicated full-stack developer currently pursuing my professional license 
   <h3>🌟 My Latest Work</h3>
 </div>
 
-<div align="center">
-  <a href="https://github.com/hamza-ezzouek/adoption-center">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hamza-ezzouek&repo=adoption-center&theme=radical&hide_border=false&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" alt="Adoption Center" />
-  </a>
-  <a href="https://github.com/hamza-ezzouek/moroccan-restaurant">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hamza-ezzouek&repo=moroccan-restaurant&theme=radical&hide_border=false&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" alt="Moroccan Restaurant" />
-  </a>
-  <a href="https://github.com/hamza-ezzouek/portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hamza-ezzouek&repo=portfolio&theme=radical&hide_border=false&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" alt="Portfolio" />
-  </a>
-  <a href="https://github.com/hamza-ezzouek/weather-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hamza-ezzouek&repo=weather-app&theme=radical&hide_border=false&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" alt="Weather App" />
-  </a>
-</div>
-
 ### 🚀 Project Highlights
 
-#### 🐾 Adoption Center
-Full-stack web application built with ReactJS, Laravel, TailwindCSS, and MySQL. Features user authentication, pet listings, and adoption management system.
-
-**Tech Stack:** ReactJS, Laravel, TailwindCSS, MySQL
-
-#### 🍽️ Moroccan Restaurant
-Modern restaurant website with beautiful UI/UX design, menu management, and reservation system. Built with ReactJS and modern web technologies.
-
-**Tech Stack:** ReactJS, CSS3, JavaScript
-
-#### 📱 Professional Portfolio
-Responsive portfolio showcasing my work and skills. Features smooth animations, modern design, and interactive elements.
-
-**Tech Stack:** ReactJS, CSS3, JavaScript
-
-#### ☁️ Weather Application
-Interactive weather app with real-time data, beautiful UI, and location-based weather information.
-
-**Tech Stack:** HTML5, CSS3, JavaScript, Weather API
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <h4>🐾 Adoption Center</h4>
+        <p>Full-stack web application built with ReactJS, Laravel, TailwindCSS, and MySQL. Features user authentication, pet listings, and adoption management system.</p>
+        <p><strong>Tech Stack:</strong> ReactJS, Laravel, TailwindCSS, MySQL</p>
+        <a href="#"><img src="https://img.shields.io/badge/View%20Project-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="View Project" /></a>
+      </td>
+      <td align="center" width="50%">
+        <h4>🍽️ Moroccan Restaurant</h4>
+        <p>Modern restaurant website with beautiful UI/UX design, menu management, and reservation system. Built with ReactJS and modern web technologies.</p>
+        <p><strong>Tech Stack:</strong> ReactJS, CSS3, JavaScript</p>
+        <a href="#"><img src="https://img.shields.io/badge/View%20Project-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="View Project" /></a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <h4>📱 Professional Portfolio</h4>
+        <p>Responsive portfolio showcasing my work and skills. Features smooth animations, modern design, and interactive elements.</p>
+        <p><strong>Tech Stack:</strong> ReactJS, CSS3, JavaScript</p>
+        <a href="#"><img src="https://img.shields.io/badge/View%20Project-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="View Project" /></a>
+      </td>
+      <td align="center" width="50%">
+        <h4>☁️ Weather Application</h4>
+        <p>Interactive weather app with real-time data, beautiful UI, and location-based weather information.</p>
+        <p><strong>Tech Stack:</strong> HTML5, CSS3, JavaScript, Weather API</p>
+        <a href="#"><img src="https://img.shields.io/badge/View%20Project-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="View Project" /></a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -139,17 +145,19 @@ Interactive weather app with real-time data, beautiful UI, and location-based we
 <div align="center">
   <h3>🤝 Get In Touch</h3>
   
-  <a href="mailto:ezzouekhamza2411@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/hamza-ezzouek">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/zawa9.1.7">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin: 20px 0;">
+    <a href="mailto:ezzouekhamza2411@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://linkedin.com/in/hamza-ezzouek">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://instagram.com/zawa9.1.7">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
+  </div>
   
-  <br><br>
+  <br>
   
   📍 **Location:** Casablanca, Morocco  
   📞 **Phone:** +212 640 347045
