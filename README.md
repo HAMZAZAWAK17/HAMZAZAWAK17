@@ -6,78 +6,145 @@
 💬 Ask me about coding, design, and tech-related topics.<br>
 ⚡ Fun fact: The first computer bug was a real moth stuck in a Harvard Mark II computer in 1947.
 
-## 🌐 Connectez-vous avec moi:
+<div align="center">
+
+## 🌟 Connect With Me
+
+<div align="center">
+  <a href="https://instagram.com/zouakachev.1.7" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram" />
+  </a>
+  <a href="https://linkedin.com/in/hamza-ezzouek" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ezzouekhamza2411@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email" />
+  </a>
+</div>
+
+<br>
+
+### 🎨 Alternative Styles
+
+<details>
+<summary>📱 <b>Version avec animation</b></summary>
+<br>
+
+<div align="center">
+  <a href="https://instagram.com/zouakachev.1.7">
+    <img src="https://img.shields.io/badge/-@zouakachev.1.7-E4405F?style=flat-square&logo=instagram&logoColor=white" height="35" alt="Instagram"/>
+  </a>
+  <a href="https://linkedin.com/in/hamza-ezzouek">
+    <img src="https://img.shields.io/badge/-Hamza%20Ezzouek-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="35" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:ezzouekhamza2411@gmail.com">
+    <img src="https://img.shields.io/badge/-Contact%20Me-D14836?style=flat-square&logo=gmail&logoColor=white" height="35" alt="Email"/>
+  </a>
+</div>
+
+</details>
+
+<details>
+<summary>✨ <b>Version minimaliste</b></summary>
+<br>
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/zouakachev.1.7)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hamza-ezzouek)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ezzouekhamza2411@gmail.com)
+```
+📸 Instagram  •  💼 LinkedIn  •  ✉️ Email
+```
+
+[🔗 Instagram](https://instagram.com/zouakachev.1.7) | [🔗 LinkedIn](https://linkedin.com/in/hamza-ezzouek) | [🔗 Email](mailto:ezzouekhamza2411@gmail.com)
+
+</div>
+
+</details>
 
 </div>
 
 ---
 
-## 🌟 Alternative avec icônes rondes:
-
 <div align="center">
 
-<a href="https://instagram.com/zouakachev.1.7" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram" height="40"/>
-</a>
-<a href="https://linkedin.com/in/hamza-ezzouek" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" height="40"/>
-</a>
-<a href="mailto:ezzouekhamza2411@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&style=for-the-badge" alt="Email" height="40"/>
-</a>
+## 💻 Tech Stack
+
+### 🌐 Frontend Technologies
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### ⚙️ Backend Technologies
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### 📱 Mobile Development
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🛠️ Tools & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FCA326?style=for-the-badge&logo=gitlab&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### 🎨 Design & Others
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 
 </div>
 
 ---
 
-## 📱 Version avec icônes circulaires:
-
 <div align="center">
 
-<a href="https://instagram.com/zouakachev.1.7">
-  <img src="https://img.shields.io/badge/-zouakachev.1.7-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://instagram.com/zouakachev.1.7" alt="Instagram"/>
-</a>
-<a href="https://linkedin.com/in/hamza-ezzouek">
-  <img src="https://img.shields.io/badge/-Hamza%20Ezzouek-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/hamza-ezzouek" alt="LinkedIn"/>
-</a>
-<a href="mailto:ezzouekhamza2411@gmail.com">
-  <img src="https://img.shields.io/badge/-ezzouekhamza2411@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white&link=mailto:ezzouekhamza2411@gmail.com" alt="Email"/>
-</a>
+### 🚀 Alternative Tech Stack Layout
+
+<details>
+<summary><b>📋 Compact View</b></summary>
+<br>
+
+**Frontend:** HTML5 • CSS3 • JavaScript • TypeScript • Angular • Bootstrap
+
+**Backend:** Node.js • Express.js • PHP • Laravel • Java
+
+**Mobile:** React Native • Ionic
+
+**Database:** MySQL • MongoDB
+
+**Tools:** Git • GitHub • GitLab • Docker • Postman • Figma
+
+</details>
+
+<details>
+<summary><b>🎯 Skills Matrix</b></summary>
+<br>
+
+| Category | Technologies |
+|----------|-------------|
+| **Languages** | JavaScript, TypeScript, PHP, Java, HTML5, CSS3 |
+| **Frameworks** | Angular, Laravel, Express.js, Bootstrap, Ionic |
+| **Mobile** | React Native, Ionic |
+| **Databases** | MySQL, MongoDB |
+| **Tools** | Git, Docker, Postman, Figma |
+| **Runtime** | Node.js, NPM |
+
+</details>
 
 </div>
 
 ---
-
-## 🚀 Version minimaliste avec emoji:
-
-<div align="center">
-
-📸 [Instagram](https://instagram.com/zouakachev.1.7) • 💼 [LinkedIn](https://linkedin.com/in/hamza-ezzouek) • ✉️ [Email](mailto:ezzouekhamza2411@gmail.com)
-
-</div>
-
----
-
-## 🎯 Version avec compteurs de followers:
-
-<div align="center">
-
-[![Instagram followers](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/zouakachev.1.7)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hamza-ezzouek)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ezzouekhamza2411@gmail.com)
-
-</div>
-
----
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=HAMZAZAWAK17&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
