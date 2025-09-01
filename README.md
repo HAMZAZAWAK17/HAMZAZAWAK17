@@ -16,13 +16,13 @@
 
 <div align="center">
   <a href="https://instagram.com/zouakachev.1.7" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="60" height="60"/>
   </a>
   <a href="https://linkedin.com/in/hamza-ezzouek" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="60" height="60"/>
   </a>
   <a href="mailto:ezzouekhamza2411@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email" />
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" width="60" height="60"/>
   </a>
 </div>
 
@@ -35,15 +35,17 @@
 <br>
 
 <div align="center">
+<div align="center">
   <a href="https://instagram.com/zouakachev.1.7">
-    <img src="https://img.shields.io/badge/-@zouakachev.1.7-E4405F?style=flat-square&logo=instagram&logoColor=white" height="35" alt="Instagram"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="40" height="40"/>
   </a>
   <a href="https://linkedin.com/in/hamza-ezzouek">
-    <img src="https://img.shields.io/badge/-Hamza%20Ezzouek-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="35" alt="LinkedIn"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
   <a href="mailto:ezzouekhamza2411@gmail.com">
-    <img src="https://img.shields.io/badge/-Contact%20Me-D14836?style=flat-square&logo=gmail&logoColor=white" height="35" alt="Email"/>
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" width="40" height="40"/>
   </a>
+</div>
 </div>
 
 </details>
@@ -84,7 +86,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="Laravel" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
 
 ### 📱 Mobile Development
