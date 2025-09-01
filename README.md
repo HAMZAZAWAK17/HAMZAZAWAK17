@@ -25,6 +25,7 @@
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" width="60" height="60"/>
   </a>
 </div>
+
 <br>
 
 ### 🎨 Alternative Styles
@@ -36,7 +37,7 @@
 <div align="center">
 <div align="center">
   <a href="https://instagram.com/zouakachev.1.7">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" width="40" height="40"/>
   </a>
   <a href="https://linkedin.com/in/hamza-ezzouek">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
