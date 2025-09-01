@@ -16,7 +16,7 @@
 
 <div align="center">
   <a href="https://instagram.com/zouakachev.1.7" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="60" height="60"/>
+    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" width="60" height="60"/>
   </a>
   <a href="https://linkedin.com/in/hamza-ezzouek" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="60" height="60"/>
@@ -25,7 +25,6 @@
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" width="60" height="60"/>
   </a>
 </div>
-
 <br>
 
 ### 🎨 Alternative Styles
