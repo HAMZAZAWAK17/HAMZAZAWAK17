@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hamza%20Ezzouek&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Mobile%20App%20Developer&descAlignY=55&descSize=18" width="100%"/>
+</div>
 # 💫 About Me:
 🔭 I'm currently working on exciting new projects and ideas.<br>
 🤝 I'm looking to collaborate on innovative and creative ventures.<br>
