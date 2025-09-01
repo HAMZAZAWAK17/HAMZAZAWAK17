@@ -28,47 +28,7 @@
 
 <br>
 
-### 🎨 Alternative Styles
 
-<details>
-<summary>📱 <b>Version avec animation</b></summary>
-<br>
-
-<div align="center">
-<div align="center">
-  <a href="https://instagram.com/zouakachev.1.7">
-    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" width="40" height="40"/>
-  </a>
-  <a href="https://linkedin.com/in/hamza-ezzouek">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  <a href="mailto:ezzouekhamza2411@gmail.com">
-    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" width="40" height="40"/>
-  </a>
-</div>
-</div>
-
-</details>
-
-<details>
-<summary>✨ <b>Version minimaliste</b></summary>
-<br>
-
-<div align="center">
-
-```
-📸 Instagram  •  💼 LinkedIn  •  ✉️ Email
-```
-
-[🔗 Instagram](https://instagram.com/zouakachev.1.7) | [🔗 LinkedIn](https://linkedin.com/in/hamza-ezzouek) | [🔗 Email](mailto:ezzouekhamza2411@gmail.com)
-
-</div>
-
-</details>
-
-</div>
-
----
 
 <div align="center">
 
