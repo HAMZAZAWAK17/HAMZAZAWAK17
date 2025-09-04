@@ -127,6 +127,17 @@
 ![](https://github-contributor-stats.vercel.app/api?username=HAMZAZAWAK17&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+---
+
+## 📈 Graphique d'Activité
+
+<div align="center">
+  
+  [![Hamza's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HAMZAZAWAK17&theme=radical&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
+</div>
+
+---
 
 <div align="center">
 
