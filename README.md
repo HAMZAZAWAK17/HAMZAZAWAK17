@@ -1,5 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hamza%20Ezzouek&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Mobile%20App%20Developer&descAlignY=55&descSize=18" width="100%"/>
+  <!-- Bannière principale avec effet de vague et dégradé -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=HAMZA%20EZZOUEK&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=✨%20FULL%20STACK%20DEVELOPER%20|%20MOBILE%20APP%20CREATOR%20✨&descAlignY=65&descSize=20" width="100%"/>
+  <!-- Animation de texte qui change -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=35&duration=3000&pause=1000&color=667EEA&background=00000000&center=true&vCenter=true&multiline=true&width=800&height=120&lines=💻+Développeur+Full+Stack+Passionné;🚀+Créateur+d'Applications+Innovantes;🎨+Architecte+de+Solutions+Digitales;⚡+Transformateur+d'Idées+en+Code" alt="Typing SVG" />
+  </a>
 </div>
 
 # 💫 About Me:
