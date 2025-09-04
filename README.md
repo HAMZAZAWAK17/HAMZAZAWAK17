@@ -2,138 +2,180 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hamza%20Ezzouek&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Mobile%20App%20Developer&descAlignY=55&descSize=18" width="100%"/>
 </div>
 
-# 💫 About Me:
-🔭 I'm currently working on exciting new projects and ideas.<br>
-🤝 I'm looking to collaborate on innovative and creative ventures.<br>
-🤲 I'm looking for help with learning and improving my skills.<br>
-🌱 I'm currently learning new technologies and concepts.<br>
-💬 Ask me about coding, design, and tech-related topics.<br>
-⚡ Fun fact: The first computer bug was a real moth stuck in a Harvard Mark II computer in 1947.
-
 <div align="center">
-
-## 🌟 Connect With Me
-
-<div align="center">
-  <a href="https://instagram.com/zouakachev.1.7" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" width="60" height="60"/>
-  </a>
-  <a href="https://linkedin.com/in/hamza-ezzouek" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="60" height="60"/>
-  </a>
-  <a href="mailto:ezzouekhamza2411@gmail.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" width="60" height="60"/>
-  </a>
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Développeur+Full+Stack+Passionné;Créateur+d'Applications+Mobiles;Architecte+de+Solutions+Web;Always+Learning%2C+Always+Growing)](https://git.io/typing-svg)
+  
 </div>
 
-<br>
+---
 
+## 🚀 À Propos de Moi
 
+Salut ! Je suis **Hamza Ezzouek**, un développeur passionné par la création de solutions numériques innovantes. Avec une expertise qui s'étend du développement web au mobile, je transforme les idées en applications performantes et élégantes.
+
+```javascript
+const hamza = {
+    pronouns: "il/lui",
+    code: ["JavaScript", "TypeScript", "PHP", "Java", "HTML", "CSS"],
+    technologies: {
+        frontEnd: {
+            js: ["Angular", "Bootstrap"],
+            css: ["Sass", "CSS3", "Bootstrap"]
+        },
+        backEnd: {
+            js: ["Node.js", "Express.js"],
+            php: ["Laravel"],
+            java: ["Spring Boot"]
+        },
+        mobile: ["React Native", "Ionic"],
+        databases: ["MySQL", "MongoDB"],
+        tools: ["Git", "Docker", "Postman", "Figma"]
+    },
+    currentFocus: "Développement d'applications web et mobiles",
+    challenge: "Je développe constamment mes compétences en architecture logicielle"
+};
+```
+
+---
+
+## 🌟 Ce que je fais actuellement
+
+🔭 **Projets en cours** : Développement d'applications innovantes avec des technologies modernes  
+🤝 **Collaboration** : Ouvert aux projets créatifs et aux partenariats techniques  
+🌱 **Apprentissage** : Exploration continue des nouvelles technologies et frameworks  
+💬 **Expertise** : N'hésitez pas à me demander des conseils sur le développement web/mobile  
+⚡ **Fun Fact** : Le premier bug informatique était littéralement un insecte coincé dans un ordinateur Harvard Mark II en 1947 !
+
+---
+
+## 🛠️ Stack Technologique
 
 <div align="center">
 
-## 💻 Tech Stack
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### 🌐 Frontend Technologies
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50"/>
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-### ⚙️ Backend Technologies
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
+### Mobile
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
 
-### 📱 Mobile Development
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" alt="Ionic" width="50" height="50"/>
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🗄️ Databases
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
-
-### 🛠️ Tools & DevOps
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50"/>
-
-### 🎨 Design & Others
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="NPM" width="50" height="50"/>
-<svg width="50" height="50" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg"><path d="M128 0C57.307 0 0 57.307 0 128s57.307 128 128 128 128-57.307 128-128S198.693 0 128 0z"/><path fill="#fff" d="M95.01 208.13h4.92c3.508 0 6.701-.6 9.608-1.76 2.895-1.168 5.447-2.8 7.625-4.886a22.317 22.317 0 0 0 5.257-7.246c1.313-2.825 1.981-5.909 1.981-9.246 0-3.337-.668-6.421-1.98-9.246a22.317 22.317 0 0 0-5.258-7.246c-2.178-2.087-4.73-3.718-7.625-4.886a24.02 24.02 0 0 0-9.608-1.76h-4.92V208.13z"/></svg>
+### Outils & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
 ---
 
+## 📊 Statistiques GitHub
+
+<div align="center">
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HAMZAZAWAK17&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAMZAZAWAK17&layout=compact&theme=radical&hide_border=true" />
+  
+</div>
+
+<div align="center">
+  
+  [![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=HAMZAZAWAK17&theme=radical&hide_border=true)](https://git.io/streak-stats)
+  
+</div>
+
+---
+
+## 🏆 Trophées GitHub
+
+<div align="center">
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=HAMZAZAWAK17&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+  
+</div>
+
+---
+
+## 🤝 Connectons-nous !
+
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hamza-ezzouek)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/zouakachev.1.7)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ezzouekhamza2411@gmail.com)
+  
+</div>
+
+---
+
+## ✨ Projets Récents
+
 <div align="center">
 
-### 🚀 Alternative Tech Stack Layout
-
-<details>
-<summary><b>📋 Compact View</b></summary>
-<br>
-
-**Frontend:** HTML5 • CSS3 • JavaScript • TypeScript • Angular • Bootstrap
-
-**Backend:** Node.js • Express.js • PHP • Laravel • Java
-
-**Mobile:** React Native • Ionic
-
-**Database:** MySQL • MongoDB
-
-**Tools:** Git • GitHub • GitLab • Docker • Postman • Figma
-
-</details>
-
-<details>
-<summary><b>🎯 Skills Matrix</b></summary>
-<br>
-
-| Category | Technologies |
-|----------|-------------|
-| **Languages** | JavaScript, TypeScript, PHP, Java, HTML5, CSS3 |
-| **Frameworks** | Angular, Laravel, Express.js, Bootstrap, Ionic |
-| **Mobile** | React Native, Ionic |
-| **Databases** | MySQL, MongoDB |
-| **Tools** | Git, Docker, Postman, Figma |
-| **Runtime** | Node.js, NPM |
-
-</details>
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=HAMZAZAWAK17&repo=awesome-project&theme=radical&hide_border=true)](https://github.com/HAMZAZAWAK17/awesome-project)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=HAMZAZAWAK17&repo=mobile-app&theme=radical&hide_border=true)](https://github.com/HAMZAZAWAK17/mobile-app)
 
 </div>
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=HAMZAZAWAK17&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=HAMZAZAWAK17&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HAMZAZAWAK17&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 💭 Citation du Jour
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=HAMZAZAWAK17&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<div align="center">
+  
+  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
+  
+</div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=HAMZAZAWAK17&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 📈 Graphique d'Activité
+
+<div align="center">
+  
+  [![Hamza's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HAMZAZAWAK17&theme=radical&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
+</div>
 
 ---
 
 <div align="center">
-
-[![](https://visitcount.itsvg.in/api?id=HAMZAZAWAK17&icon=0&color=0)](https://visitcount.itsvg.in)
-
-**💡 "Code is like humor. When you have to explain it, it's bad." - Cory House**
-
+  
+  ### 💼 Ouvert aux Opportunités
+  
+  > *"Le code est comme l'humour. Quand vous devez l'expliquer, c'est qu'il est mauvais."* - Cory House
+  
+  **Toujours prêt à collaborer sur des projets innovants !**
+  
+  ![Visitor Count](https://visitcount.itsvg.in/api?id=HAMZAZAWAK17&icon=2&color=6)
+  
 </div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+</div>
+
+---
+
+<div align="center">
+  <i>⭐️ N'hésitez pas à star mes repos si vous les trouvez intéressants ! ⭐️</i>
+</div>
