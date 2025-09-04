@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Bannière principale avec effet de vague et dégradé -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Hamza%20Ez-zouek&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=✨%20FULL%20STACK%20DEVELOPER%20|%20MOBILE%20APP%20CREATOR%20✨&descAlignY=65&descSize=20" width="100%"/>*
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Hamza%20Ez-zouek&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=✨%20FULL%20STACK%20DEVELOPER%20|%20MOBILE%20APP%20CREATOR%20✨&descAlignY=65&descSize=20" width="100%"/>
   <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=35&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Developpeur+Full+Stack+Passionne;Createur+d%27Applications+Innovantes;Architecte+de+Solutions+Digitales;Transformateur+d%27Idees+en+Code" alt="Typing SVG" />
 </a>
