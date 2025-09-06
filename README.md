@@ -41,66 +41,93 @@
 ## 💻 Tech Stack
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=400&section=header&text=UNIVERSE%20OF%20CODE&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Where%20Innovation%20Meets%20Imagination&descAlignY=60&descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=12,15,20,25,30&height=350&section=header&text=HAMZA%20EZ-ZOUEK&fontSize=60&fontColor=fff&animation=blinking&fontAlignY=45&desc=SYNTHWAVE%20DEVELOPER&descAlignY=65&descSize=24"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=40&duration=4000&pause=1000&color=FF00FF&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=▲+RETRO+FUTURE+CODING+▲;♦+NEON+DREAMS+IN+CODE+♦" alt="Synthwave" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1500&color=FF6B6B&center=true&vCenter=true&multiline=true&width=900&height=150&lines=🌟+Welcome+to+my+Digital+Cosmos;⭐+Each+Skill+is+a+Shining+Star;✨+Together+They+Create+Magic;🚀+Ready+to+Explore+the+Universe%3F" alt="Universe" />
-
-<br><br>
-
-<!-- Constellation Layout -->
-<table width="100%">
+<!-- Synthwave Grid -->
+<table>
 <tr>
-<td align="center" width="50%">
-
-### 🌟 Frontend Constellation
-<img src="https://skillicons.dev/icons?i=html&theme=dark" width="60" height="60" />
-　<img src="https://skillicons.dev/icons?i=css&theme=dark" width="60" height="60" />
-<br><br>
-<img src="https://skillicons.dev/icons?i=js&theme=dark" width="60" height="60" />
-　　<img src="https://skillicons.dev/icons?i=ts&theme=dark" width="60" height="60" />
-<br><br>
-　<img src="https://skillicons.dev/icons?i=react&theme=dark" width="60" height="60" />
-
+<td align="center" colspan="5">
+<img src="https://capsule-render.vercel.app/api?type=slice&color=FF00FF&height=80&section=header&text=◆+FRONTEND+MATRIX+◆&fontSize=24&fontColor=000&animation=blinking" width="800"/>
 </td>
-<td align="center" width="50%">
-
-### ⚡ Backend Galaxy
-<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="60" height="60" />
-　<img src="https://skillicons.dev/icons?i=express&theme=dark" width="60" height="60" />
-<br><br>
-<img src="https://skillicons.dev/icons?i=php&theme=dark" width="60" height="60" />
-　<img src="https://skillicons.dev/icons?i=laravel&theme=dark" width="60" height="60" />
-<br><br>
-　<img src="https://skillicons.dev/icons?i=java&theme=dark" width="60" height="60" />
-
+</tr>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=html&theme=dark" width="80" height="80" />
+<br><b>HTML5</b>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=css&theme=dark" width="80" height="80" />
+<br><b>CSS3</b>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=js&theme=dark" width="80" height="80" />
+<br><b>JavaScript</b>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=ts&theme=dark" width="80" height="80" />
+<br><b>TypeScript</b>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=react&theme=dark" width="80" height="80" />
+<br><b>React</b>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="5">
+<img src="https://capsule-render.vercel.app/api?type=slice&color=00FFFF&height=80&section=header&text=◆+BACKEND+NEXUS+◆&fontSize=24&fontColor=000&animation=blinking" width="800"/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="80" height="80" />
+<br><b>Node.js</b>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=express&theme=dark" width="80" height="80" />
+<br><b>Express</b>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=php&theme=dark" width="80" height="80" />
+<br><b>PHP</b>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=laravel&theme=dark" width="80" height="80" />
+<br><b>Laravel</b>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=java&theme=dark" width="80" height="80" />
+<br><b>Java</b>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+<img src="https://capsule-render.vercel.app/api?type=slice&color=FFFF00&height=80&section=header&text=DATA&fontSize=24&fontColor=000&animation=blinking" width="300"/>
+<br>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&perline=2&theme=dark" />
+</td>
+<td align="center" colspan="1">
+<img src="https://capsule-render.vercel.app/api?type=slice&color=FF6B00&height=80&section=header&text=MOBILE&fontSize=20&fontColor=000&animation=blinking" width="200"/>
+<br>
+<img src="https://skillicons.dev/icons?i=react&perline=1&theme=dark" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg" alt="ionic" width="48" height="48"/>
+</td>
+<td align="center" colspan="2">
+<img src="https://capsule-render.vercel.app/api?type=slice&color=00FF00&height=80&section=header&text=TOOLS&fontSize=24&fontColor=000&animation=blinking" width="300"/>
+<br>
+<img src="https://skillicons.dev/icons?i=figma,git,github,docker&perline=2&theme=dark" />
 </td>
 </tr>
 </table>
 
-<br><br>
+<br>
 
-### 🌌 Data & Mobile Nebula
-<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="70" height="70" />
-　　<img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="70" height="70" />
-　　<img src="https://skillicons.dev/icons?i=react&theme=dark" width="70" height="70" />
-　　<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg" alt="ionic" width="70" height="70"/>
-
-<br><br>
-
-### 🛠️ Tools Solar System
-<img src="https://skillicons.dev/icons?i=figma&theme=dark" width="65" height="65" />
-　<img src="https://skillicons.dev/icons?i=git&theme=dark" width="65" height="65" />
-　<img src="https://skillicons.dev/icons?i=github&theme=dark" width="65" height="65" />
-　<img src="https://skillicons.dev/icons?i=docker&theme=dark" width="65" height="65" />
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=30,25,20,15,12&height=100&section=footer&animation=blinking" width="100%"/>
 
 </div>
-
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=HAMZAZAWAK17&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
