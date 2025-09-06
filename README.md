@@ -1,24 +1,27 @@
 <div align="center">
-  <!-- Bannière principale avec effet de vague et dégradé -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Hamza%20Ez-zouek&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=✨%20FULL%20STACK%20DEVELOPER%20|%20MOBILE%20APP%20CREATOR%20✨&descAlignY=65&descSize=20" width="100%"/>
-  <a href="https://git.io/typing-svg">
- <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=35&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Passionate+Full+Stack+Developer;Creator+of+Innovative+Applications" alt="Typing SVG" />
-</a>
-
-
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,33,45,60&height=350&section=header&text=Hamza%20Ez-zouek&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=40&desc=🚀%20FULL%20STACK%20DEVELOPER%20|%20TECH%20INNOVATOR%20🚀&descAlignY=65&descSize=22" width="100%"/>
+  <!-- Elegant purple gradient -->
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=8,19,25,30&height=280&section=header&text=Hamza%20Ez-zouek&fontSize=85&fontColor=fff&animation=fadeIn&fontAlignY=45&desc=Full%20Stack%20Developer%20|%20Tech%20Enthusiast&descAlignY=65&descSize=20" width="100%"/>
   
-  <!-- Tech Stack Banner -->
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,angular,nodejs,php,laravel,java,react,mongodb,mysql,git,docker,figma&perline=8" />
+  <!-- Animated descriptions -->
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&width=850&height=90&lines=Creating+Seamless+Digital+Experiences;Passionate+About+Modern+Technologies;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
   
-  <br><br>
+  <br>
   
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=900&height=100&lines=💻+Building+Amazing+Web+%26+Mobile+Applications;🎨+Crafting+Beautiful+User+Experiences;⚡+Turning+Ideas+Into+Digital+Reality" alt="Typing SVG" />
-  </a>
+  <!-- Beautiful skill badges -->
+  <p>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=282828"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=282828"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=282828"/>
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=282828"/>
+    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=282828"/>
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&labelColor=282828"/>
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=282828"/>
+    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=282828"/>
+    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=282828"/>
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=282828"/>
+  </p>
 </div>
 
 # 💫 About Me:
