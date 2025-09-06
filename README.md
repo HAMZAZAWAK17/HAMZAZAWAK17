@@ -41,58 +41,43 @@
 ## 💻 Tech Stack
 <div align="center">
 
-## 💫 My Tech Stack
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=42&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=900&height=100&lines=⚡+MY+TECH+UNIVERSE+⚡;🚀+SKILLS+%26+TECHNOLOGIES+🚀" alt="Title" />
 
-<table>
-<tr>
-<td align="center" width="220">
-<div>
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=12,20,33,45,60&height=120&section=header&text=Frontend&fontSize=24&fontColor=fff&animation=fadeIn" width="200"/>
 <br><br>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react&perline=3&theme=dark" />
-</div>
-</td>
-<td align="center" width="220">
-<div>
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=30,45,60,75,90&height=120&section=header&text=Backend&fontSize=24&fontColor=fff&animation=fadeIn" width="200"/>
+
+<!-- Frontend -->
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=00D9FF&height=80&section=header&text=💻+FRONTEND&fontSize=28&fontColor=000&animation=twinkling" width="400"/>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react&perline=5&theme=dark" />
+
 <br><br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,java&perline=3&theme=dark" />
-</div>
-</td>
-<td align="center" width="220">
-<div>
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=60,75,90,105,120&height=120&section=header&text=Database&fontSize=24&fontColor=fff&animation=fadeIn" width="200"/>
+
+<!-- Backend -->
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=00FF94&height=80&section=header&text=⚙️+BACKEND&fontSize=28&fontColor=000&animation=twinkling" width="400"/>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,java&perline=5&theme=dark" />
+
 <br><br>
+
+<!-- Database -->
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=FF6B6B&height=80&section=header&text=🗄️+DATABASE&fontSize=28&fontColor=fff&animation=twinkling" width="400"/>
+
 <img src="https://skillicons.dev/icons?i=mongodb,mysql&perline=2&theme=dark" />
-</div>
-</td>
-</tr>
-<tr>
-<td align="center" width="220">
-<div>
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=90,105,120,135,150&height=120&section=header&text=Mobile&fontSize=24&fontColor=fff&animation=fadeIn" width="200"/>
+
 <br><br>
+
+<!-- Mobile -->
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=9B59B6&height=80&section=header&text=📱+MOBILE&fontSize=28&fontColor=fff&animation=twinkling" width="400"/>
+
 <img src="https://skillicons.dev/icons?i=react&perline=1&theme=dark" />
-<br>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg" alt="ionic" width="48" height="48"/>
-</div>
-</td>
-<td align="center" width="220">
-<div>
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=120,135,150,165,180&height=120&section=header&text=Tools&fontSize=24&fontColor=fff&animation=fadeIn" width="200"/>
+
 <br><br>
-<img src="https://skillicons.dev/icons?i=figma,git,github,docker&perline=2&theme=dark" />
-</div>
-</td>
-<td align="center" width="220">
-<div>
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=150,165,180,195,210&height=120&section=header&text=More&fontSize=24&fontColor=fff&animation=fadeIn" width="200"/>
-<br><br>
-<img src="https://skillicons.dev/icons?i=angular,bootstrap&perline=2&theme=dark" />
-</div>
-</td>
-</tr>
-</table>
+
+<!-- Tools -->
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=F39C12&height=80&section=header&text=🛠️+TOOLS&fontSize=28&fontColor=000&animation=twinkling" width="400"/>
+
+<img src="https://skillicons.dev/icons?i=figma,git,github,docker&perline=4&theme=dark" />
 
 </div>
 <div align="center">
