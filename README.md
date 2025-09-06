@@ -8,6 +8,19 @@
 
 </div>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,33,45,60&height=350&section=header&text=Hamza%20Ez-zouek&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=40&desc=🚀%20FULL%20STACK%20DEVELOPER%20|%20TECH%20INNOVATOR%20🚀&descAlignY=65&descSize=22" width="100%"/>
+  
+  <!-- Tech Stack Banner -->
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,angular,nodejs,php,laravel,java,react,mongodb,mysql,git,docker,figma&perline=8" />
+  
+  <br><br>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=900&height=100&lines=💻+Building+Amazing+Web+%26+Mobile+Applications;🎨+Crafting+Beautiful+User+Experiences;⚡+Turning+Ideas+Into+Digital+Reality" alt="Typing SVG" />
+  </a>
+</div>
+
 # 💫 About Me:
 🔭 I'm currently working on exciting new projects and ideas.<br>
 🤝 I'm looking to collaborate on innovative and creative ventures.<br>
