@@ -38,97 +38,132 @@
 
 <div align="center">
 
-## 💻 Tech Stack
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=12,15,20,25,30&height=350&section=header&text=HAMZA%20EZ-ZOUEK&fontSize=60&fontColor=fff&animation=blinking&fontAlignY=45&desc=SYNTHWAVE%20DEVELOPER&descAlignY=65&descSize=24"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=40&duration=4000&pause=1000&color=FF00FF&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=▲+RETRO+FUTURE+CODING+▲;♦+NEON+DREAMS+IN+CODE+♦" alt="Synthwave" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=300&section=header&text=Hamza%20Ez-zouek&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=45&desc=🌊%20Fluid%20Developer%20Experience%20🌊&descAlignY=65&descSize=18"/>
 
 <br>
 
-<!-- Synthwave Grid -->
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&duration=3000&pause=1200&color=4FACFE&center=true&vCenter=true&multiline=true&width=900&height=120&lines=💧+Flowing+Through+Technologies;🌊+Adapting+to+Every+Challenge;✨+Creating+Liquid+Smooth+Experiences" alt="Liquid" />
+
+<br>
+
+<!-- Liquid Flow Layout -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=4FACFE&height=100&section=header&text=Frontend%20Flow&fontSize=28&fontColor=fff&animation=fadeIn" width="600"/>
+
 <table>
 <tr>
-<td align="center" colspan="5">
-<img src="https://capsule-render.vercel.app/api?type=slice&color=FF00FF&height=80&section=header&text=◆+FRONTEND+MATRIX+◆&fontSize=24&fontColor=000&animation=blinking" width="800"/>
+<td align="center" width="20%">
+<img src="https://skillicons.dev/icons?i=html&theme=dark" width="70" height="70" />
+<br><small><b>Structure</b></small>
 </td>
-</tr>
-<tr>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=html&theme=dark" width="80" height="80" />
-<br><b>HTML5</b>
+<td align="center" width="20%">
+<img src="https://skillicons.dev/icons?i=css&theme=dark" width="70" height="70" />
+<br><small><b>Style</b></small>
 </td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=css&theme=dark" width="80" height="80" />
-<br><b>CSS3</b>
+<td align="center" width="20%">
+<img src="https://skillicons.dev/icons?i=js&theme=dark" width="70" height="70" />
+<br><small><b>Logic</b></small>
 </td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=js&theme=dark" width="80" height="80" />
-<br><b>JavaScript</b>
+<td align="center" width="20%">
+<img src="https://skillicons.dev/icons?i=ts&theme=dark" width="70" height="70" />
+<br><small><b>Types</b></small>
 </td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=ts&theme=dark" width="80" height="80" />
-<br><b>TypeScript</b>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=react&theme=dark" width="80" height="80" />
-<br><b>React</b>
-</td>
-</tr>
-<tr>
-<td align="center" colspan="5">
-<img src="https://capsule-render.vercel.app/api?type=slice&color=00FFFF&height=80&section=header&text=◆+BACKEND+NEXUS+◆&fontSize=24&fontColor=000&animation=blinking" width="800"/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="80" height="80" />
-<br><b>Node.js</b>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=express&theme=dark" width="80" height="80" />
-<br><b>Express</b>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=php&theme=dark" width="80" height="80" />
-<br><b>PHP</b>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=laravel&theme=dark" width="80" height="80" />
-<br><b>Laravel</b>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=java&theme=dark" width="80" height="80" />
-<br><b>Java</b>
-</td>
-</tr>
-<tr>
-<td align="center" colspan="2">
-<img src="https://capsule-render.vercel.app/api?type=slice&color=FFFF00&height=80&section=header&text=DATA&fontSize=24&fontColor=000&animation=blinking" width="300"/>
-<br>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql&perline=2&theme=dark" />
-</td>
-<td align="center" colspan="1">
-<img src="https://capsule-render.vercel.app/api?type=slice&color=FF6B00&height=80&section=header&text=MOBILE&fontSize=20&fontColor=000&animation=blinking" width="200"/>
-<br>
-<img src="https://skillicons.dev/icons?i=react&perline=1&theme=dark" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg" alt="ionic" width="48" height="48"/>
-</td>
-<td align="center" colspan="2">
-<img src="https://capsule-render.vercel.app/api?type=slice&color=00FF00&height=80&section=header&text=TOOLS&fontSize=24&fontColor=000&animation=blinking" width="300"/>
-<br>
-<img src="https://skillicons.dev/icons?i=figma,git,github,docker&perline=2&theme=dark" />
+<td align="center" width="20%">
+<img src="https://skillicons.dev/icons?i=react&theme=dark" width="70" height="70" />
+<br><small><b>UI</b></small>
 </td>
 </tr>
 </table>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=30,25,20,15,12&height=100&section=footer&animation=blinking" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=00D9FF&height=100&section=header&text=Backend%20Wave&fontSize=28&fontColor=fff&animation=fadeIn" width="600"/>
+
+<table>
+<tr>
+<td align="center" width="20%">
+<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="70" height="70" />
+<br><small><b>Runtime</b></small>
+</td>
+<td align="center" width="20%">
+<img src="https://skillicons.dev/icons?i=express&theme=dark" width="70" height="70" />
+<br><small><b>Framework</b></small>
+</td>
+<td align="center" width="20%">
+<img src="https://skillicons.dev/icons?i=php&theme=dark" width="70" height="70" />
+<br><small><b>Server</b></small>
+</td>
+<td align="center" width="20%">
+<img src="https://skillicons.dev/icons?i=laravel&theme=dark" width="70" height="70" />
+<br><small><b>MVC</b></small>
+</td>
+<td align="center" width="20%">
+<img src="https://skillicons.dev/icons?i=java&theme=dark" width="70" height="70" />
+<br><small><b>Enterprise</b></small>
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=FF6B6B&height=100&section=header&text=Data%20+%20Mobile%20Stream&fontSize=24&fontColor=fff&animation=fadeIn" width="600"/>
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="70" height="70" />
+<br><small><b>NoSQL</b></small>
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="70" height="70" />
+<br><small><b>Relational</b></small>
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=react&theme=dark" width="70" height="70" />
+<br><small><b>React Native</b></small>
+</td>
+<td align="center" width="25%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg" alt="ionic" width="70" height="70"/>
+<br><small><b>Ionic</b></small>
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=9B59B6&height=100&section=header&text=Tools%20Ecosystem&fontSize=28&fontColor=fff&animation=fadeIn" width="600"/>
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=figma&theme=dark" width="70" height="70" />
+<br><small><b>Design</b></small>
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=git&theme=dark" width="70" height="70" />
+<br><small><b>Version</b></small>
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=github&theme=dark" width="70" height="70" />
+<br><small><b>Repository</b></small>
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=docker&theme=dark" width="70" height="70" />
+<br><small><b>Container</b></small>
+</td>
+</tr>
+</table>
 
 </div>
 
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=20,11,6&height=150&section=footer&animation=fadeIn" width="100%"/>
+
+</div>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=HAMZAZAWAK17&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=HAMZAZAWAK17&theme=gotham&hide_border=false)<br/>
