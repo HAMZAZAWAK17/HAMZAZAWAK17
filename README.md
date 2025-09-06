@@ -164,6 +164,7 @@
 <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=20,11,6&height=150&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
+<div>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=HAMZAZAWAK17&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=HAMZAZAWAK17&theme=gotham&hide_border=false)<br/>
