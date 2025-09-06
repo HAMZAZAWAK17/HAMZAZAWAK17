@@ -39,31 +39,28 @@
 <div align="center">
 
 ## 💻 Tech Stack
-<!-- Clean tech stack layout -->
-<table>
-  <tr>
-    <td align="center" width="200">
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts&perline=4&theme=dark" />
-      <br><b>Frontend</b>
-    </td>
-    <td align="center" width="200">
-      <img src="https://skillicons.dev/icons?i=nodejs,php,laravel,java&perline=4&theme=dark" />
-      <br><b>Backend</b>
-    </td>
-    <td align="center" width="200">
-      <img src="https://skillicons.dev/icons?i=mongodb,mysql&perline=4&theme=dark" />
-      <br><b>Database</b>
-    </td>
-    <td align="center" width="200">
-      <img src="https://skillicons.dev/icons?i=react,ionic&perline=4&theme=dark" />
-      <br><b>Mobile</b>
-    </td>
-    <td align="center" width="200">
-      <img src="https://skillicons.dev/icons?i=figma,git,github,docker&perline=4&theme=dark" />
-      <br><b>Tools</b>
-    </td>
-  </tr>
-</table>
+<!-- Simple version that definitely works -->
+<div align="center">
+
+### 💻 Tech Stack
+
+**Frontend**  
+<img src="https://skillicons.dev/icons?i=html,css,js,ts&theme=dark" />
+
+**Backend**  
+<img src="https://skillicons.dev/icons?i=nodejs,php,laravel,java&theme=dark" />
+
+**Database**  
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
+
+**Mobile**  
+<img src="https://skillicons.dev/icons?i=react&theme=dark" /> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg" alt="ionic" width="40" height="40"/>
+
+**Tools**  
+<img src="https://skillicons.dev/icons?i=figma,git,github,docker&theme=dark" />
+
+</div>
 
 <div align="center">
 
