@@ -40,27 +40,30 @@
 
 ## 💻 Tech Stack
 <!-- Clean tech stack layout -->
-  <table>
-    <tr>
-      <td align="center" width="200">
-        <img src="https://skillicons.dev/icons?i=html,css,js,ts&perline=4&theme=dark" />
-        <br><b>Frontend</b>
-      </td>
-      <td align="center" width="200">
-        <img src="https://skillicons.dev/icons?i=nodejs,php,laravel,java&perline=4&theme=dark" />
-        <br><b>Backend</b>
-      </td>
-      <td align="center" width="200">
-        <img src="https://skillicons.dev/icons?i=react,ionic,angular,bootstrap&perline=4&theme=dark" />
-        <br><b>Frameworks</b>
-      </td>
-      <td align="center" width="200">
-        <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,docker&perline=4&theme=dark" />
-        <br><b>Tools</b>
-      </td>
-    </tr>
-  </table>
----
+<table>
+  <tr>
+    <td align="center" width="200">
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts&perline=4&theme=dark" />
+      <br><b>Frontend</b>
+    </td>
+    <td align="center" width="200">
+      <img src="https://skillicons.dev/icons?i=nodejs,php,laravel,java&perline=4&theme=dark" />
+      <br><b>Backend</b>
+    </td>
+    <td align="center" width="200">
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql&perline=4&theme=dark" />
+      <br><b>Database</b>
+    </td>
+    <td align="center" width="200">
+      <img src="https://skillicons.dev/icons?i=react,ionic&perline=4&theme=dark" />
+      <br><b>Mobile</b>
+    </td>
+    <td align="center" width="200">
+      <img src="https://skillicons.dev/icons?i=figma,git,github,docker&perline=4&theme=dark" />
+      <br><b>Tools</b>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
 
