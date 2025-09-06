@@ -39,23 +39,27 @@
 <div align="center">
 
 ## 💻 Tech Stack
-<!-- Beautiful skill badges -->
-<div>
-  <p>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=282828"/>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=282828"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=282828"/>
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=282828"/>
-    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=282828"/>
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&labelColor=282828"/>
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=282828"/>
-    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=282828"/>
-    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=282828"/>
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=282828"/>
-  </p>
-  </div>
+<!-- Clean tech stack layout -->
+  <table>
+    <tr>
+      <td align="center" width="200">
+        <img src="https://skillicons.dev/icons?i=html,css,js,ts&perline=4&theme=dark" />
+        <br><b>Frontend</b>
+      </td>
+      <td align="center" width="200">
+        <img src="https://skillicons.dev/icons?i=nodejs,php,laravel,java&perline=4&theme=dark" />
+        <br><b>Backend</b>
+      </td>
+      <td align="center" width="200">
+        <img src="https://skillicons.dev/icons?i=react,ionic,angular,bootstrap&perline=4&theme=dark" />
+        <br><b>Frameworks</b>
+      </td>
+      <td align="center" width="200">
+        <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,docker&perline=4&theme=dark" />
+        <br><b>Tools</b>
+      </td>
+    </tr>
+  </table>
 ---
 
 <div align="center">
