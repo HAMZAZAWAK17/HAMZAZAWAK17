@@ -41,93 +41,66 @@
 ## 💻 Tech Stack
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=3d&color=gradient&customColorList=0,2,20,30,40&height=350&section=header&text=HAMZA%20EZ-ZOUEK&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=50&desc=DIGITAL%20ARCHITECT%20%26%20CODE%20WIZARD&descAlignY=70&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=400&section=header&text=UNIVERSE%20OF%20CODE&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Where%20Innovation%20Meets%20Imagination&descAlignY=60&descSize=20"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=35&duration=2500&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&width=1000&height=120&lines=⚡+CRAFTING+DIGITAL+EXPERIENCES;🚀+BUILDING+TOMORROW'S+TECHNOLOGY;💎+TURNING+IDEAS+INTO+REALITY" alt="Holographic" />
+<br>
 
-<!-- 3D Tech Stack Grid -->
-<table>
-<tr>
-<td align="center">
-<img src="https://capsule-render.vercel.app/api?type=3d&color=667EEA&height=150&section=header&text=FRONTEND&fontSize=24&fontColor=fff&animation=fadeIn" width="250"/>
-<br>
-<img src="https://skillicons.dev/icons?i=html,css,js&perline=3&theme=dark" />
-<br>
-<img src="https://skillicons.dev/icons?i=ts,react&perline=2&theme=dark" />
-</td>
-<td align="center">
-<img src="https://capsule-render.vercel.app/api?type=3d&color=764ba2&height=150&section=header&text=BACKEND&fontSize=24&fontColor=fff&animation=fadeIn" width="250"/>
-<br>
-<img src="https://skillicons.dev/icons?i=nodejs,express&perline=2&theme=dark" />
-<br>
-<img src="https://skillicons.dev/icons?i=php,laravel,java&perline=3&theme=dark" />
-</td>
-</tr>
-<tr>
-<td align="center">
-<img src="https://capsule-render.vercel.app/api?type=3d&color=f093fb&height=150&section=header&text=DATA&fontSize=24&fontColor=fff&animation=fadeIn" width="250"/>
-<br>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql&perline=2&theme=dark" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1500&color=FF6B6B&center=true&vCenter=true&multiline=true&width=900&height=150&lines=🌟+Welcome+to+my+Digital+Cosmos;⭐+Each+Skill+is+a+Shining+Star;✨+Together+They+Create+Magic;🚀+Ready+to+Explore+the+Universe%3F" alt="Universe" />
+
 <br><br>
-<img src="https://capsule-render.vercel.app/api?type=3d&color=f5576c&height=150&section=header&text=MOBILE&fontSize=24&fontColor=fff&animation=fadeIn" width="250"/>
-<br>
-<img src="https://skillicons.dev/icons?i=react&perline=1&theme=dark" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg" alt="ionic" width="48" height="48"/>
+
+<!-- Constellation Layout -->
+<table width="100%">
+<tr>
+<td align="center" width="50%">
+
+### 🌟 Frontend Constellation
+<img src="https://skillicons.dev/icons?i=html&theme=dark" width="60" height="60" />
+　<img src="https://skillicons.dev/icons?i=css&theme=dark" width="60" height="60" />
+<br><br>
+<img src="https://skillicons.dev/icons?i=js&theme=dark" width="60" height="60" />
+　　<img src="https://skillicons.dev/icons?i=ts&theme=dark" width="60" height="60" />
+<br><br>
+　<img src="https://skillicons.dev/icons?i=react&theme=dark" width="60" height="60" />
+
 </td>
-<td align="center">
-<img src="https://capsule-render.vercel.app/api?type=3d&color=4facfe&height=150&section=header&text=TOOLS&fontSize=24&fontColor=fff&animation=fadeIn" width="250"/>
-<br>
-<img src="https://skillicons.dev/icons?i=figma,git&perline=2&theme=dark" />
-<br>
-<img src="https://skillicons.dev/icons?i=github,docker&perline=2&theme=dark" />
+<td align="center" width="50%">
+
+### ⚡ Backend Galaxy
+<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="60" height="60" />
+　<img src="https://skillicons.dev/icons?i=express&theme=dark" width="60" height="60" />
+<br><br>
+<img src="https://skillicons.dev/icons?i=php&theme=dark" width="60" height="60" />
+　<img src="https://skillicons.dev/icons?i=laravel&theme=dark" width="60" height="60" />
+<br><br>
+　<img src="https://skillicons.dev/icons?i=java&theme=dark" width="60" height="60" />
+
 </td>
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=3d&color=gradient&customColorList=40,30,20,2,0&height=150&section=footer&animation=twinkling" width="100%"/>
+<br><br>
 
-</div>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,2,2,5,0&height=100&section=footer" width="100%"/>
+### 🌌 Data & Mobile Nebula
+<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="70" height="70" />
+　　<img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="70" height="70" />
+　　<img src="https://skillicons.dev/icons?i=react&theme=dark" width="70" height="70" />
+　　<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg" alt="ionic" width="70" height="70"/>
 
-</div>
-<div align="center">
+<br><br>
 
-### 🚀 Alternative Tech Stack Layout
+### 🛠️ Tools Solar System
+<img src="https://skillicons.dev/icons?i=figma&theme=dark" width="65" height="65" />
+　<img src="https://skillicons.dev/icons?i=git&theme=dark" width="65" height="65" />
+　<img src="https://skillicons.dev/icons?i=github&theme=dark" width="65" height="65" />
+　<img src="https://skillicons.dev/icons?i=docker&theme=dark" width="65" height="65" />
 
-<details>
-<summary><b>📋 Compact View</b></summary>
-<br>
+<br><br>
 
-**Frontend:** HTML5 • CSS3 • JavaScript • TypeScript • Angular • Bootstrap
-
-**Backend:** Node.js • Express.js • PHP • Laravel • Java
-
-**Mobile:** React Native • Ionic
-
-**Database:** MySQL • MongoDB
-
-**Tools:** Git • GitHub • GitLab • Docker • Postman • Figma
-
-</details>
-
-<details>
-<summary><b>🎯 Skills Matrix</b></summary>
-<br>
-
-| Category | Technologies |
-|----------|-------------|
-| **Languages** | JavaScript, TypeScript, PHP, Java, HTML5, CSS3 |
-| **Frameworks** | Angular, Laravel, Express.js, Bootstrap, Ionic |
-| **Mobile** | React Native, Ionic |
-| **Databases** | MySQL, MongoDB |
-| **Tools** | Git, Docker, Postman, Figma |
-| **Runtime** | Node.js, NPM |
-
-</details>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer&animation=twinkling" width="100%"/>
 
 </div>
 
----
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=HAMZAZAWAK17&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
