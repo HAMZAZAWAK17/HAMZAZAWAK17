@@ -43,25 +43,43 @@
 <div align="center">
 
 ### 💻 Tech Stack
-
-**Frontend**  
-<img src="https://skillicons.dev/icons?i=html,css,js,ts&theme=dark" />
-
-**Backend**  
-<img src="https://skillicons.dev/icons?i=nodejs,php,laravel,java&theme=dark" />
-
-**Database**  
-<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
-
-**Mobile**  
-<img src="https://skillicons.dev/icons?i=react&theme=dark" /> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg" alt="ionic" width="40" height="40"/>
-
-**Tools**  
-<img src="https://skillicons.dev/icons?i=figma,git,github,docker&theme=dark" />
-
+<div align="center">
+  <!-- Modern clean banner -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=Hamza%20Ez-zouek&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=50&desc=Building%20Digital%20Solutions&descAlignY=75&descSize=25" width="100%"/>
+  
+  <!-- Professional typing animation -->
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=32&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&multiline=true&width=900&height=100&lines=Full+Stack+Developer;Mobile+App+Creator;Problem+Solver+%26+Innovator" alt="Typing SVG" />
+  
+  <br>
+  
+  <!-- Clean tech stack layout -->
+  <table>
+    <tr>
+      <td align="center" width="200">
+        <img src="https://skillicons.dev/icons?i=html,css,js,ts,react&perline=3&theme=dark" />
+        <br><b>Frontend</b>
+      </td>
+      <td align="center" width="200">
+        <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,java&perline=3&theme=dark" />
+        <br><b>Backend</b>
+      </td>
+      <td align="center" width="200">
+        <img src="https://skillicons.dev/icons?i=mongodb,mysql&perline=2&theme=dark" />
+        <br><b>Database</b>
+      </td>
+      <td align="center" width="200">
+        <img src="https://skillicons.dev/icons?i=react&perline=1&theme=dark" />
+        <br>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg" alt="ionic" width="48" height="48"/>
+        <br><b>Mobile</b>
+      </td>
+      <td align="center" width="200">
+        <img src="https://skillicons.dev/icons?i=figma,git,github,docker&perline=2&theme=dark" />
+        <br><b>Tools</b>
+      </td>
+    </tr>
+  </table>
 </div>
-
 <div align="center">
 
 ### 🚀 Alternative Tech Stack Layout
