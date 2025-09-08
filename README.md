@@ -1,11 +1,11 @@
 <div align="center">
-  <!-- Elegant purple gradient -->
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=8,19,25,30&height=280&section=header&text=Hamza%20Ez-zouek&fontSize=85&fontColor=fff&animation=fadeIn&fontAlignY=45&desc=Full%20Stack%20Developer%20|%20Tech%20Enthusiast&descAlignY=65&descSize=20" width="100%"/>
-  
-  <!-- Animated descriptions -->
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&width=850&height=90&lines=Creating+Seamless+Digital+Experiences;" alt="Typing SVG" />
-  
-  <br>
+  <!-- Bannière principale avec effet de vague et dégradé -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Hamza%20Ez-zouek&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=✨%20FULL%20STACK%20DEVELOPER%20|%20MOBILE%20APP%20CREATOR%20✨&descAlignY=65&descSize=20" width="100%"/>
+  <a href="https://git.io/typing-svg">
+ <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=35&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Passionate+Full+Stack+Developer;Creator+of+Innovative+Applications" alt="Typing SVG" />
+</a>
+
+
 </div>
 
 # 💫 About Me:
@@ -38,133 +38,86 @@
 
 <div align="center">
 
-<div align="center">
+## 💻 Tech Stack
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=300&section=header&text=Hamza%20Ez-zouek&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=45&desc=🌊%20Fluid%20Developer%20Experience%20🌊&descAlignY=65&descSize=18"/>
+### 🌐 Frontend Technologies
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50"/>
 
-<br>
+### ⚙️ Backend Technologies
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&duration=3000&pause=1200&color=4FACFE&center=true&vCenter=true&multiline=true&width=900&height=120&lines=💧+Flowing+Through+Technologies;🌊+Adapting+to+Every+Challenge;✨+Creating+Liquid+Smooth+Experiences" alt="Liquid" />
+### 📱 Mobile Development
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" alt="Ionic" width="50" height="50"/>
 
-<br>
+### 🗄️ Databases
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
 
-<!-- Liquid Flow Layout -->
-<div align="center">
+### 🛠️ Tools & DevOps
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50"/>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=4FACFE&height=100&section=header&text=Frontend%20Flow&fontSize=28&fontColor=fff&animation=fadeIn" width="600"/>
-
-<table>
-<tr>
-<td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=html&theme=dark" width="70" height="70" />
-<br><small><b>Structure</b></small>
-</td>
-<td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=css&theme=dark" width="70" height="70" />
-<br><small><b>Style</b></small>
-</td>
-<td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=js&theme=dark" width="70" height="70" />
-<br><small><b>Logic</b></small>
-</td>
-<td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=ts&theme=dark" width="70" height="70" />
-<br><small><b>Types</b></small>
-</td>
-<td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=react&theme=dark" width="70" height="70" />
-<br><small><b>UI</b></small>
-</td>
-</tr>
-</table>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=00D9FF&height=100&section=header&text=Backend%20Wave&fontSize=28&fontColor=fff&animation=fadeIn" width="600"/>
-
-<table>
-<tr>
-<td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="70" height="70" />
-<br><small><b>Runtime</b></small>
-</td>
-<td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=express&theme=dark" width="70" height="70" />
-<br><small><b>Framework</b></small>
-</td>
-<td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=php&theme=dark" width="70" height="70" />
-<br><small><b>Server</b></small>
-</td>
-<td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=laravel&theme=dark" width="70" height="70" />
-<br><small><b>MVC</b></small>
-</td>
-<td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=java&theme=dark" width="70" height="70" />
-<br><small><b>Enterprise</b></small>
-</td>
-</tr>
-</table>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=FF6B6B&height=100&section=header&text=Data%20+%20Mobile%20Stream&fontSize=24&fontColor=fff&animation=fadeIn" width="600"/>
-
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="70" height="70" />
-<br><small><b>NoSQL</b></small>
-</td>
-<td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="70" height="70" />
-<br><small><b>Relational</b></small>
-</td>
-<td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=react&theme=dark" width="70" height="70" />
-<br><small><b>React Native</b></small>
-</td>
-<td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg" alt="ionic" width="70" height="70"/>
-<br><small><b>Ionic</b></small>
-</td>
-</tr>
-</table>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=9B59B6&height=100&section=header&text=Tools%20Ecosystem&fontSize=28&fontColor=fff&animation=fadeIn" width="600"/>
-
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=figma&theme=dark" width="70" height="70" />
-<br><small><b>Design</b></small>
-</td>
-<td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=git&theme=dark" width="70" height="70" />
-<br><small><b>Version</b></small>
-</td>
-<td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=github&theme=dark" width="70" height="70" />
-<br><small><b>Repository</b></small>
-</td>
-<td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=docker&theme=dark" width="70" height="70" />
-<br><small><b>Container</b></small>
-</td>
-</tr>
-</table>
+### 🎨 Design & Others
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="NPM" width="50" height="50"/>
+<svg width="50" height="50" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg"><path d="M128 0C57.307 0 0 57.307 0 128s57.307 128 128 128 128-57.307 128-128S198.693 0 128 0z"/><path fill="#fff" d="M95.01 208.13h4.92c3.508 0 6.701-.6 9.608-1.76 2.895-1.168 5.447-2.8 7.625-4.886a22.317 22.317 0 0 0 5.257-7.246c1.313-2.825 1.981-5.909 1.981-9.246 0-3.337-.668-6.421-1.98-9.246a22.317 22.317 0 0 0-5.258-7.246c-2.178-2.087-4.73-3.718-7.625-4.886a24.02 24.02 0 0 0-9.608-1.76h-4.92V208.13z"/></svg>
 
 </div>
 
+---
+
+<div align="center">
+
+### 🚀 Alternative Tech Stack Layout
+
+<details>
+<summary><b>📋 Compact View</b></summary>
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=20,11,6&height=150&section=footer&animation=fadeIn" width="100%"/>
+**Frontend:** HTML5 • CSS3 • JavaScript • TypeScript • Angular • Bootstrap
+
+**Backend:** Node.js • Express.js • PHP • Laravel • Java
+
+**Mobile:** React Native • Ionic
+
+**Database:** MySQL • MongoDB
+
+**Tools:** Git • GitHub • GitLab • Docker • Postman • Figma
+
+</details>
+
+<details>
+<summary><b>🎯 Skills Matrix</b></summary>
+<br>
+
+| Category | Technologies |
+|----------|-------------|
+| **Languages** | JavaScript, TypeScript, PHP, Java, HTML5, CSS3 |
+| **Frameworks** | Angular, Laravel, Express.js, Bootstrap, Ionic |
+| **Mobile** | React Native, Ionic |
+| **Databases** | MySQL, MongoDB |
+| **Tools** | Git, Docker, Postman, Figma |
+| **Runtime** | Node.js, NPM |
+
+</details>
 
 </div>
-<div>
+
+---
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=HAMZAZAWAK17&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=HAMZAZAWAK17&theme=gotham&hide_border=false)<br/>
