@@ -5,7 +5,6 @@
  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=35&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Passionate+Full+Stack+Developer;Creator+of+Innovative+Applications" alt="Typing SVG" />
 </a>
 
-
 </div>
 
 # 💫 About Me:
@@ -34,7 +33,15 @@
 
 <br>
 
+## ☕ Support My Work
 
+<div align="center">
+  <a href='https://ko-fi.com/E1E21KXJ1F' target='_blank'>
+    <img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' />
+  </a>
+</div>
+
+<br>
 
 <div align="center">
 
@@ -155,7 +162,6 @@
                                                                             
 ```
 
-
 <div align="center">
 
 [![](https://visitcount.itsvg.in/api?id=HAMZAZAWAK17&icon=0&color=0)](https://visitcount.itsvg.in)
@@ -163,4 +169,3 @@
 **💡 "Code is like humor. When you have to explain it, it's bad." - Cory House**
 
 </div>
-
