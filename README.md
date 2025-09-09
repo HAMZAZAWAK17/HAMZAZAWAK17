@@ -43,23 +43,6 @@
 
 <br>
 
-# 💻 Tech Stack
-
-<div align="center">
-
-![Tech Stack Banner](https://via.placeholder.com/1200x300/667eea/ffffff?text=Tech+Stack)
-
-*Technologies et outils que j'utilise pour créer des expériences numériques exceptionnelles*
-
----
-
-</div>
-
-## 🌟 Vue d'ensemble
-
-Voici un aperçu complet de mon arsenal technologique, organisé par domaines d'expertise. Chaque technologie a été choisie pour sa robustesse, sa flexibilité et sa capacité à créer des solutions modernes et évolutives.
-
----
 
 <div align="center">
 
