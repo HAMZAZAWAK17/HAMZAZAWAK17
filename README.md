@@ -61,176 +61,73 @@ Voici un aperçu complet de mon arsenal technologique, organisé par domaines d'
 
 ---
 
-## 🌐 Frontend Technologies
-
 <div align="center">
 
-| Technologie | Description | Niveau |
-|-------------|-------------|--------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30"/> **HTML5** | Structure sémantique moderne | ⭐⭐⭐⭐⭐ |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30"/> **CSS3** | Stylisation avancée et responsive | ⭐⭐⭐⭐⭐ |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/> **JavaScript** | Logique métier côté client | ⭐⭐⭐⭐⭐ |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30"/> **TypeScript** | JavaScript typé pour plus de robustesse | ⭐⭐⭐⭐⭐ |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="30"/> **Angular** | Framework SPA enterprise-grade | ⭐⭐⭐⭐⭐ |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="30"/> **Bootstrap** | Framework CSS responsive | ⭐⭐⭐⭐ |
+# 💻 Tech Stack
 
-</div>
+<br>
 
----
+## 🌐 Frontend
 
-## ⚙️ Backend Technologies
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="60" height="60"/>
+</p>
 
-<div align="center">
+<br>
 
-<table>
-<tr>
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60"/>
-<br><strong>Node.js</strong>
-<br><em>Runtime JavaScript</em>
-</td>
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="60"/>
-<br><strong>Express.js</strong>
-<br><em>Framework web minimaliste</em>
-</td>
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60"/>
-<br><strong>PHP</strong>
-<br><em>Langage serveur</em>
-</td>
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="60"/>
-<br><strong>Laravel</strong>
-<br><em>Framework PHP élégant</em>
-</td>
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60"/>
-<br><strong>Java</strong>
-<br><em>Langage orienté objet</em>
-</td>
-</tr>
-</table>
+## ⚙️ Backend
 
-</div>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="60" height="60"/>
+</p>
 
----
+<br>
 
-## 📱 Mobile Development
+## 📱 Mobile
 
-<div align="center">
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" alt="Ionic" width="60" height="60"/>
+</p>
 
-| Framework | Plateforme | Avantages |
-|-----------|------------|-----------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="25"/> **React Native** | iOS & Android | Code partagé, performance native |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" width="25"/> **Ionic** | Multi-plateforme | UI/UX cohérente, web technologies |
+<br>
 
-</div>
+## 🗄️ Database
 
----
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="60" height="60"/>
+</p>
 
-## 🗄️ Databases
-
-<div align="center">
-
-```
-┌─────────────────┐    ┌─────────────────┐
-│                 │    │                 │
-│     MySQL       │    │    MongoDB      │
-│   Relationnel   │    │   NoSQL/Doc     │
-│                 │    │                 │
-└─────────────────┘    └─────────────────┘
-        │                       │
-        └───────┬───────────────┘
-                │
-        ┌─────────────────┐
-        │  Stratégie      │
-        │  Polyglotte     │
-        └─────────────────┘
-```
-
-| Base de données | Type | Cas d'usage |
-|-----------------|------|-------------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="25"/> **MySQL** | Relationnel | Applications transactionnelles |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="25"/> **MongoDB** | Document NoSQL | Applications flexibles, Big Data |
-
-</div>
-
----
+<br>
 
 ## 🛠️ Tools & DevOps
 
-<div align="center">
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="60" height="60"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="60" height="60"/>
+</p>
 
-### Version Control & Collaboration
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40"/>
+<br>
 
-### Containerization & API Testing
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
+## 🎨 Design & Others
 
-**Workflow moderne :**
-```bash
-git add . → git commit → git push → Docker build → Deploy
-                            ↓
-                      API Testing avec Postman
-```
-
-</div>
-
----
-
-## 🎨 Design & Package Management
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="200">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="80"/>
-<br><strong>Figma</strong>
-<br><em>Design collaboratif</em>
-<br>Prototypage • UI/UX • Design System
-</td>
-<td align="center" width="200">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="80"/>
-<br><strong>NPM</strong>
-<br><em>Gestionnaire de paquets</em>
-<br>Dependencies • Scripts • Publishing
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 📊 Expertise par domaine
-
-<div align="center">
-
-```mermaid
-graph TD
-    A[💻 Full Stack Developer] --> B[🌐 Frontend]
-    A --> C[⚙️ Backend]
-    A --> D[📱 Mobile]
-    A --> E[🗄️ Database]
-    
-    B --> B1[Angular/TypeScript]
-    B --> B2[Responsive Design]
-    B --> B3[Modern CSS]
-    
-    C --> C1[Node.js/Express]
-    C --> C2[PHP/Laravel]
-    C --> C3[RESTful APIs]
-    
-    D --> D1[React Native]
-    D --> D2[Ionic Framework]
-    D --> D3[Cross-platform]
-    
-    E --> E1[MySQL Design]
-    E --> E2[MongoDB Queries]
-    E --> E3[Data Modeling]
-```
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="NPM" width="60" height="60"/>
+</p>
 
 </div>
 
@@ -243,21 +140,6 @@ graph TD
 - **8+** applications mobiles créées
 - **100%** des projets livrés dans les délais
 - **5 étoiles** moyenne satisfaction client
-
-### 📈 Évolution continue
-```
-2020: HTML/CSS/JS basics
-  ↓
-2021: Angular + TypeScript
-  ↓
-2022: Backend Node.js/PHP
-  ↓
-2023: Mobile React Native/Ionic
-  ↓
-2024: DevOps + Cloud deployment
-  ↓
-2025: AI integration & advanced patterns
-```
 
 ---
 
