@@ -1,188 +1,161 @@
 <div align="center">
-  <!-- Bannière principale avec effet de vague et dégradé -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Hamza%20Ez-zouek&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=✨%20FULL%20STACK%20DEVELOPER%20|%20MOBILE%20APP%20CREATOR%20✨&descAlignY=65&descSize=20" width="100%"/>
-  <a href="https://git.io/typing-svg">
- <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=35&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Passionate+Full+Stack+Developer;Creator+of+Innovative+Applications" alt="Typing SVG" />
+
+<!-- Dynamic Header with Particle Effect -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Hamza%20Ez-zouek&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=38&desc=🚀%20Crafting%20Digital%20Experiences%20•%20Building%20Tomorrow's%20Solutions%20🚀&descAlignY=65&descSize=18" width="100%"/>
+
+<!-- Animated Typing Effect -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&background=FF000000&center=true&vCenter=true&multiline=true&width=900&height=100&lines=Full+Stack+Architect+%26+Mobile+Innovator;Passionate+Problem+Solver+%26+Code+Artist;Building+Scalable+Solutions+Since+Day+One" alt="Dynamic Typing" />
+</div>
+
+<!-- Glowing Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+</div>
+
+## 🌟 Digital Craftsman & Innovation Architect
+
+<div align="center">
+  
+```ascii
+╭─────────────────────────────────────────────────────────────╮
+│  🎯 Mission: Transforming Ideas Into Exceptional Digital    │
+│      Experiences Through Clean Code & Creative Solutions    │
+╰─────────────────────────────────────────────────────────────╯
+```
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚀 Current Focus
+- 🔭 **Building:** Next-gen web applications with cutting-edge tech
+- 🎨 **Designing:** Intuitive user experiences that delight
+- 🤝 **Collaborating:** With visionary teams on breakthrough projects
+- 🌱 **Learning:** AI/ML integration & Cloud Architecture
+- ⚡ **Exploring:** Web3 & Blockchain technologies
+
+</td>
+<td width="50%">
+
+### 💡 Fun Developer Facts
+- 🐛 First computer bug was literally a bug (moth, 1947)
+- 💻 I debug with rubber duck debugging technique
+- ☕ Coffee consumption directly correlates with code quality
+- 🌙 My best code happens during late-night coding sessions
+- 🎵 I code better with lo-fi beats playing
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🌐 Let's Connect & Create Something Amazing
+
+<p>
+  <a href="https://linkedin.com/in/hamza-ezzouek" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/zouakachev.1.7" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram"/>
+  </a>
+  <a href="mailto:ezzouekhamza2411@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail"/>
+  </a>
+</p>
+
+<a href='https://ko-fi.com/E1E21KXJ1F' target='_blank'>
+  <img src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white&labelColor=FF5E5B" alt="Support on Ko-fi"/>
 </a>
 
 </div>
 
-# 💫 About Me:
-🔭 I'm currently working on exciting new projects and ideas.<br>
-🤝 I'm looking to collaborate on innovative and creative ventures.<br>
-🤲 I'm looking for help with learning and improving my skills.<br>
-🌱 I'm currently learning new technologies and concepts.<br>
-💬 Ask me about coding, design, and tech-related topics.<br>
-⚡ Fun fact: The first computer bug was a real moth stuck in a Harvard Mark II computer in 1947.
-
-<div align="center">
-
-## 🌟 Connect With Me
-
-<div align="center">
-  <a href="https://instagram.com/zouakachev.1.7" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" width="60" height="60"/>
-  </a>
-  <a href="https://linkedin.com/in/hamza-ezzouek" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="60" height="60"/>
-  </a>
-  <a href="mailto:ezzouekhamza2411@gmail.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" width="60" height="60"/>
-  </a>
-</div>
-
-<br>
-
-## ☕ Support My Work
-
-<div align="center">
-  <a href='https://ko-fi.com/E1E21KXJ1F' target='_blank'>
-    <img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' />
-  </a>
-</div>
-
-<br>
-
-
-<div align="center">
-
-# 💻 Tech Stack
-
-<br>
-
-## 🌐 Frontend
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="60" height="60"/>
-</p>
-
-<br>
-
-## ⚙️ Backend
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="60" height="60"/>
-</p>
-
-<br>
-
-## 📱 Mobile
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" alt="Ionic" width="60" height="60"/>
-</p>
-
-<br>
-
-## 🗄️ Database
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="60" height="60"/>
-</p>
-
-<br>
-
-## 🛠️ Tools & DevOps
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="60" height="60"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="60" height="60"/>
-</p>
-
-<br>
-
-## 🎨 Design & Others
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="NPM" width="60" height="60"/>
-</p>
-
-</div>
-
----
-
-## 🚀 Projets & Réalisations
-
-### 🏆 Statistiques
-- **15+** projets web développés
-- **8+** applications mobiles créées
-- **100%** des projets livrés dans les délais
-- **5 étoiles** moyenne satisfaction client
-
----
-
-## 🎯 Philosophie de développement
-
-> **"Clean Code, Scalable Architecture, User-Centric Design"**
-
-- ✅ **Code Quality**: Lisible, maintenable, testé
-- ✅ **Performance**: Optimisation continue
-- ✅ **Sécurité**: Best practices appliquées
-- ✅ **UX/UI**: Expérience utilisateur prioritaire
-- ✅ **Agile**: Méthodes itératives
-
 ---
 
 <div align="center">
 
-### 🌟 Prêt à collaborer ?
+# 🛠️ Technology Arsenal
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/votre-profil)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/votre-username)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://votre-portfolio.com)
-
----
-
-*Dernière mise à jour : Septembre 2025*
-
-</div>
-<div align="center">
-
-### 🚀 Alternative Tech Stack Layout
-
-<details>
-<summary><b>📋 Compact View</b></summary>
+<details open>
+<summary><b>🎨 Frontend Mastery</b></summary>
 <br>
 
-**Frontend:** HTML5 • CSS3 • JavaScript • TypeScript • Angular • Bootstrap
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,bootstrap,sass,tailwind" alt="Frontend Skills"/>
+</p>
 
-**Backend:** Node.js • Express.js • PHP • Laravel • Java
-
-**Mobile:** React Native • Ionic
-
-**Database:** MySQL • MongoDB
-
-**Tools:** Git • GitHub • GitLab • Docker • Postman • Figma
+**Languages & Frameworks:**
+- **Core:** HTML5, CSS3, JavaScript (ES6+), TypeScript
+- **Frameworks:** Angular, Bootstrap, Sass, Tailwind CSS
+- **Specialties:** Responsive Design, Progressive Web Apps, Component Architecture
 
 </details>
 
-<details>
-<summary><b>🎯 Skills Matrix</b></summary>
+<details open>
+<summary><b>⚙️ Backend Engineering</b></summary>
 <br>
 
-| Category | Technologies |
-|----------|-------------|
-| **Languages** | JavaScript, TypeScript, PHP, Java, HTML5, CSS3 |
-| **Frameworks** | Angular, Laravel, Express.js, Bootstrap, Ionic |
-| **Mobile** | React Native, Ionic |
-| **Databases** | MySQL, MongoDB |
-| **Tools** | Git, Docker, Postman, Figma |
-| **Runtime** | Node.js, NPM |
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,java,python" alt="Backend Skills"/>
+</p>
+
+**Server Technologies:**
+- **Runtime:** Node.js, Express.js
+- **Languages:** PHP, Java, Python
+- **Frameworks:** Laravel, Spring Boot
+- **Architecture:** RESTful APIs, Microservices, MVC Pattern
+
+</details>
+
+<details open>
+<summary><b>📱 Mobile Innovation</b></summary>
+<br>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,ionic,flutter,androidstudio" alt="Mobile Skills"/>
+</p>
+
+**Cross-Platform Development:**
+- **Frameworks:** React Native, Ionic, Flutter
+- **Native:** Android Development
+- **Focus:** Performance Optimization, Native Feel, Cross-platform Compatibility
+
+</details>
+
+<details open>
+<summary><b>🗄️ Database & Storage</b></summary>
+<br>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,redis" alt="Database Skills"/>
+</p>
+
+**Data Management:**
+- **Relational:** MySQL, PostgreSQL
+- **NoSQL:** MongoDB, Redis
+- **Specialties:** Database Design, Query Optimization, Data Modeling
+
+</details>
+
+<details open>
+<summary><b>🔧 DevOps & Tools</b></summary>
+<br>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,aws,figma,postman,vscode" alt="Tools & DevOps"/>
+</p>
+
+**Development Ecosystem:**
+- **Version Control:** Git, GitHub, GitLab
+- **Containerization:** Docker
+- **Cloud:** AWS, Digital Ocean
+- **Design:** Figma, Adobe Creative Suite
+- **Testing:** Postman, Jest, Cypress
 
 </details>
 
@@ -190,47 +163,154 @@
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=HAMZAZAWAK17&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=HAMZAZAWAK17&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HAMZAZAWAK17&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=HAMZAZAWAK17&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=HAMZAZAWAK17&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
----
-
-## 📈 Graphique d'Activité
-
 <div align="center">
-  
-  [![Hamza's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HAMZAZAWAK17&theme=radical&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  
+
+## 📊 GitHub Analytics & Performance
+
+<table>
+<tr>
+<td width="50%">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HAMZAZAWAK17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)
+
+</td>
+<td width="50%">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HAMZAZAWAK17&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)
+
+</td>
+</tr>
+</table>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HAMZAZAWAK17&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)
+
 </div>
 
 ---
-## ASCII Art
-
-```
-  _   _    _    __  __ _____   _     _____   ___        ___    _  ___ _____ 
- | | | |  / \  |  \/  |__  /  / \   |__  /  / \ \      / / \  | |/ / |___  |
- | |_| | / _ \ | |\/| | / /  / _ \    / /  / _ \ \ /\ / / _ \ | ' /| |  / / 
- |  _  |/ ___ \| |  | |/ /_ / ___ \  / /_ / ___ \ V  V / ___ \| . \| | / /  
- |_| |_/_/   \_\_|  |_/____/_/   \_\/____/_/   \_\_/\_/_/   \_\_|\_\_|/_/   
-                                                                            
-```
 
 <div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=HAMZAZAWAK17&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🏆 Achievement Showcase
 
-**💡 "Code is like humor. When you have to explain it, it's bad." - Cory House**
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=HAMZAZAWAK17&theme=nord&no-frame=true&no-bg=true&margin-w=4&column=4)
+
+</div>
+
+---
+
+<div align="center">
+
+## 📈 Contribution Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HAMZAZAWAK17&theme=tokyo-night&hide_border=true&bg_color=0D1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎯 Project Impact & Stats
+
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/Projects_Completed-25+-00D9FF?style=for-the-badge&labelColor=0D1117"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Mobile_Apps-12+-4CAF50?style=for-the-badge&labelColor=0D1117"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Client_Satisfaction-100%25-FF6B6B?style=for-the-badge&labelColor=0D1117"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Code_Quality-A+-9C27B0?style=for-the-badge&labelColor=0D1117"/>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💭 Developer Philosophy
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/code.png" width="64"/>
+<h4>Clean Code</h4>
+<p><em>"Code is read more than it's written"</em></p>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/rocket.png" width="64"/>
+<h4>Performance</h4>
+<p><em>"Optimization is the key to scalability"</em></p>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/shield.png" width="64"/>
+<h4>Security</h4>
+<p><em>"Security by design, not by chance"</em></p>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/user-experience.png" width="64"/>
+<h4>User-Centric</h4>
+<p><em>"Great UX is invisible"</em></p>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🔮 Daily Inspiration
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20is%20like%20poetry%3B%20it%20should%20be%20beautiful%20and%20meaningful&author=Hamza%20Ez-zouek)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎨 Creative ASCII Art
+
+```
+    ╔══════════════════════════════════════════════════════════╗
+    ║  ┌─┐┌─┐┌┬┐┌─┐  ┌─┐┬─┐┌─┐┌─┐┌┬┐┌─┐  ┬┌┐┌┌┐┌┌─┐┬  ┬┌─┐┌┬┐┌─┐  ║
+    ║  │  │ │ ││├┤   │  ├┬┘├┤ ├─┤ │ ├┤   ││││││││ │└┐┌┘├─┤ │ ├┤   ║
+    ║  └─┘└─┘─┴┘└─┘  └─┘┴└─└─┘┴ ┴ ┴ └─┘  ┴┘└┘┘└┘└─┘ └┘ ┴ ┴ ┴ └─┘  ║
+    ║                                                              ║
+    ║        "Turning caffeine into code since forever"           ║
+    ╚══════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌟 Support My Journey
+
+<p>
+  <img src="https://img.shields.io/github/followers/HAMZAZAWAK17?label=Followers&style=social" alt="GitHub followers"/>
+  <img src="https://img.shields.io/github/stars/HAMZAZAWAK17?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub stars"/>
+</p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=HAMZAZAWAK17&color=00D9FF&style=for-the-badge&label=Profile+Views)
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+**💫 "Great software is not built, it's crafted with passion and precision"** 
+
+*Last Updated: September 2025*
 
 </div>
