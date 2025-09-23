@@ -182,10 +182,10 @@
 <table>
 <tr>
 <td align="center">
-<img src="https://img.shields.io/badge/Projects_Completed-25+-00D9FF?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Projects_Completed-15+-00D9FF?style=for-the-badge&labelColor=0D1117"/>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/Mobile_Apps-12+-4CAF50?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Mobile_Apps-3+-4CAF50?style=for-the-badge&labelColor=0D1117"/>
 </td>
 <td align="center">
 <img src="https://img.shields.io/badge/Client_Satisfaction-100%25-FF6B6B?style=for-the-badge&labelColor=0D1117"/>
@@ -220,7 +220,7 @@
 <p><em>"Security by design, not by chance"</em></p>
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/user-experience.png" width="64"/>
+<img src="https://img.icons8.com/fluency/96/flow-chart.png" width="64"/>
 <h4>User-Centric</h4>
 <p><em>"Great UX is invisible"</em></p>
 </td>
