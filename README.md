@@ -86,14 +86,8 @@
 <br>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,bootstrap,sass,tailwind" alt="Frontend Skills"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind" alt="Frontend Skills"/>
 </p>
-
-**Languages & Frameworks:**
-- **Core:** HTML5, CSS3, JavaScript (ES6+), TypeScript
-- **Frameworks:** Angular, Bootstrap, Sass, Tailwind CSS
-- **Specialties:** Responsive Design, Progressive Web Apps, Component Architecture
-
 </details>
 
 <details open>
@@ -101,15 +95,8 @@
 <br>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,java,python" alt="Backend Skills"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,java" alt="Backend Skills"/>
 </p>
-
-**Server Technologies:**
-- **Runtime:** Node.js, Express.js
-- **Languages:** PHP, Java, Python
-- **Frameworks:** Laravel, Spring Boot
-- **Architecture:** RESTful APIs, Microservices, MVC Pattern
-
 </details>
 
 <details open>
@@ -117,14 +104,8 @@
 <br>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,ionic,flutter,androidstudio" alt="Mobile Skills"/>
+  <img src="https://skillicons.dev/icons?i=react,ionic,androidstudio" alt="Mobile Skills"/>
 </p>
-
-**Cross-Platform Development:**
-- **Frameworks:** React Native, Ionic, Flutter
-- **Native:** Android Development
-- **Focus:** Performance Optimization, Native Feel, Cross-platform Compatibility
-
 </details>
 
 <details open>
@@ -132,14 +113,8 @@
 <br>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,redis" alt="Database Skills"/>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Database Skills"/>
 </p>
-
-**Data Management:**
-- **Relational:** MySQL, PostgreSQL
-- **NoSQL:** MongoDB, Redis
-- **Specialties:** Database Design, Query Optimization, Data Modeling
-
 </details>
 
 <details open>
@@ -147,16 +122,8 @@
 <br>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,aws,figma,postman,vscode" alt="Tools & DevOps"/>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,figma,postman,vscode" alt="Tools & DevOps"/>
 </p>
-
-**Development Ecosystem:**
-- **Version Control:** Git, GitHub, GitLab
-- **Containerization:** Docker
-- **Cloud:** AWS, Digital Ocean
-- **Design:** Figma, Adobe Creative Suite
-- **Testing:** Postman, Jest, Cypress
-
 </details>
 
 </div>
@@ -234,9 +201,7 @@
 ---
 
 <div align="center">
-
-## 💭 Developer Philosophy
-
+💭 Developer Philosophy
 <table>
 <tr>
 <td align="center" width="25%">
@@ -261,9 +226,7 @@
 </td>
 </tr>
 </table>
-
 </div>
-
 ---
 
 <div align="center">
