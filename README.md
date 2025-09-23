@@ -191,7 +191,7 @@
 <img src="https://img.shields.io/badge/Client_Satisfaction-100%25-FF6B6B?style=for-the-badge&labelColor=0D1117"/>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/Code_Quality-A+-9C27B0?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Code_Quality-⭐_Premium-9C27B0?style=for-the-badge&labelColor=0D1117&logo=codereview&logoColor=white"/>
 </td>
 </tr>
 </table>
