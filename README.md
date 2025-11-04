@@ -145,7 +145,7 @@ class Developer {
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=HAMZAZAWAK17&show_icons=true&theme=transparent&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&bg_color=0D1117&rank_icon=github" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=HAMZAZAWAK17&theme=transparent&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=00D9FF&dates=ffffff" alt="GitHub Streak"/>
+  <img width="49%" src="https://streak-stats.demolab.com/?user=HAMZAZAWAK17&theme=dark&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=00D9FF&dates=ffffff" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
