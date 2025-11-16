@@ -260,14 +260,24 @@ UI/UX Design           ███████████████████
 
 ---
 
+---
+
 <div align="center">
 
-<!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HAMZAZAWAK17/HAMZAZAWAK17/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HAMZAZAWAK17/HAMZAZAWAK17/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/HAMZAZAWAK17/HAMZAZAWAK17/output/github-contribution-grid-snake.svg">
-</picture>
+### 🎵 Currently Vibing To
+
+[![Spotify](https://novatorem-jet-eight.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME)
+
+<!-- Alternative Spotify embed - choose one of the options below -->
+
+<!-- Option 1: Spotify Recently Played -->
+<!-- ![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_USER_ID&count=5) -->
+
+<!-- Option 2: Spotify Now Playing Card -->
+<!-- [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&redirect=true) -->
+
+<!-- Option 3: Simple Now Playing Badge -->
+<!-- ![Spotify](https://img.shields.io/badge/Spotify-Now%20Playing-1DB954?style=for-the-badge&logo=spotify&logoColor=white) -->
 
 <br><br>
 
@@ -276,8 +286,12 @@ UI/UX Design           ███████████████████
 
 ✨ **Crafted with passion, precision, and countless cups of coffee ☕** ✨
 
-*💚 Open Source Advocate | 🚀 Innovation Enthusiast | 💡 Problem Solver | 🕷️ Secretly Spider-Man*
+*💚 Open Source Advocate | 🚀 Innovation Enthusiast | 💡 Problem Solver | 🎵 Music Lover*
 
 **Last Updated: November 2025 • Made with 💜**
 
 </div>
+
+
+
+
