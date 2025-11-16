@@ -1,32 +1,109 @@
 <div align="center">
 
-<!-- Dynamic Hero Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=280&section=header&text=HAMZA%20EZ-ZOUEK&fontSize=85&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Mobile%20Architect%20%7C%20Tech%20Innovator&descAlignY=55&descSize=18" width="100%"/>
+<!-- Ultra Clean Futuristic Hero Banner -->
 
-<!-- Animated Typing Effect -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=100&lines=%F0%9F%92%A1+Crafting+Digital+Experiences;%F0%9F%9A%80+Building+Tomorrow's+Solutions;%E2%9A%A1+Code+%2B+Creativity+%2B+Innovation" alt="Typing SVG" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=gradient&customColorList=2,12,20,30&text=HAMZA%20EZ-ZOUEK&fontColor=ffffff&fontSize=75&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Mobile%20Engineer%20%7C%20Tech%20Innovator&descSize=18&descAlignY=65&animation=fadeIn" width="100%"/>
 
-<br>
+<!-- New Typing Animation Minimalist -->
 
-<!-- Status Badges -->
-[![Status](https://img.shields.io/badge/STATUS-Available%20For%20Opportunities-00ff00?style=for-the-badge&logo=checkmarx&logoColor=white)](https://linkedin.com/in/hamza-ezzouek)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-View%20My%20Work-FF6B35?style=for-the-badge&logo=vercel&logoColor=white)](http://portfolio-last-version-nu.vercel.app/)
-[![Location](https://img.shields.io/badge/📍-Casablanca%2C%20Morocco-00D9FF?style=for-the-badge)](https://www.google.com/maps/place/Casablanca)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2600&pause=900&color=47F3FF&center=true&vCenter=true&width=900&lines=🚀+Delivering+High-Impact+Digital+Solutions;⚡+Fullstack+%2B+Mobile+Engineering+Excellence;🎯+Focused+on+Clean+Code+and+Performance" />
 
-<!-- Social Links -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hamza-ezzouek)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ezzouekhamza2411@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HAMZAZAWAK17)
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/hamzaezzouek)
+<br/>
 
-<br>
+<!-- Modern Professional Badges -->
 
-![Profile Views](https://komarev.com/ghpvc/?username=HAMZAZAWAK17&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/HAMZAZAWAK17?logo=github&style=for-the-badge&color=facc15&labelColor=000000)
+[![Status](https://img.shields.io/badge/Available-For%20Opportunities-16a34a?style=for-the-badge\&logo=spark\&logoColor=white\&labelColor=000000)]()
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0ea5e9?style=for-the-badge\&logo=vercel\&logoColor=white\&labelColor=000000)](http://portfolio-last-version-nu.vercel.app/)
+[![Location](https://img.shields.io/badge/Casablanca%2C%20Morocco-0099ff?style=for-the-badge\&logo=google-maps\&logoColor=white\&labelColor=000000)]()
+
+<!-- Social Buttons Refined -->
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/hamza-ezzouek)
+[![Email](https://img.shields.io/badge/Email-Write%20Me-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:ezzouekhamza2411@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/HAMZAZAWAK17)
+[![Ko-fi](https://img.shields.io/badge/Ko%E2%80%91fi-Support%20Me-FF5E5B?style=for-the-badge\&logo=ko-fi\&logoColor=white)](https://ko-fi.com/hamzaezzouek)
+
+<br/>
+
+![Views](https://komarev.com/ghpvc/?username=HAMZAZAWAK17\&color=00D9FF\&style=for-the-badge\&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/HAMZAZAWAK17?style=for-the-badge\&color=22c55e\&labelColor=000000)
 
 </div>
+
+---
+
+## 🚀 About Me
+
+I am a **Full Stack & Mobile Developer** passionate about building scalable digital products with modern technologies. I focus on clean architectures, high performance, elegant UIs, and smooth user experiences.
+
+```ts
+const hamza = {
+  name: "Hamza Ez-zouek",
+  role: "Full Stack Developer & Mobile Engineer",
+  based_in: "Casablanca, Morocco 🇲🇦",
+  code: ["JavaScript", "TypeScript", "PHP", "Java"],
+  frontend: ["React", "Next.js", "TailwindCSS"],
+  backend: ["Node.js", "Laravel", "Express"],
+  mobile: ["React Native", "Ionic", "Android"],
+  database: ["MongoDB", "MySQL", "PostgreSQL"],
+  tools: ["Git", "Docker", "Figma", "Postman"],
+  passion: "Crafting innovative, maintainable, and efficient solutions",
+};
+```
+
+---
+
+## 🛠️ Tech Expertise
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,php,laravel,java,reactnative,mongodb,mysql,postgresql,docker,git,figma,postman&perline=7"/>
+</div>
+
+---
+
+## 📊 GitHub Performance
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=HAMZAZAWAK17&show_icons=true&theme=transparent&hide_border=true&title_color=00E5FF&icon_color=00E5FF&text_color=FFFFFF&bg_color=0D1117" width="48%"/>
+<img src="https://streak-stats.demolab.com?user=HAMZAZAWAK17&theme=dark&hide_border=true&background=0D1117&stroke=00E5FF&ring=00E5FF&currStreakNum=00E5FF" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAMZAZAWAK17&layout=compact&theme=transparent&hide_border=true&title_color=00E5FF&text_color=FFFFFF&bg_color=0D1117" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HAMZAZAWAK17&theme=transparent&utcOffset=1" width="48%"/>
+
+</div>
+
+---
+
+## 🎯 Key Strengths
+
+* Clean and scalable architecture
+* Pixel-perfect UI & smooth UX
+* Strong problem-solving mindset
+* Mobile-first product thinking
+* High-performance backend design
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+**Open to collaborations, freelance missions, and exciting tech opportunities.**
+
+[![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/hamza-ezzouek)
+[![Email](https://img.shields.io/badge/Email-Send%20a%20Message-EA4335?style=for-the-badge\&logo=gmail)](mailto:ezzouekhamza2411@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=gradient&customColorList=2,12,20,30" width="100%"/>
+<br/>
+✨ *Crafted with passion — Last updated: 2025* ✨
+</div>
+
 
 ---
 
@@ -79,12 +156,10 @@ const developer = {
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="40" height="40" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="40" height="40" /></a>
 <a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" alt="Angular" title="Angular" width="40" height="40" /></a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="Next.js" title="Next.js" width="40" height="40" /></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="40" height="40" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" title="Bootstrap" width="40" height="40" /></a>
 <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" alt="Material UI" title="Material UI" width="40" height="40" /></a>
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="40" height="40" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" alt="Sass" title="Sass" width="40" height="40" /></a>
 </p>
 
 ### ⚙️ Backend Development
@@ -94,7 +169,6 @@ const developer = {
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" alt="PHP" title="PHP" width="40" height="40" /></a>
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" alt="Laravel" title="Laravel" width="40" height="40" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="40" height="40" /></a>
-<a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spring-colored.svg" alt="Spring" title="Spring" width="40" height="40" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="40" height="40" /></a>
 </p>
 
@@ -112,7 +186,6 @@ const developer = {
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="40" height="40" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="40" height="40" /></a>
 <a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" alt="Oracle" title="Oracle" width="40" height="40" /></a>
-<a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redis-colored.svg" alt="Redis" title="Redis" width="40" height="40" /></a>
 </p>
 
 ### 🔧 DevOps & Tools
@@ -124,7 +197,6 @@ const developer = {
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="40" height="40" /></a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" title="Postman" width="40" height="40" /></a>
 <a href="https://vercel.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/vercel.svg" alt="Vercel" title="Vercel" width="40" height="40" /></a>
-<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="AWS" title="AWS" width="40" height="40" /></a>
 </p>
 
 ---
@@ -223,7 +295,7 @@ UI/UX Design           ███████████████████
 <a href="https://www.gitlab.com/HAMZAZAWAK17" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" width="40" height="40" alt="GitLab" title="GitLab" />
 </a>
-<a href="https://www.linkedin.com/in/hamza-ezzouek" target="_blank" rel="noreferrer">
+<a href="https://www.linkedin.com/in/hamza ezzouek" target="_blank" rel="noreferrer">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
