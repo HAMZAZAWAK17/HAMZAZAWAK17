@@ -28,31 +28,6 @@
 
 ---
 
-## 🚀 About Me
-
-<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-I am a **Full Stack & Mobile Developer** passionate about building scalable digital products with modern technologies. I focus on clean architectures, high performance, elegant UIs, and smooth user experiences.
-
-```ts
-const hamza = {
-  name: "Hamza Ez-zouek",
-  role: "Full Stack Developer & Mobile Engineer",
-  based_in: "Casablanca, Morocco 🇲🇦",
-  code: ["JavaScript", "TypeScript", "PHP", "Java"],
-  frontend: ["React", "Next.js", "TailwindCSS"],
-  backend: ["Node.js", "Laravel", "Express"],
-  mobile: ["React Native", "Ionic", "Android"],
-  database: ["MongoDB", "MySQL", "PostgreSQL"],
-  tools: ["Git", "Docker", "Figma", "Postman"],
-  passion: "Crafting innovative, maintainable solutions",
-  funFact: "🕷️ Secretly Spider-Man (don't tell anyone!)"
-};
-```
-
-<br clear="right"/>
-
----
 
 ## 🛠️ Technologies & Tools
 
@@ -73,7 +48,6 @@ const hamza = {
 <a href="https://getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="40" height="40" alt="Bootstrap" title="Bootstrap"/></a>
 <a href="https://mui.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="40" height="40" alt="Material UI" title="Material UI"/></a>
 <a href="https://vitejs.dev/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="40" height="40" alt="Vite" title="Vite"/></a>
-<a href="https://sass-lang.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="40" height="40" alt="Sass" title="Sass"/></a>
 </p>
 
 </td>
@@ -86,7 +60,6 @@ const hamza = {
 <a href="https://www.php.net/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="40" height="40" alt="PHP" title="PHP"/></a>
 <a href="https://laravel.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="40" height="40" alt="Laravel" title="Laravel"/></a>
 <a href="https://www.oracle.com/java/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="40" height="40" alt="Java" title="Java"/></a>
-<a href="https://spring.io/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spring-colored.svg" width="40" height="40" alt="Spring" title="Spring"/></a>
 <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40" height="40" alt="Python" title="Python"/></a>
 </p>
 
@@ -95,9 +68,6 @@ const hamza = {
 <a href="https://reactnative.dev/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="40" height="40" alt="React Native" title="React Native"/></a>
 <a href="https://flutter.dev/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="40" height="40" alt="Flutter" title="Flutter"/></a>
 <a href="https://developer.android.com/studio" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/android-logomark.svg" width="40" height="40" alt="Android Studio" title="Android Studio"/></a>
-<a href="https://ionicframework.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/ionic-icon.svg" width="40" height="40" alt="Ionic" title="Ionic"/></a>
-</p>
-
 </td>
 </tr>
 <tr>
@@ -109,7 +79,6 @@ const hamza = {
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="40" height="40" alt="PostgreSQL" title="PostgreSQL"/></a>
 <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="40" height="40" alt="MySQL" title="MySQL"/></a>
 <a href="https://www.oracle.com/database/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="40" height="40" alt="Oracle" title="Oracle"/></a>
-<a href="https://redis.io/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redis-colored.svg" width="40" height="40" alt="Redis" title="Redis"/></a>
 </p>
 
 </td>
