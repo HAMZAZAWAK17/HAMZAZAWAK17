@@ -12,18 +12,19 @@
 
 <!-- Status Badges -->
 [![Status](https://img.shields.io/badge/STATUS-Available%20For%20Opportunities-00ff00?style=for-the-badge&logo=checkmarx&logoColor=white)](https://linkedin.com/in/hamza-ezzouek)
-[![Focus](https://img.shields.io/badge/FOCUS-Building%20Scalable%20Solutions-00D9FF?style=for-the-badge&logo=target&logoColor=white)](https://github.com/HAMZAZAWAK17)
-[![Location](https://img.shields.io/badge/📍-Casablanca%2C%20Morocco-FF6B35?style=for-the-badge)](https://www.google.com/maps/place/Casablanca)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-View%20My%20Work-FF6B35?style=for-the-badge&logo=vercel&logoColor=white)](http://portfolio-last-version-nu.vercel.app/)
+[![Location](https://img.shields.io/badge/📍-Casablanca%2C%20Morocco-00D9FF?style=for-the-badge)](https://www.google.com/maps/place/Casablanca)
 
 <!-- Social Links -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hamza-ezzouek)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ezzouekhamza2411@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/zouakachev.1.7)
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/E1E21KXJ1F)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HAMZAZAWAK17)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/hamzaezzouek)
 
 <br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=HAMZAZAWAK17&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/HAMZAZAWAK17?logo=github&style=for-the-badge&color=facc15&labelColor=000000)
 
 </div>
 
@@ -31,27 +32,30 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" style="vertical-align: middle;"> About Me
 
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 ```typescript
 const developer = {
   name: "Hamza Ez-zouek",
   role: "Full Stack Developer & Mobile Architect",
   location: "Casablanca, Morocco 🇲🇦",
+  portfolio: "portfolio-last-version-nu.vercel.app",
+  
+  currentlyLearning: ["Java", "Spring Boot", "Advanced Algorithms"],
   
   expertise: {
-    frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
-    backend: ["Node.js", "Laravel", "Express", "Spring Boot"],
-    mobile: ["React Native", "Ionic", "Flutter", "Android"],
-    database: ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
-    devops: ["Docker", "Git", "CI/CD", "AWS"]
+    frontend: ["React", "Angular", "Next.js", "TypeScript"],
+    backend: ["Node.js", "Laravel", "Express", "Spring"],
+    mobile: ["React Native", "Flutter", "Android Studio"],
+    database: ["MongoDB", "PostgreSQL", "MySQL", "Oracle"],
+    tools: ["Docker", "Git", "VS Code", "Figma", "Postman"]
   },
-  
-  currentFocus: "Building performant, scalable applications",
   
   funFacts: {
     ☕: "4 cups of coffee per day",
     💻: "100K+ lines of code written",
     🎯: "15+ projects delivered",
-    🌟: "3+ years of experience"
+    🕷️: "I'm secretly Spider-Man (don't tell anyone!)"
   },
   
   philosophy: () => {
@@ -61,79 +65,95 @@ const developer = {
 };
 ```
 
+<br clear="right"/>
+
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" style="vertical-align: middle;"> Tech Stack
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" style="vertical-align: middle;"> Tech Stack & Skills
+
+### 🎨 Frontend Development
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="40" height="40" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="40" height="40" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="40" height="40" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="40" height="40" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="40" height="40" /></a>
+<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" alt="Angular" title="Angular" width="40" height="40" /></a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="Next.js" title="Next.js" width="40" height="40" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="40" height="40" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" title="Bootstrap" width="40" height="40" /></a>
+<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" alt="Material UI" title="Material UI" width="40" height="40" /></a>
+<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="40" height="40" /></a>
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" alt="Sass" title="Sass" width="40" height="40" /></a>
+</p>
+
+### ⚙️ Backend Development
+<p align="left">
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="40" height="40" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="40" height="40" /></a>
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" alt="PHP" title="PHP" width="40" height="40" /></a>
+<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" alt="Laravel" title="Laravel" width="40" height="40" /></a>
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="40" height="40" /></a>
+<a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spring-colored.svg" alt="Spring" title="Spring" width="40" height="40" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="40" height="40" /></a>
+</p>
+
+### 📱 Mobile Development
+<p align="left">
+<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React Native" title="React Native" width="40" height="40" /></a>
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" alt="Flutter" title="Flutter" width="40" height="40" /></a>
+<a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/android-logomark.svg" alt="Android Studio" title="Android Studio" width="40" height="40" /></a>
+<a href="https://ionicframework.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/ionic-icon.svg" alt="Ionic" title="Ionic" width="40" height="40" /></a>
+</p>
+
+### 🗄️ Database & Storage
+<p align="left">
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="40" height="40" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="40" height="40" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="40" height="40" /></a>
+<a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" alt="Oracle" title="Oracle" width="40" height="40" /></a>
+<a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redis-colored.svg" alt="Redis" title="Redis" width="40" height="40" /></a>
+</p>
+
+### 🔧 DevOps & Tools
+<p align="left">
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="40" height="40" /></a>
+<a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" alt="GitHub" title="GitHub" width="40" height="40" /></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="40" height="40" /></a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="40" height="40" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="40" height="40" /></a>
+<a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" title="Postman" width="40" height="40" /></a>
+<a href="https://vercel.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/vercel.svg" alt="Vercel" title="Vercel" width="40" height="40" /></a>
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="AWS" title="AWS" width="40" height="40" /></a>
+</p>
+
+---
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" style="vertical-align: middle;"> GitHub Statistics & Analytics
 
 <div align="center">
 
-### Frontend Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+<!-- Main Stats Cards -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=HAMZAZAWAK17&show_icons=true&count_private=true&title_color=ef4444&text_color=0891b2&icon_color=facc15&bg_color=0d1117&hide_border=true&border_radius=10&include_all_commits=true" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=HAMZAZAWAK17&stroke=0891b2&background=0d1117&ring=ef4444&fire=ef4444&currStreakNum=0891b2&currStreakLabel=ef4444&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true&border_radius=10" alt="GitHub Streak" />
 
-### Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+<!-- Languages & Activity -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAMZAZAWAK17&layout=compact&langs_count=10&title_color=ef4444&text_color=0891b2&icon_color=facc15&bg_color=0d1117&hide_border=true&border_radius=10&card_width=400" alt="Top Languages" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HAMZAZAWAK17&theme=radical&utcOffset=1" alt="Productive Time" />
 
-### Mobile Development
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+<!-- Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HAMZAZAWAK17&bg_color=0d1117&color=00D9FF&line=ef4444&point=facc15&area=true&hide_border=true&border_radius=10&custom_title=Contribution%20Activity%20Graph" alt="Contribution Graph" width="98%" />
 
-### Database & Storage
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### Cloud & Deployment
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+<!-- Profile Summary Cards -->
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HAMZAZAWAK17&theme=radical" alt="Repos Per Language" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HAMZAZAWAK17&theme=radical" alt="Most Commit Language" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HAMZAZAWAK17&theme=radical" alt="Stats" />
 
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" style="vertical-align: middle;"> GitHub Statistics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=HAMZAZAWAK17&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" alt="GitHub Stats"/>
-<img width="49%" src="https://streak-stats.demolab.com/?user=HAMZAZAWAK17&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=ffffff" alt="GitHub Streak"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAMZAZAWAK17&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&langs_count=8" alt="Top Languages"/>
-<img width="49%" src="https://github-contributor-stats.vercel.app/api?username=HAMZAZAWAK17&limit=5&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff" alt="Top Contributions"/>
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HAMZAZAWAK17&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" width="98%"/>
-</div>
-
----
-
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" style="vertical-align: middle;"> Achievements
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" style="vertical-align: middle;"> Achievements & Trophies
 
 <div align="center">
 
@@ -147,21 +167,9 @@ const developer = {
 
 <div align="center">
 
-| 🎯 Projects Delivered | 📱 Mobile Apps | ⭐ Client Satisfaction | 💻 Lines of Code |
-|:-------------------:|:-------------:|:--------------------:|:---------------:|
-| **15+** | **3+** | **100%** | **100K+** |
-
-</div>
-
----
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" style="vertical-align: middle;"> Core Principles
-
-<div align="center">
-
-| Clean Code | Performance | Security | Scalability | Innovation |
-|:----------:|:----------:|:--------:|:-----------:|:----------:|
-| ✨ Readable & Maintainable | ⚡ Fast & Efficient | 🔒 Protected & Safe | 📈 Growth-Ready | 💡 Future-Forward |
+| 🎯 Projects Delivered | 📱 Mobile Apps | ⭐ Client Satisfaction | 💻 Lines of Code | 🌟 Years Experience |
+|:-------------------:|:-------------:|:--------------------:|:---------------:|:------------------:|
+| **15+** | **3+** | **100%** | **100K+** | **3+** |
 
 </div>
 
@@ -202,26 +210,42 @@ UI/UX Design           ███████████████████
 
 ---
 
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://www.github.com/HAMZAZAWAK17" target="_blank" rel="noreferrer">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="40" alt="GitHub" title="GitHub" />
+</picture>
+</a>
+<a href="https://www.gitlab.com/HAMZAZAWAK17" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" width="40" height="40" alt="GitLab" title="GitLab" />
+</a>
+<a href="https://www.linkedin.com/in/hamza-ezzouek" target="_blank" rel="noreferrer">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" alt="LinkedIn" title="LinkedIn" />
+</picture>
+</a>
+<a href="mailto:ezzouekhamza2411@gmail.com" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gmail.svg" width="40" height="40" alt="Email" title="Email" />
+</a>
+</p>
+
+---
+
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30" style="vertical-align: middle;"> Support My Work
 
 <div align="center">
 
-If you find my projects valuable or want to support my open-source contributions:
+**If you find my projects valuable or want to support my open-source contributions:**
 
-[![Ko-fi](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support%20My%20Work-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/E1E21KXJ1F)
-
-</div>
-
----
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30" style="vertical-align: middle;"> Let's Connect!
-
-<div align="center">
-
-**Open to collaboration, freelance projects, and exciting opportunities!**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hamza-ezzouek)
-[![Email](https://img.shields.io/badge/Email-Get%20In%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ezzouekhamza2411@gmail.com)
+<a href="https://ko-fi.com/hamzaezzouek">
+<img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="200" alt="Buy Me a Coffee at ko-fi.com"/>
+</a>
 
 </div>
 
@@ -253,10 +277,7 @@ If you find my projects valuable or want to support my open-source contributions
 
 **⚡ Crafted with passion, precision, and countless cups of coffee ☕**
 
-![Followers](https://img.shields.io/github/followers/HAMZAZAWAK17?label=Followers&style=social)
-![Stars](https://img.shields.io/github/stars/HAMZAZAWAK17?affiliations=OWNER&style=social)
-
-*💚 Open Source Advocate | 🚀 Innovation Enthusiast | 💡 Problem Solver*
+*💚 Open Source Advocate | 🚀 Innovation Enthusiast | 💡 Problem Solver | 🕷️ Secretly Spider-Man*
 
 **Last Updated: November 2025 • Made with 💜**
 
