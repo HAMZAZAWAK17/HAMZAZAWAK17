@@ -132,42 +132,6 @@
 
 </div>
 
----
-
-## 🎯 Key Strengths & Impact Metrics
-
-<table align="center">
-<tr>
-<td align="center" width="20%">
-<img src="https://img.icons8.com/?size=64&id=xuvGCOXi8Wyg&format=png&color=00E5FF" width="50"/><br/>
-<strong>15+</strong><br/>
-<sub>Projects Delivered</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://img.icons8.com/?size=64&id=17949&format=png&color=00E5FF" width="50"/><br/>
-<strong>3+</strong><br/>
-<sub>Mobile Apps</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://img.icons8.com/?size=64&id=9730&format=png&color=00E5FF" width="50"/><br/>
-<strong>100%</strong><br/>
-<sub>Client Satisfaction</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://img.icons8.com/?size=64&id=46&format=png&color=00E5FF" width="50"/><br/>
-<strong>100K+</strong><br/>
-<sub>Lines of Code</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://img.icons8.com/?size=64&id=30888&format=png&color=00E5FF" width="50"/><br/>
-<strong>3+</strong><br/>
-<sub>Years Experience</sub>
-</td>
-</tr>
-</table>
-
----
-
 ## 💡 Core Values & Expertise
 
 * ✨ Clean and scalable architecture
@@ -187,7 +151,6 @@ Frontend Development    ██████████████████�
 Backend Engineering     ███████████████████░░   90%
 Mobile Development      ██████████████████░░░   85%
 Database Management     ██████████████████░░░   85%
-DevOps & Cloud          ████████████████░░░░░   80%
 UI/UX Design           ███████████████████░░   90%
 ```
 
