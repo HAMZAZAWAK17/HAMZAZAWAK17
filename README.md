@@ -1,9 +1,9 @@
 <div align="center">
 
-<!-- Ultra Clean Futuristic Hero Banner -->
-<img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=gradient&customColorList=2,12,20,30&text=HAMZA%20EZ-ZOUEK&fontColor=ffffff&fontSize=75&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Mobile%20Engineer%20%7C%20Tech%20Innovator&descSize=18&descAlignY=65&animation=fadeIn" width="100%"/>
+<!-- Bannière Personnalisée SVG -->
+<img src="https://raw.githubusercontent.com/HAMZAZAWAK17/HAMZAZAWAK17/main/banner.svg" width="100%" alt="Hamza Ez-Zouek Banner"/>
 
-<!-- New Typing Animation Minimalist -->
+<!-- Animation de Typing -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2600&pause=900&color=47F3FF&center=true&vCenter=true&width=900&lines=🚀+Delivering+High-Impact+Digital+Solutions;⚡+Fullstack+%2B+Mobile+Engineering+Excellence;🎯+Focused+on+Clean+Code+and+Performance" />
 
 <br/>
@@ -13,7 +13,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000)](http://portfolio-last-version-nu.vercel.app/)
 [![Location](https://img.shields.io/badge/Casablanca%2C%20Morocco-0099ff?style=for-the-badge&logo=google-maps&logoColor=white&labelColor=000000)]()
 
-<!-- Social Buttons Refined -->
+<!-- Social Buttons -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hamza-ezzouek)
 [![Email](https://img.shields.io/badge/Email-Write%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ezzouekhamza2411@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HAMZAZAWAK17)
@@ -27,7 +27,6 @@
 </div>
 
 ---
-
 
 ## 🛠️ Technologies & Tools
 
@@ -68,6 +67,8 @@
 <a href="https://reactnative.dev/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="40" height="40" alt="React Native" title="React Native"/></a>
 <a href="https://flutter.dev/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="40" height="40" alt="Flutter" title="Flutter"/></a>
 <a href="https://developer.android.com/studio" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/android-logomark.svg" width="40" height="40" alt="Android Studio" title="Android Studio"/></a>
+</p>
+
 </td>
 </tr>
 <tr>
@@ -132,6 +133,8 @@
 
 </div>
 
+---
+
 ## 💡 Core Values & Expertise
 
 * ✨ Clean and scalable architecture
@@ -145,7 +148,6 @@
 ---
 
 ## 📈 Skill Proficiency
-
 ```text
 Frontend Development    ████████████████████░   95%
 Backend Engineering     ███████████████████░░   90%
@@ -153,13 +155,6 @@ Mobile Development      ██████████████████�
 Database Management     ██████████████████░░░   85%
 UI/UX Design           ███████████████████░░   90%
 ```
-
----
-
-## 🔄 Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 ---
 
@@ -217,44 +212,21 @@ UI/UX Design           ███████████████████
 
 ### 💭 Quote of the Day
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it&author=Alan%20Kay)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 </div>
 
 ---
 
----
-
 <div align="center">
-
-### 🎵 Currently Vibing To
-
-[![Spotify](https://novatorem-jet-eight.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME)
-
-<!-- Alternative Spotify embed - choose one of the options below -->
-
-<!-- Option 1: Spotify Recently Played -->
-<!-- ![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_USER_ID&count=5) -->
-
-<!-- Option 2: Spotify Now Playing Card -->
-<!-- [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&redirect=true) -->
-
-<!-- Option 3: Simple Now Playing Badge -->
-<!-- ![Spotify](https://img.shields.io/badge/Spotify-Now%20Playing-1DB954?style=for-the-badge&logo=spotify&logoColor=white) -->
-
-<br><br>
 
 <!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=gradient&customColorList=2,12,20,30" width="100%"/>
 
 ✨ **Crafted with passion, precision, and countless cups of coffee ☕** ✨
 
-*💚 Open Source Advocate | 🚀 Innovation Enthusiast | 💡 Problem Solver | 🎵 Music Lover*
+*💚 Open Source Advocate | 🚀 Innovation Enthusiast | 💡 Problem Solver*
 
 **Last Updated: November 2025 • Made with 💜**
 
 </div>
-
-
-
-
