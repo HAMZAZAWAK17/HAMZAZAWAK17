@@ -35,7 +35,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> Tech Stack & Expertise
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32"> Tech Stack & Expertise
 
 <div align="center">
 
@@ -127,76 +127,86 @@
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 💡 Core Values & Expertise
 
-* ✨ Clean and scalable architecture
-* 🎨 Pixel-perfect UI & smooth UX
-* 🧠 Strong problem-solving mindset
-* 📱 Mobile-first product thinking
-* ⚡ High-performance backend design
-* 🔒 Security-first development
-* 📚 Continuous learning & innovation
+<div align="center">
+
+| 🎯 Focus Area | 💪 Strength |
+|:---:|:---:|
+| ✨ **Clean Architecture** | Scalable & Maintainable Code |
+| 🎨 **UI/UX Excellence** | Pixel-Perfect & Smooth Interfaces |
+| 🧠 **Problem Solving** | Analytical & Creative Solutions |
+| 📱 **Mobile-First** | Responsive & User-Centric Design |
+| ⚡ **Performance** | Optimized & Fast Applications |
+| 🔒 **Security** | Best Practices & Safe Code |
+| 📚 **Innovation** | Continuous Learning & Growth |
+
+</div>
 
 ---
 
 ## 📈 Skill Proficiency
+
+<div align="center">
+
 ```text
 Frontend Development    ████████████████████░   95%
 Backend Engineering     ███████████████████░░   90%
 Mobile Development      ██████████████████░░░   85%
 Database Management     ██████████████████░░░   85%
 UI/UX Design           ███████████████████░░   90%
+DevOps & Cloud         ████████████████░░░░░   80%
 ```
 
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-<a href="https://www.github.com/HAMZAZAWAK17" target="_blank" rel="noreferrer">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="40" alt="GitHub" title="GitHub" />
-</picture>
-</a>
-<a href="https://www.gitlab.com/HAMZAZAWAK17" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" width="40" height="40" alt="GitLab" title="GitLab" />
-</a>
-<a href="https://www.linkedin.com/in/hamza-ezzouek" target="_blank" rel="noreferrer">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" alt="LinkedIn" title="LinkedIn" />
-</picture>
-</a>
-<a href="mailto:ezzouekhamza2411@gmail.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gmail.svg" width="40" height="40" alt="Email" title="Email" />
-</a>
-</p>
-
-<div align="center">
-
-**Open to collaborations, freelance missions, and exciting tech opportunities.**
-
-[![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/hamza-ezzouek)
-[![Email](https://img.shields.io/badge/Email-Send%20a%20Message-EA4335?style=for-the-badge&logo=gmail)](mailto:ezzouekhamza2411@gmail.com)
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nextjs,tailwind,bootstrap,nodejs,express,php,laravel,java,python,flutter,mongodb,postgres,mysql,git,docker,figma,vscode,aws&perline=12" />
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/HAMZAZAWAK17">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://gitlab.com/HAMZAZAWAK17">
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
+</a>
+<a href="https://linkedin.com/in/hamza-ezzouek">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:ezzouekhamza2411@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="http://portfolio-last-version-nu.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+
+<br/><br/>
+
+**💼 Open to collaborations, freelance missions, and exciting tech opportunities! 🚀**
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## ☕ Support My Work
 
 <div align="center">
 
-**If you find my projects valuable or want to support my open-source contributions:**
+<p>💖 If you find my projects valuable or want to support my open-source contributions:</p>
 
 <a href="https://ko-fi.com/hamzaezzouek">
-<img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="200" alt="Buy Me a Coffee"/>
+  <img src="https://img.shields.io/badge/Ko--fi-Support%20Me-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi"/>
 </a>
+
+<br/><br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="200" alt="Coffee"/>
 
 </div>
 
@@ -206,7 +216,7 @@ UI/UX Design           ███████████████████
 
 ### 💭 Quote of the Day
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/>
 
 </div>
 
@@ -214,13 +224,27 @@ UI/UX Design           ███████████████████
 
 <div align="center">
 
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=gradient&customColorList=2,12,20,30" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=6,11,20" width="100%"/>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+<br/><br/>
 
 ✨ **Crafted with passion, precision, and countless cups of coffee ☕** ✨
 
+<br/>
+
 *💚 Open Source Advocate | 🚀 Innovation Enthusiast | 💡 Problem Solver*
 
-**Last Updated: November 2025 • Made with 💜**
+<br/>
+
+<img src="https://img.shields.io/badge/Last%20Updated-December%202025-00E5FF?style=for-the-badge" alt="Last Updated"/>
+<img src="https://img.shields.io/badge/Made%20with-💜-blueviolet?style=for-the-badge" alt="Made with Love"/>
+
+<br/><br/>
+
+**⭐ Star this profile if you found it inspiring! ⭐**
 
 </div>
