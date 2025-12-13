@@ -15,15 +15,6 @@
   <img src="https://img.shields.io/badge/💼-Open_To_Collaborate-blueviolet?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="Collaboration"/>
 </p>
 
-<!-- Social Connection Badges -->
-<p align="center">
-  <a href="https://linkedin.com/in/hamza-ezzouek"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:ezzouekhamza2411@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/HAMZAZAWAK17"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="http://portfolio-last-version-nu.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://ko-fi.com/hamzaezzouek"><img src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi"/></a>
-</p>
-
 <!-- Profile Stats -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=HAMZAZAWAK17&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
@@ -35,63 +26,82 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
+## 🌐 Connect With Me
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="140">
+      <a href="https://github.com/HAMZAZAWAK17">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="65" height="65" alt="GitHub"/>
+        <br><strong>GitHub</strong>
+      </a>
+    </td>
+    <td align="center" width="140">
+      <a href="https://gitlab.com/HAMZAZAWAK17">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="65" height="65" alt="GitLab"/>
+        <br><strong>GitLab</strong>
+      </a>
+    </td>
+    <td align="center" width="140">
+      <a href="https://linkedin.com/in/hamza-ezzouek">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="65" height="65" alt="LinkedIn"/>
+        <br><strong>LinkedIn</strong>
+      </a>
+    </td>
+    <td align="center" width="140">
+      <a href="mailto:ezzouekhamza2411@gmail.com">
+        <img src="https://img.icons8.com/fluency/96/gmail-new.png" width="65" height="65" alt="Gmail"/>
+        <br><strong>Email</strong>
+      </a>
+    </td>
+    <td align="center" width="140">
+      <a href="http://portfolio-last-version-nu.vercel.app/">
+        <img src="https://img.icons8.com/fluency/96/domain.png" width="65" height="65" alt="Portfolio"/>
+        <br><strong>Portfolio</strong>
+      </a>
+    </td>
+    <td align="center" width="140">
+      <a href="https://ko-fi.com/hamzaezzouek">
+        <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-ko-fi-a-free-and-supportive-way-to-fund-your-creative-work-logo-color-tal-revivo.png" width="65" height="65" alt="Ko-fi"/>
+        <br><strong>Ko-fi</strong>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+**💼 Open to collaborations, freelance missions, and exciting tech opportunities! 🚀**
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32"> Tech Stack & Expertise
 
 <div align="center">
 
 ### 🎨 Frontend Development
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="MUI"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
-</p>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nextjs,tailwind,bootstrap,materialui,vite,redux&perline=12" />
 
 ### ⚙️ Backend Development
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-</p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,java,spring,python,django,fastapi&perline=9" />
 
 ### 📱 Mobile Development
-<p align="center">
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
-</p>
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,firebase&perline=8" />
 
 ### 🗄️ Database & Storage
-<p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-</p>
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,firebase,supabase&perline=8" />
 
 ### 🔧 DevOps & Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-</p>
+
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,aws,vercel,vscode,figma,postman,linux&perline=10" />
 
 </div>
 
@@ -160,35 +170,17 @@ UI/UX Design           ███████████████████
 DevOps & Cloud         ████████████████░░░░░   80%
 ```
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nextjs,tailwind,bootstrap,nodejs,express,php,laravel,java,python,flutter,mongodb,postgres,mysql,git,docker,figma,vscode,aws&perline=12" />
-
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🌐 Connect With Me
+## 🚀 Featured Projects
 
 <div align="center">
 
-<a href="https://github.com/HAMZAZAWAK17">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<a href="https://github.com/HAMZAZAWAK17/WethearMap">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HAMZAZAWAK17&repo=WethearMap&theme=dark&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=FFFFFF&border_radius=10" />
 </a>
-<a href="https://gitlab.com/HAMZAZAWAK17">
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
-</a>
-<a href="https://linkedin.com/in/hamza-ezzouek">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:ezzouekhamza2411@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="http://portfolio-last-version-nu.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
-
-<br/><br/>
-
-**💼 Open to collaborations, freelance missions, and exciting tech opportunities! 🚀**
 
 </div>
 
