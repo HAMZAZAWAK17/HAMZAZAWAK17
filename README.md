@@ -62,12 +62,6 @@
         <br><strong>Portfolio</strong>
       </a>
     </td>
-    <td align="center" width="140">
-      <a href="https://ko-fi.com/hamzaezzouek">
-        <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-ko-fi-a-free-and-supportive-way-to-fund-your-creative-work-logo-color-tal-revivo.png" width="65" height="65" alt="Ko-fi"/>
-        <br><strong>Ko-fi</strong>
-      </a>
-    </td>
   </tr>
 </table>
 
