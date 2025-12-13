@@ -85,23 +85,23 @@
 
 ### 🎨 Frontend Development
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nextjs,tailwind,bootstrap,materialui,vite,redux&perline=12" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,materialui,vite&perline=9" />
 
 ### ⚙️ Backend Development
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,java,spring,python,django,fastapi&perline=9" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,java,spring&perline=6" />
 
 ### 📱 Mobile Development
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,firebase&perline=8" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio&perline=3" />
 
 ### 🗄️ Database & Storage
 
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,firebase,supabase&perline=8" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql&perline=3" />
 
 ### 🔧 DevOps & Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,aws,vercel,vscode,figma,postman,linux&perline=10" />
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,aws,vercel,vscode,figma,postman&perline=9" />
 
 </div>
 
