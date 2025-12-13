@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=6,11,20&text=Hamza%20Ez-Zouek&fontSize=70&fontAlign=50&fontAlignY=40&desc=Fullstack%20%7C%20Mobile%20Developer%20%7C%20Tech%20Innovator&descSize=20&descAlign=50&descAlignY=60&animation=twinkling" width="100%" alt="Header"/>
 
 <!-- Animated Typing Text -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=900&height=100&lines=🚀+Building+Next-Gen+Digital+Solutions;⚡+Fullstack+%2B+Mobile+Engineering+Expert;💡+Passionate+About+Innovation+%26+Performance;🎯+Transforming+Ideas+into+Reality" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=900&height=100&lines=Building+Next-Gen+Digital+Solutions;Fullstack+and+Mobile+Engineering+Expert;Passionate+About+Innovation+and+Performance;Transforming+Ideas+into+Reality" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -133,7 +133,15 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=HAMZAZAWAK17&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A" width="100%" alt="Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=HAMZAZAWAK17&theme=algolia&no-frame=false&no-bg=false&margin-w=15&margin-h=15&column=4" width="100%" alt="Trophies" />
+
+<br/><br/>
+
+<!-- Achievement Badges -->
+<img src="https://img.shields.io/badge/🏆-Open%20Source%20Contributor-gold?style=for-the-badge&labelColor=000000" alt="Contributor"/>
+<img src="https://img.shields.io/badge/⭐-Code%20Quality%20Advocate-blue?style=for-the-badge&labelColor=000000" alt="Quality"/>
+<img src="https://img.shields.io/badge/🚀-Innovation%20Leader-purple?style=for-the-badge&labelColor=000000" alt="Innovation"/>
+<img src="https://img.shields.io/badge/💻-Full%20Stack%20Expert-green?style=for-the-badge&labelColor=000000" alt="Expert"/>
 
 </div>
 
