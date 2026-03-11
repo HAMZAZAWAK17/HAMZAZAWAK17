@@ -4,11 +4,11 @@
 <!--                    DYNAMIC HEADER BANNER                       -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=320&color=0:0a0a0a,50:0d1b2a,100:0a0a0a&text=Hamza%20Ez-Zouek&fontSize=72&fontAlign=50&fontAlignY=38&fontColor=00E5FF&desc=Fullstack%20%7C%20Mobile%20Developer%20%7C%20Tech%20Innovator&descSize=21&descAlign=50&descAlignY=58&descColor=ffffff&stroke=00E5FF&strokeWidth=2&animation=fadeIn" width="100%" alt="Header"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0a0a0a,50:0d1b2a,100:0a0a0a&text=Hamza%20Ez-Zouek&fontSize=68&fontAlign=50&fontAlignY=38&fontColor=00E5FF&desc=Backend%20Engineer%20%7C%20Software%20Architect%20%7C%20DevOps%20Enthusiast&descSize=20&descAlign=50&descAlignY=58&descColor=ffffff&stroke=00E5FF&strokeWidth=2&animation=fadeIn" width="100%" alt="Header"/>
 
 <!-- ═══ ANIMATED TYPING ═══ -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=900&height=80&lines=%3E+Building+Next-Gen+Digital+Solutions+%F0%9F%9A%80;%3E+Fullstack+%26+Mobile+Engineering+Expert+%F0%9F%92%BB;%3E+Passionate+About+Innovation+%26+Performance+%E2%9A%A1;%3E+Transforming+Ideas+into+Reality+%E2%9C%A8" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=900&height=70&lines=%3E+Architecting+Scalable+Backend+Systems+%F0%9F%9A%80;%3E+Clean+Code+%26+Software+Architecture+%F0%9F%8F%97%EF%B8%8F;%3E+DevOps+%7C+Containers+%7C+CI%2FCD+%E2%9A%99%EF%B8%8F;%3E+Turning+Complex+Problems+into+Elegant+Solutions+%E2%9C%A8" alt="Typing SVG"/>
 </a>
 
 <br/>
@@ -44,52 +44,24 @@
 
 ## 👾 &nbsp; `$ whoami`
 
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="320" alt="Coding GIF"/>
+
 </div>
 
 ```typescript
-const hamza: Developer = {
+const hamza: BackendEngineer = {
   name:       "Hamza Ez-Zouek",
   location:   "Casablanca 🇲🇦",
-  role:       "Fullstack & Mobile Developer",
-  passions:   ["Clean Architecture", "UI/UX", "Performance", "Innovation"],
-  currentFocus: "Building scalable web & mobile applications",
-  funFact:    "I debug with coffee ☕ and ship with passion 🚀",
-  openTo:     ["Freelance", "Collaborations", "Exciting Opportunities"],
+  role:       "Backend Engineer & Software Architect",
+  passions:   ["Clean Architecture", "Scalable Systems", "DevOps", "Performance"],
+  currentFocus: "Building robust, cloud-native backend solutions",
+  philosophy: "Systems that scale, code that lasts, solutions that matter.",
+  funFact:    "I architect by day ☀️, debug by night 🌙, ship with precision 🚀",
+  openTo:     ["Backend Roles", "Architecture Consulting", "Open Source"],
 };
 ```
 
-<br/>
-
-<!-- ═══════════════════ DIVIDER ═══════════════════ -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     CONNECT WITH ME                            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## 🌐 &nbsp; `$ connect --with-me`
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-HAMZAZAWAK17-00E5FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/HAMZAZAWAK17)
-&nbsp;
-[![GitLab](https://img.shields.io/badge/GitLab-HAMZAZAWAK17-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=0d1117)](https://gitlab.com/HAMZAZAWAK17)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-hamza--ezzouek-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/hamza-ezzouek)
-
-<br/>
-
-[![Gmail](https://img.shields.io/badge/Gmail-ezzouekhamza2411@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:ezzouekhamza2411@gmail.com)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Work-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117)](http://portfolio-last-version-nu.vercel.app/)
-
-<br/><br/>
-
-> **💼 Open to collaborations, freelance missions, and exciting tech opportunities! 🚀**
-
-</div>
+<br clear="right"/>
 
 <!-- ═══════════════════ DIVIDER ═══════════════════ -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
@@ -104,33 +76,17 @@ const hamza: Developer = {
 
 <br/>
 
-<!-- ══════════ FRONTEND ══════════ -->
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,materialui,vite&theme=dark&perline=9" alt="Frontend" />
-
-<br/>
-<kbd>🎨 &nbsp; F R O N T E N D &nbsp; 🎨</kbd>
-<br/><br/>
-
 <!-- ══════════ BACKEND ══════════ -->
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,java,spring&theme=dark&perline=6" alt="Backend" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,python,nodejs,express,java,spring&theme=dark&perline=7" alt="Backend" />
 
 <br/>
 <kbd>⚙️ &nbsp; B A C K E N D &nbsp; ⚙️</kbd>
 <br/><br/>
 
-<!-- ══════════ MOBILE ══════════ -->
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio&theme=dark&perline=3" alt="Mobile" />
-
-<br/>
-<kbd>📱 &nbsp; M O B I L E &nbsp; 📱</kbd>
-<br/><br/>
-
 <!-- ══════════ DATABASES ══════════ -->
 
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql&theme=dark&perline=3" alt="Databases" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis&theme=dark&perline=4" alt="Databases" />
 
 <br/>
 <kbd>🗄️ &nbsp; D A T A B A S E S &nbsp; 🗄️</kbd>
@@ -138,10 +94,18 @@ const hamza: Developer = {
 
 <!-- ══════════ DEVOPS & TOOLS ══════════ -->
 
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,aws,vercel,vscode,figma,postman&theme=dark&perline=9" alt="DevOps & Tools" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,gitlab,linux,nginx,vercel,postman&theme=dark&perline=9" alt="DevOps & Tools" />
 
 <br/>
 <kbd>🔧 &nbsp; D E V O P S &nbsp; & &nbsp; T O O L S &nbsp; 🔧</kbd>
+<br/><br/>
+
+<!-- ══════════ FRONTEND (supporting) ══════════ -->
+
+<img src="https://skillicons.dev/icons?i=react,ts,tailwind,flutter&theme=dark&perline=4" alt="Frontend" />
+
+<br/>
+<kbd>🎨 &nbsp; F R O N T E N D &nbsp; ( S U P P O R T I N G ) &nbsp; 🎨</kbd>
 
 </div>
 
@@ -160,12 +124,12 @@ const hamza: Developer = {
 ╔══════════════════════════════════════════════════════════╗
 ║              ⚡  SKILL PROFICIENCY MATRIX  ⚡              ║
 ╠══════════════════════════════════════════════════════════╣
-║  Frontend Development  ████████████████████░  95%  🎨    ║
-║  Backend Engineering   ███████████████████░░  90%  ⚙️    ║
-║  Mobile Development    ██████████████████░░░  85%  📱    ║
-║  Database Management   ██████████████████░░░  85%  🗄️    ║
-║  UI/UX Design          ███████████████████░░  90%  🎯    ║
-║  DevOps & Cloud        ████████████████░░░░░  80%  ☁️    ║
+║  Backend Engineering   ████████████████████░  95%  ⚙️    ║
+║  Software Architecture ███████████████████░░  90%  🏗️    ║
+║  Database Management   ███████████████████░░  90%  🗄️    ║
+║  DevOps & Cloud        ██████████████████░░░  85%  ☁️    ║
+║  CI/CD & Automation    ██████████████████░░░  85%  🔄    ║
+║  Frontend Development  ████████████████░░░░░  80%  🎨    ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 
@@ -187,13 +151,13 @@ const hamza: Developer = {
 ```json
 {
   "values": {
-    "Clean Architecture":  "✨ Scalable & Maintainable Code",
-    "UI/UX Excellence":    "🎨 Pixel-Perfect & Smooth Interfaces",
-    "Problem Solving":     "🧠 Analytical & Creative Solutions",
-    "Mobile-First":        "📱 Responsive & User-Centric Design",
-    "Performance":         "⚡ Optimized & Fast Applications",
-    "Security":            "🔒 Best Practices & Safe Code",
-    "Innovation":          "📚 Continuous Learning & Growth"
+    "Clean Architecture":  "🏗️  Domain-Driven, Scalable & Maintainable Systems",
+    "Performance First":   "⚡  Optimized APIs & Low-Latency Infrastructure",
+    "Security":            "🔒  Secure by Design, Best Practices Always",
+    "DevOps Mindset":      "🔄  Automate Everything, Ship Confidently",
+    "Problem Solving":     "🧠  Analytical Thinking & Creative Solutions",
+    "Observability":       "📊  Monitoring, Logging & Resilient Systems",
+    "Continuous Learning": "📚  Staying Ahead in a Fast-Moving Ecosystem"
   }
 }
 ```
@@ -255,9 +219,9 @@ const hamza: Developer = {
 &nbsp;
 ![Quality](https://img.shields.io/badge/⭐_Code%20Quality-Advocate-00E5FF?style=for-the-badge&labelColor=0d1117)
 &nbsp;
-![Innovation](https://img.shields.io/badge/🚀_Innovation-Leader-7C3AED?style=for-the-badge&labelColor=0d1117)
+![Architecture](https://img.shields.io/badge/🏗️_Software-Architect-7C3AED?style=for-the-badge&labelColor=0d1117)
 &nbsp;
-![Expert](https://img.shields.io/badge/💻_Full%20Stack-Expert-22c55e?style=for-the-badge&labelColor=0d1117)
+![Backend](https://img.shields.io/badge/⚙️_Backend-Engineer-22c55e?style=for-the-badge&labelColor=0d1117)
 
 </div>
 
@@ -301,26 +265,30 @@ const hamza: Developer = {
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    SUPPORT MY WORK                              -->
+<!--                    CONNECT WITH ME                              -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## ☕ &nbsp; `$ sudo apt-get install coffee`
+## 🌐 &nbsp; `$ connect --with-me`
 
 <br/>
 
-💖 **If you find my projects valuable or want to support my open-source journey:**
+[![GitHub](https://img.shields.io/badge/GitHub-HAMZAZAWAK17-00E5FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/HAMZAZAWAK17)
+&nbsp;
+[![GitLab](https://img.shields.io/badge/GitLab-HAMZAZAWAK17-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=0d1117)](https://gitlab.com/HAMZAZAWAK17)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-hamza--ezzouek-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/hamza-ezzouek)
 
 <br/>
 
-<a href="https://ko-fi.com/hamzaezzouek">
-  <img src="https://img.shields.io/badge/Ko--fi-Buy_Me_A_Coffee-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white&labelColor=0d1117" alt="Ko-fi"/>
-</a>
+[![Gmail](https://img.shields.io/badge/Gmail-ezzouekhamza2411@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:ezzouekhamza2411@gmail.com)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Work-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117)](http://portfolio-last-version-nu.vercel.app/)
 
 <br/><br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="180" alt="Coffee"/>
+> **💼 Open to backend roles, architecture consulting, and exciting engineering challenges! 🚀**
 
 </div>
 
@@ -338,9 +306,9 @@ const hamza: Developer = {
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║   ✨  Crafted with passion, precision & countless ☕         ║
-║   💚  Open Source Advocate  |  🚀  Innovation Enthusiast    ║
-║   💡  Problem Solver        |  📍  Casablanca, Morocco      ║
+║   ✨  Crafted with precision, architecture & countless ☕    ║
+║   🏗️  Software Architect  |  ⚙️  Backend Engineering Lead  ║
+║   🔄  DevOps Mindset      |  📍  Casablanca, Morocco        ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
@@ -348,7 +316,7 @@ const hamza: Developer = {
 
 ![Last Updated](https://img.shields.io/badge/Last_Updated-March_2026-00E5FF?style=for-the-badge&labelColor=0d1117)
 &nbsp;
-![Made With](https://img.shields.io/badge/Made_with-💜_&_☕-7C3AED?style=for-the-badge&labelColor=0d1117)
+![Made With](https://img.shields.io/badge/Made_with-⚙️_&_☕-7C3AED?style=for-the-badge&labelColor=0d1117)
 &nbsp;
 ![Visitors](https://img.shields.io/badge/Thanks_for-Visiting!_⭐-22c55e?style=for-the-badge&labelColor=0d1117)
 
