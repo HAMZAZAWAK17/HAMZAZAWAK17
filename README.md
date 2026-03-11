@@ -100,12 +100,12 @@ const hamza: BackendEngineer = {
 <kbd>🔧 &nbsp; D E V O P S &nbsp; & &nbsp; T O O L S &nbsp; 🔧</kbd>
 <br/><br/>
 
-<!-- ══════════ FRONTEND (supporting) ══════════ -->
+<!-- ══════════ FRONTEND ══════════ -->
 
-<img src="https://skillicons.dev/icons?i=react,ts,tailwind,flutter&theme=dark&perline=4" alt="Frontend" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,materialui,vite&theme=dark&perline=9" alt="Frontend" />
 
 <br/>
-<kbd>🎨 &nbsp; F R O N T E N D &nbsp; ( S U P P O R T I N G ) &nbsp; 🎨</kbd>
+<kbd>🎨 &nbsp; F R O N T E N D &nbsp; 🎨</kbd>
 
 </div>
 
@@ -210,7 +210,7 @@ const hamza: BackendEngineer = {
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=HAMZAZAWAK17&theme=algolia&no-frame=false&no-bg=false&margin-w=12&margin-h=12&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B" width="100%" alt="Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=HAMZAZAWAK17&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" width="100%" alt="Trophies"/>
 
 <br/><br/>
 
