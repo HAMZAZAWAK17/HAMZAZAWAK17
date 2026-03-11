@@ -94,7 +94,7 @@ const hamza: BackendEngineer = {
 
 <!-- ══════════ MOBILE ══════════ -->
 
-<img src="https://skillicons.dev/icons?i=flutter,ionic,java,react&theme=dark&perline=7" alt="Mobile" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,kotlin,java,react,ionic&theme=dark&perline=7" alt="Mobile" />
 
 <br/>
 <kbd>📱 &nbsp; M O B I L E &nbsp; D E V E L O P M E N T &nbsp; 📱</kbd>
