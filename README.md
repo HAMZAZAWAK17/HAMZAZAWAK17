@@ -76,6 +76,14 @@ const hamza: BackendEngineer = {
 
 <br/>
 
+<!-- ══════════ FRONTEND ══════════ -->
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,materialui,vite&theme=dark&perline=9" alt="Frontend" />
+
+<br/>
+<kbd>🎨 &nbsp; F R O N T E N D &nbsp; 🎨</kbd>
+<br/><br/>
+
 <!-- ══════════ BACKEND ══════════ -->
 
 <img src="https://skillicons.dev/icons?i=cs,dotnet,python,nodejs,express,java,spring&theme=dark&perline=7" alt="Backend" />
@@ -86,7 +94,7 @@ const hamza: BackendEngineer = {
 
 <!-- ══════════ DATABASES ══════════ -->
 
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis&theme=dark&perline=4" alt="Databases" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,&theme=dark&perline=4" alt="Databases" />
 
 <br/>
 <kbd>🗄️ &nbsp; D A T A B A S E S &nbsp; 🗄️</kbd>
@@ -94,18 +102,12 @@ const hamza: BackendEngineer = {
 
 <!-- ══════════ DEVOPS & TOOLS ══════════ -->
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,gitlab,linux,nginx,vercel,postman&theme=dark&perline=9" alt="DevOps & Tools" />
+<img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,vercel,postman&theme=dark&perline=9" alt="DevOps & Tools" />
 
 <br/>
 <kbd>🔧 &nbsp; D E V O P S &nbsp; & &nbsp; T O O L S &nbsp; 🔧</kbd>
 <br/><br/>
 
-<!-- ══════════ FRONTEND ══════════ -->
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,materialui,vite&theme=dark&perline=9" alt="Frontend" />
-
-<br/>
-<kbd>🎨 &nbsp; F R O N T E N D &nbsp; 🎨</kbd>
 
 </div>
 
