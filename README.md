@@ -92,9 +92,17 @@ const hamza: BackendEngineer = {
 <kbd>⚙️ &nbsp; B A C K E N D &nbsp; ⚙️</kbd>
 <br/><br/>
 
+<!-- ══════════ MOBILE ══════════ -->
+
+<img src="https://skillicons.dev/icons?i=flutter,kotlin,java,react,ionic&theme=dark&perline=7" alt="Mobile" />
+
+<br/>
+<kbd>📱 &nbsp; M O B I L E &nbsp; D E V E L O P M E N T &nbsp; 📱</kbd>
+<br/><br/>
+
 <!-- ══════════ DATABASES ══════════ -->
 
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,&theme=dark&perline=4" alt="Databases" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql&theme=dark&perline=4" alt="Databases" />
 
 <br/>
 <kbd>🗄️ &nbsp; D A T A B A S E S &nbsp; 🗄️</kbd>
@@ -107,7 +115,6 @@ const hamza: BackendEngineer = {
 <br/>
 <kbd>🔧 &nbsp; D E V O P S &nbsp; & &nbsp; T O O L S &nbsp; 🔧</kbd>
 <br/><br/>
-
 
 </div>
 
